@@ -1,0 +1,1201 @@
+Gender,Age,AttendanceRate,GPA,Major,University,Institution_Type,Year,Graduation_Status
+2,24,90.75,3.47,0,"Stanford University, USA",0,2023,1
+1,22,74.9,2.32,2,"Stanford University, USA",0,2023,0
+2,22,53.36,2.38,1,"Harvard University, USA",1,2023,0
+2,24,70.26,3.46,4,"Stanford University, USA",0,2023,0
+2,18,74.87,2.31,2,"Harvard University, USA",0,2023,0
+1,20,86.01,2.47,1,"Stanford University, USA",0,2023,0
+2,19,55.33,3.93,0,"Harvard University, USA",0,2023,0
+2,18,57.0,2.51,2,"Stanford University, USA",0,2023,0
+2,19,63.18,3.32,1,"Stanford University, USA",1,2023,0
+1,24,63.32,3.96,3,"Harvard University, USA",0,2023,0
+2,23,86.61,2.75,3,"Stanford University, USA",1,2023,1
+2,19,62.54,2.04,4,"Harvard University, USA",0,2023,0
+2,20,81.65,2.49,1,"Harvard University, USA",0,2023,0
+2,23,74.71,3.66,3,"University of Oxford, UK",0,2023,0
+1,19,78.66,3.73,0,"Harvard University, USA",0,2023,1
+2,24,91.91,3.54,1,"Harvard University, USA",0,2023,1
+1,23,70.22,2.23,0,"University of Cambridge, UK",1,2023,0
+1,24,88.55,3.59,0,"University of Oxford, UK",1,2023,1
+1,19,71.1,3.84,3,"Harvard University, USA",0,2023,0
+2,24,67.69,3.2,1,"Harvard University, USA",0,2023,0
+1,20,97.93,3.88,2,"Harvard University, USA",0,2023,1
+2,19,59.22,3.65,3,"Stanford University, USA",1,2023,0
+1,19,54.52,3.33,3,"Stanford University, USA",0,2023,0
+1,19,88.55,3.15,1,"Harvard University, USA",0,2023,1
+1,18,53.41,2.7,1,"Stanford University, USA",1,2023,0
+1,18,91.85,2.32,0,"Harvard University, USA",0,2023,0
+1,18,71.86,3.21,1,"Stanford University, USA",0,2023,0
+1,20,95.78,2.64,0,"Stanford University, USA",0,2023,1
+1,23,86.08,3.73,3,"Stanford University, USA",0,2023,1
+1,24,80.52,3.99,4,"Stanford University, USA",0,2023,1
+2,22,97.47,3.5,2,"Harvard University, USA",0,2023,1
+2,19,69.83,2.18,3,"Stanford University, USA",0,2023,0
+1,24,97.7,2.58,1,"University of Oxford, UK",0,2023,1
+1,19,56.75,2.22,2,"Stanford University, USA",0,2023,0
+1,20,74.19,3.3,4,"Stanford University, USA",0,2023,0
+2,19,63.5,3.53,4,"Harvard University, USA",0,2023,0
+1,18,76.99,3.85,0,"Harvard University, USA",1,2023,1
+2,22,58.1,2.88,2,"Harvard University, USA",0,2023,0
+2,21,92.08,3.8,0,"Harvard University, USA",1,2023,1
+2,19,92.32,3.76,3,"Harvard University, USA",1,2023,1
+2,24,97.76,2.63,2,"Stanford University, USA",0,2023,1
+2,18,57.73,3.74,3,"University of Oxford, UK",0,2023,0
+1,21,81.17,2.75,0,"Harvard University, USA",0,2023,1
+1,22,73.71,2.59,2,"Harvard University, USA",0,2023,0
+1,21,67.22,3.3,0,"Harvard University, USA",0,2023,0
+1,18,67.58,2.66,2,"Harvard University, USA",0,2023,0
+1,23,70.64,3.26,0,"Stanford University, USA",0,2023,0
+2,23,85.25,3.22,4,"Harvard University, USA",0,2023,1
+1,21,79.91,3.13,0,"Harvard University, USA",0,2023,1
+1,20,72.98,2.76,4,"Harvard University, USA",0,2023,0
+2,24,53.8,3.1,0,"Stanford University, USA",1,2023,0
+1,24,53.89,3.19,2,"Stanford University, USA",0,2023,0
+2,21,50.12,3.09,2,"Harvard University, USA",0,2023,0
+1,19,98.38,2.89,2,"Harvard University, USA",1,2023,1
+2,19,50.26,2.03,1,"Stanford University, USA",0,2023,0
+1,24,55.15,3.17,3,"Stanford University, USA",0,2023,0
+1,24,65.73,2.34,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,23,90.37,3.29,4,"Harvard University, USA",0,2023,1
+2,20,98.1,3.52,2,"Stanford University, USA",0,2023,1
+2,18,89.5,3.0,1,"Stanford University, USA",1,2023,1
+2,19,84.53,3.08,4,"Harvard University, USA",0,2023,1
+2,24,76.07,3.9,1,"Harvard University, USA",1,2023,1
+2,23,54.34,3.69,4,"Stanford University, USA",0,2023,0
+2,22,97.91,3.83,0,"Harvard University, USA",0,2023,1
+2,23,87.92,3.63,3,"Harvard University, USA",0,2023,1
+1,19,81.95,2.22,3,"Harvard University, USA",1,2023,0
+1,19,87.95,2.3,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,23,86.21,3.05,3,"Harvard University, USA",1,2023,1
+1,18,81.86,2.49,1,"Stanford University, USA",1,2023,0
+1,21,99.03,2.95,1,"Harvard University, USA",0,2023,1
+1,19,95.17,2.79,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+1,23,82.33,3.1,3,"Harvard University, USA",1,2023,1
+2,24,84.66,3.49,1,"Harvard University, USA",1,2023,1
+1,23,52.58,3.43,3,"Stanford University, USA",0,2023,0
+2,20,83.5,3.04,1,"Harvard University, USA",0,2023,1
+1,21,52.21,3.64,2,"Harvard University, USA",0,2023,0
+1,22,79.41,2.86,1,"Stanford University, USA",0,2023,1
+1,18,99.97,3.79,4,"Stanford University, USA",1,2023,1
+2,22,77.79,2.14,1,"Harvard University, USA",0,2023,0
+1,21,73.66,3.91,0,"Stanford University, USA",0,2023,0
+2,21,65.64,3.31,1,"Harvard University, USA",0,2023,0
+1,21,56.03,2.76,4,"Stanford University, USA",0,2023,0
+2,22,86.55,2.39,4,"Harvard University, USA",0,2023,0
+1,24,59.63,2.96,3,"Harvard University, USA",1,2023,0
+2,21,55.76,2.39,2,"Stanford University, USA",0,2023,0
+2,23,71.09,2.33,1,"Harvard University, USA",0,2023,0
+1,22,89.77,3.23,3,"Harvard University, USA",0,2023,1
+2,21,87.25,3.05,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+1,23,52.74,3.34,1,"University of Oxford, UK",0,2023,0
+1,24,72.76,3.86,0,"Harvard University, USA",1,2023,0
+1,20,76.12,3.06,1,"Harvard University, USA",0,2023,1
+1,24,82.23,3.16,4,"Harvard University, USA",0,2023,1
+1,21,82.51,2.18,4,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,22,68.23,3.44,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,19,78.03,2.8,3,"Harvard University, USA",0,2023,1
+1,21,74.05,3.95,2,"California Institute of Technology (Caltech), USA",0,2023,0
+1,19,94.25,3.65,1,"Harvard University, USA",0,2023,1
+1,23,76.51,3.04,4,"Harvard University, USA",1,2023,1
+1,20,72.05,2.25,3,"Harvard University, USA",0,2023,0
+2,18,70.22,3.72,0,"University of Oxford, UK",1,2023,0
+2,24,78.62,3.6,4,"Harvard University, USA",0,2023,1
+1,20,90.2,2.37,0,"Harvard University, USA",0,2023,0
+1,21,76.92,2.59,1,"California Institute of Technology (Caltech), USA",0,2023,1
+1,19,83.08,3.59,2,"Imperial College London, UK",0,2023,1
+1,24,86.89,2.37,4,"University of Oxford, UK",0,2023,0
+1,19,76.01,3.84,4,"Harvard University, USA",1,2023,1
+1,22,71.34,2.85,1,"Harvard University, USA",0,2023,0
+1,19,93.83,2.17,3,"Stanford University, USA",0,2023,0
+1,22,70.88,3.63,2,"Stanford University, USA",0,2023,0
+2,23,73.1,2.75,4,"Harvard University, USA",0,2023,0
+1,24,99.52,3.05,2,"University of Oxford, UK",1,2023,1
+2,24,50.01,2.22,4,"Harvard University, USA",0,2023,0
+1,18,59.27,2.01,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+1,21,69.2,3.28,0,"University of Oxford, UK",0,2023,0
+2,22,96.63,3.03,4,"Harvard University, USA",0,2023,1
+1,18,53.5,3.19,2,"Harvard University, USA",0,2023,0
+2,19,50.47,3.59,3,"Stanford University, USA",1,2023,0
+1,19,52.63,3.29,0,"Stanford University, USA",0,2023,0
+1,18,54.43,2.35,0,"Stanford University, USA",1,2023,0
+2,24,51.88,2.72,3,"Stanford University, USA",0,2023,0
+1,19,73.99,3.81,2,"Stanford University, USA",0,2023,0
+2,23,79.04,3.54,1,"Harvard University, USA",0,2023,1
+1,23,63.58,3.11,3,"Stanford University, USA",0,2023,0
+2,18,69.91,2.51,2,"Stanford University, USA",0,2023,0
+2,22,54.58,2.6,3,"Harvard University, USA",0,2023,0
+1,22,66.82,3.46,3,"Harvard University, USA",0,2023,0
+1,18,76.13,3.7,4,"University of Oxford, UK",1,2023,1
+2,22,86.61,3.34,2,"Stanford University, USA",1,2023,1
+1,24,50.17,3.62,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+1,24,73.37,3.53,4,"Harvard University, USA",0,2023,0
+1,22,64.85,2.3,3,"Harvard University, USA",0,2023,0
+2,23,92.64,2.85,3,"Harvard University, USA",1,2023,1
+2,22,85.78,2.31,3,"Stanford University, USA",0,2023,0
+2,24,79.46,2.47,2,"Stanford University, USA",1,2023,0
+2,20,63.86,3.74,2,"Harvard University, USA",0,2023,0
+2,21,95.52,2.95,4,"Harvard University, USA",1,2023,1
+2,19,52.26,3.07,1,"Harvard University, USA",0,2023,0
+2,20,55.47,2.36,4,"University of Oxford, UK",0,2023,0
+2,22,69.58,2.62,0,"Stanford University, USA",0,2023,0
+2,23,56.22,2.46,3,"Harvard University, USA",0,2023,0
+1,18,97.82,2.41,3,"Stanford University, USA",0,2023,0
+2,22,89.9,3.28,3,"University of Cambridge, UK",0,2023,1
+1,23,62.95,2.51,4,"Harvard University, USA",0,2023,0
+1,21,79.43,3.26,4,"University of Oxford, UK",0,2023,1
+1,22,99.12,2.12,3,"Harvard University, USA",1,2023,0
+2,24,94.21,2.28,4,"Harvard University, USA",0,2023,0
+2,18,80.04,2.55,2,"Stanford University, USA",0,2023,1
+2,23,95.19,3.19,2,"Stanford University, USA",0,2023,1
+2,23,99.46,3.35,4,"Harvard University, USA",0,2023,1
+1,23,87.17,2.89,3,"Stanford University, USA",1,2023,1
+2,21,53.25,2.89,4,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,22,70.08,3.45,4,"Harvard University, USA",1,2023,0
+2,21,91.89,2.03,4,"Stanford University, USA",0,2023,0
+2,19,61.53,2.68,0,"Harvard University, USA",0,2023,0
+2,19,91.53,3.64,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+1,22,56.02,3.21,1,"Harvard University, USA",1,2023,0
+2,24,52.35,2.67,1,"Harvard University, USA",0,2023,0
+1,21,69.2,3.81,0,"Stanford University, USA",1,2023,0
+2,18,51.84,3.55,4,"Harvard University, USA",0,2023,0
+1,23,97.86,2.53,0,"Harvard University, USA",0,2023,1
+2,23,91.31,3.29,0,"Stanford University, USA",0,2023,1
+2,22,90.04,3.19,3,"Stanford University, USA",0,2023,1
+1,24,81.49,2.8,2,"Harvard University, USA",1,2023,1
+1,19,60.82,2.73,1,"Stanford University, USA",1,2023,0
+1,19,75.91,2.69,4,"Harvard University, USA",1,2023,1
+2,23,79.86,3.23,1,"Stanford University, USA",0,2023,1
+1,22,76.25,2.88,1,"Harvard University, USA",1,2023,1
+2,21,63.01,3.66,2,"Harvard University, USA",1,2023,0
+2,19,75.76,3.34,1,"Stanford University, USA",0,2023,1
+1,21,74.56,2.14,1,"Harvard University, USA",1,2023,0
+1,24,99.82,3.28,0,"Harvard University, USA",0,2023,1
+2,19,94.87,2.54,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+2,19,73.17,3.19,3,"University of Oxford, UK",0,2023,0
+1,20,81.15,3.36,4,"Harvard University, USA",0,2023,1
+1,19,87.39,2.46,1,"Harvard University, USA",1,2023,0
+1,18,51.74,2.91,4,"Harvard University, USA",0,2023,0
+2,22,94.75,2.38,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,22,93.01,2.1,4,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,21,72.87,2.76,3,"Harvard University, USA",0,2023,0
+2,24,69.56,2.73,0,"California Institute of Technology (Caltech), USA",0,2023,0
+2,19,63.65,3.99,1,"Harvard University, USA",1,2023,0
+2,18,73.83,2.89,3,"Harvard University, USA",0,2023,0
+1,21,52.22,2.67,4,"Harvard University, USA",0,2023,0
+2,20,92.61,3.16,1,"University of Oxford, UK",0,2023,1
+2,21,51.77,2.18,0,"Harvard University, USA",0,2023,0
+2,21,66.45,3.92,1,"Harvard University, USA",0,2023,0
+1,19,96.58,3.27,3,"California Institute of Technology (Caltech), USA",0,2023,1
+2,20,86.76,3.51,0,"Imperial College London, UK",1,2023,1
+2,21,64.07,2.34,4,"University of Oxford, UK",0,2023,0
+1,18,62.63,2.82,0,"Harvard University, USA",0,2023,0
+2,18,50.25,2.85,0,"Harvard University, USA",0,2023,0
+2,22,84.79,3.64,2,"Stanford University, USA",0,2023,1
+2,20,52.44,2.0,0,"Stanford University, USA",0,2023,0
+2,20,76.63,2.6,0,"Harvard University, USA",1,2023,1
+2,22,98.11,3.96,1,"University of Oxford, UK",1,2023,1
+1,21,55.47,2.95,4,"Harvard University, USA",0,2023,0
+1,20,94.72,2.77,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+1,18,99.57,2.24,1,"University of Oxford, UK",0,2023,0
+2,18,53.08,3.95,3,"Harvard University, USA",0,2023,0
+2,19,94.15,2.04,1,"Harvard University, USA",1,2023,0
+2,20,75.8,3.47,2,"Stanford University, USA",1,2023,1
+1,21,95.33,3.54,2,"Stanford University, USA",0,2023,1
+2,22,78.57,2.49,3,"Stanford University, USA",0,2023,0
+2,22,83.11,3.34,4,"Stanford University, USA",0,2023,1
+1,21,77.19,2.19,4,"Stanford University, USA",0,2023,0
+2,24,93.22,2.51,1,"Harvard University, USA",1,2023,1
+1,23,86.7,3.58,1,"Stanford University, USA",0,2023,1
+1,19,76.06,3.73,1,"Stanford University, USA",0,2023,1
+1,22,93.41,3.22,4,"Harvard University, USA",1,2023,1
+2,20,62.26,3.01,0,"Harvard University, USA",0,2023,0
+2,19,57.87,2.32,2,"University of Oxford, UK",1,2023,0
+2,20,58.02,2.13,0,"Stanford University, USA",1,2023,0
+2,24,66.7,2.24,0,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,18,61.93,2.45,4,"Harvard University, USA",0,2023,0
+2,19,96.5,2.68,0,"Harvard University, USA",1,2023,1
+2,22,55.29,2.76,3,"Harvard University, USA",1,2023,0
+1,19,84.95,2.69,1,"Stanford University, USA",0,2023,1
+2,19,59.46,2.48,3,"Stanford University, USA",0,2023,0
+1,19,94.08,3.02,2,"Harvard University, USA",0,2023,1
+2,23,98.07,3.65,1,"Harvard University, USA",1,2023,1
+2,19,73.27,2.56,0,"Harvard University, USA",0,2023,0
+2,20,93.95,3.88,2,"University of Oxford, UK",0,2023,1
+1,18,50.26,3.75,1,"Stanford University, USA",0,2023,0
+1,24,91.0,2.32,0,"Harvard University, USA",0,2023,0
+1,21,61.43,3.57,3,"Stanford University, USA",0,2023,0
+1,19,95.44,3.15,1,"University of Cambridge, UK",0,2023,1
+2,22,50.06,3.13,0,"Harvard University, USA",0,2023,0
+1,19,77.81,2.78,3,"Harvard University, USA",0,2023,1
+2,22,87.83,3.0,2,"Stanford University, USA",0,2023,1
+2,20,62.93,2.79,2,"Harvard University, USA",0,2023,0
+1,22,59.66,3.08,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,21,54.2,3.26,2,"Harvard University, USA",0,2023,0
+1,18,66.32,3.35,4,"Harvard University, USA",0,2023,0
+1,22,77.99,3.06,1,"Stanford University, USA",1,2023,1
+1,22,55.79,3.44,1,"Harvard University, USA",0,2023,0
+1,18,68.83,2.28,4,"Harvard University, USA",0,2023,0
+1,21,50.45,2.42,0,"Stanford University, USA",0,2023,0
+1,19,90.93,3.64,0,"Stanford University, USA",1,2023,1
+2,22,56.42,2.65,2,"Harvard University, USA",0,2023,0
+1,18,64.17,2.05,3,"Stanford University, USA",0,2023,0
+1,20,50.92,2.31,0,"Harvard University, USA",1,2023,0
+2,18,71.61,2.45,3,"Stanford University, USA",0,2023,0
+1,20,92.01,3.91,1,"Harvard University, USA",1,2023,1
+2,21,69.61,3.15,3,"Harvard University, USA",0,2023,0
+2,19,58.97,3.87,1,"Stanford University, USA",0,2023,0
+1,18,87.68,3.15,4,"Harvard University, USA",0,2023,1
+2,24,89.44,2.96,4,"Harvard University, USA",0,2023,1
+2,24,58.69,2.63,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,23,88.54,3.21,0,"University of Oxford, UK",0,2023,1
+2,22,97.36,2.28,2,"Harvard University, USA",1,2023,0
+1,21,58.32,3.8,1,"Harvard University, USA",0,2023,0
+2,18,88.55,3.66,2,"Harvard University, USA",0,2023,1
+1,24,85.43,2.64,3,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+2,22,73.68,3.91,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,24,52.9,3.65,4,"Harvard University, USA",0,2023,0
+2,18,53.73,3.33,0,"California Institute of Technology (Caltech), USA",0,2023,0
+2,20,92.62,2.24,1,"Harvard University, USA",1,2023,0
+1,18,99.51,2.96,1,"Harvard University, USA",0,2023,1
+1,23,83.8,3.01,3,"Harvard University, USA",0,2023,1
+2,18,72.3,2.47,0,"University of Oxford, UK",1,2023,0
+2,18,82.38,2.16,4,"Harvard University, USA",0,2023,0
+1,23,79.72,3.55,1,"Harvard University, USA",0,2023,1
+2,21,69.18,2.24,1,"California Institute of Technology (Caltech), USA",0,2023,0
+2,18,53.28,3.19,3,"Imperial College London, UK",0,2023,0
+2,23,91.08,3.87,2,"University of Oxford, UK",1,2023,1
+1,22,68.59,3.75,4,"Harvard University, USA",0,2023,0
+1,20,90.94,2.56,0,"Harvard University, USA",1,2023,1
+1,20,62.63,3.7,1,"Stanford University, USA",1,2023,0
+2,18,50.05,2.0,1,"Stanford University, USA",0,2023,0
+2,21,57.95,2.04,4,"Harvard University, USA",0,2023,0
+1,21,73.43,3.21,2,"University of Oxford, UK",0,2023,0
+1,22,97.22,2.73,1,"Harvard University, USA",0,2023,1
+1,18,55.11,2.77,4,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+1,20,92.71,3.13,3,"University of Oxford, UK",0,2023,1
+2,21,76.35,2.38,2,"Harvard University, USA",0,2023,0
+1,18,91.3,2.42,0,"Harvard University, USA",0,2023,0
+2,24,64.92,2.97,1,"Stanford University, USA",0,2023,0
+1,21,92.0,3.51,4,"Stanford University, USA",1,2023,1
+2,23,88.64,3.24,3,"Stanford University, USA",0,2023,1
+1,24,61.5,2.59,0,"Stanford University, USA",0,2023,0
+1,21,56.57,2.86,4,"Stanford University, USA",1,2023,0
+1,20,93.4,2.34,4,"Harvard University, USA",1,2023,0
+1,19,98.16,2.15,0,"Stanford University, USA",0,2023,0
+2,24,51.57,3.57,3,"Stanford University, USA",0,2023,0
+1,22,86.56,2.53,3,"Harvard University, USA",0,2023,1
+2,22,95.48,2.36,2,"Harvard University, USA",1,2023,0
+2,20,92.87,3.38,1,"University of Oxford, UK",0,2023,1
+2,21,98.23,3.24,0,"Stanford University, USA",0,2023,1
+2,18,88.0,3.27,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+1,21,72.11,2.46,0,"Harvard University, USA",0,2023,0
+2,20,65.6,2.47,3,"Harvard University, USA",0,2023,0
+2,22,66.04,2.44,1,"Harvard University, USA",0,2023,0
+2,21,86.22,2.35,2,"Stanford University, USA",0,2023,0
+1,22,87.29,3.31,4,"Stanford University, USA",1,2023,1
+1,24,60.02,3.7,4,"Harvard University, USA",1,2023,0
+1,18,93.41,3.45,0,"Harvard University, USA",0,2023,1
+1,24,85.75,3.58,1,"Harvard University, USA",0,2023,1
+2,22,78.14,2.81,3,"University of Oxford, UK",1,2023,1
+2,22,73.58,3.31,1,"Stanford University, USA",0,2023,0
+1,19,77.16,2.71,1,"Harvard University, USA",0,2023,1
+2,19,57.96,3.05,3,"Stanford University, USA",0,2023,0
+2,24,60.19,2.96,0,"University of Cambridge, UK",0,2023,0
+2,23,54.56,2.35,1,"Harvard University, USA",0,2023,0
+1,24,57.68,2.77,4,"Stanford University, USA",0,2023,0
+1,19,72.68,3.93,3,"Harvard University, USA",1,2023,0
+2,22,76.52,2.5,2,"Stanford University, USA",0,2023,1
+1,20,50.89,2.27,0,"Harvard University, USA",1,2023,0
+1,24,89.84,2.84,3,"Harvard University, USA",0,2023,1
+1,22,64.71,3.58,2,"Stanford University, USA",0,2023,0
+1,20,95.59,3.16,2,"Harvard University, USA",1,2023,1
+1,20,98.38,3.36,1,"Harvard University, USA",0,2023,1
+2,19,59.27,2.38,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,24,73.1,3.24,1,"University of Oxford, UK",0,2023,0
+2,21,50.06,2.65,3,"Harvard University, USA",0,2023,0
+2,18,79.92,3.67,3,"Harvard University, USA",0,2023,1
+1,19,80.37,3.26,0,"Harvard University, USA",0,2023,1
+2,19,62.38,2.4,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,21,77.92,2.13,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,18,61.28,2.09,4,"Harvard University, USA",0,2023,0
+1,22,58.04,2.74,0,"California Institute of Technology (Caltech), USA",0,2023,0
+1,23,82.58,2.53,3,"Harvard University, USA",0,2023,1
+2,24,66.3,3.29,0,"Harvard University, USA",0,2023,0
+1,23,79.51,3.0,0,"Harvard University, USA",0,2023,1
+1,22,71.66,2.53,0,"University of Oxford, UK",0,2023,0
+1,19,99.22,2.3,0,"Harvard University, USA",0,2023,0
+1,18,57.48,2.25,4,"Harvard University, USA",1,2023,0
+2,19,73.23,3.73,1,"California Institute of Technology (Caltech), USA",0,2023,0
+2,20,84.02,2.49,2,"Imperial College London, UK",1,2023,0
+1,19,69.78,3.3,0,"University of Oxford, UK",0,2023,0
+1,19,98.73,3.62,0,"Harvard University, USA",1,2023,1
+2,22,86.09,3.23,0,"Harvard University, USA",0,2023,1
+2,22,82.85,3.72,1,"Stanford University, USA",1,2023,1
+1,22,87.85,2.78,3,"Stanford University, USA",0,2023,1
+2,23,97.63,3.91,3,"Harvard University, USA",0,2023,1
+1,20,95.39,2.27,4,"University of Oxford, UK",0,2023,0
+1,22,86.21,2.2,3,"Harvard University, USA",0,2023,0
+2,18,87.46,3.32,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,23,57.3,3.89,0,"University of Oxford, UK",1,2023,0
+1,21,55.14,3.62,0,"Harvard University, USA",0,2023,0
+1,18,78.55,2.15,4,"Harvard University, USA",1,2023,0
+2,24,50.92,2.56,0,"Stanford University, USA",0,2023,0
+1,24,74.12,3.86,3,"Stanford University, USA",1,2023,0
+2,18,60.52,2.51,1,"Stanford University, USA",0,2023,0
+1,22,67.3,3.56,1,"Stanford University, USA",1,2023,0
+2,21,88.79,3.65,2,"Stanford University, USA",0,2023,1
+2,21,97.06,2.99,3,"Harvard University, USA",0,2023,1
+2,23,53.62,2.77,0,"Stanford University, USA",1,2023,0
+1,21,76.71,2.9,1,"Stanford University, USA",0,2023,1
+1,24,94.13,2.45,3,"Harvard University, USA",0,2023,0
+2,20,54.13,3.78,1,"Harvard University, USA",0,2023,0
+1,22,91.23,2.9,0,"University of Oxford, UK",0,2023,1
+2,21,67.89,3.76,1,"Stanford University, USA",1,2023,0
+2,23,66.1,2.21,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,24,98.87,3.98,2,"Harvard University, USA",0,2023,1
+1,20,60.04,2.89,1,"Harvard University, USA",0,2023,0
+2,19,84.66,2.1,3,"Harvard University, USA",1,2023,0
+1,19,91.07,2.08,3,"Stanford University, USA",1,2023,0
+1,20,52.06,3.49,3,"Stanford University, USA",0,2023,0
+2,24,83.52,3.32,1,"Harvard University, USA",0,2023,1
+2,23,97.58,3.6,3,"Harvard University, USA",0,2023,1
+1,20,56.21,2.21,0,"Harvard University, USA",0,2023,0
+2,22,94.81,2.07,2,"University of Oxford, UK",0,2023,0
+2,22,79.74,3.02,0,"Stanford University, USA",0,2023,1
+1,19,80.83,2.78,3,"Harvard University, USA",0,2023,1
+2,21,80.65,2.92,0,"Stanford University, USA",0,2023,1
+2,23,64.94,3.98,3,"University of Cambridge, UK",0,2023,0
+1,19,96.76,3.94,1,"Harvard University, USA",1,2023,1
+1,21,97.37,3.88,0,"Harvard University, USA",0,2023,1
+2,21,81.27,3.57,1,"Stanford University, USA",1,2023,1
+2,22,89.17,2.71,1,"Harvard University, USA",0,2023,1
+1,24,80.61,2.82,4,"Stanford University, USA",1,2023,1
+1,18,74.22,3.1,3,"Harvard University, USA",0,2023,0
+1,24,83.04,3.66,2,"Stanford University, USA",1,2023,1
+1,18,77.65,2.14,3,"Harvard University, USA",0,2023,0
+2,20,79.87,2.85,2,"Harvard University, USA",1,2023,1
+1,22,89.19,2.17,3,"Stanford University, USA",1,2023,0
+1,21,74.05,3.03,1,"Harvard University, USA",0,2023,0
+2,23,52.04,3.8,0,"Harvard University, USA",1,2023,0
+1,18,58.2,3.56,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,24,71.93,2.46,4,"University of Oxford, UK",1,2023,0
+1,21,86.24,3.95,2,"Harvard University, USA",0,2023,1
+1,18,79.66,3.33,2,"Harvard University, USA",1,2023,1
+1,18,82.51,2.02,2,"Harvard University, USA",0,2023,0
+2,18,73.96,2.51,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,23,80.79,2.52,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+1,22,66.45,2.14,0,"Harvard University, USA",1,2023,0
+2,23,73.51,3.92,1,"California Institute of Technology (Caltech), USA",0,2023,0
+2,19,87.21,2.96,3,"Harvard University, USA",0,2023,1
+2,21,93.59,3.79,2,"Harvard University, USA",0,2023,1
+2,22,71.68,2.64,2,"Harvard University, USA",1,2023,0
+2,22,52.18,2.25,3,"University of Oxford, UK",0,2023,0
+2,22,58.08,2.95,2,"Harvard University, USA",0,2023,0
+1,24,51.04,2.23,3,"Harvard University, USA",0,2023,0
+1,22,82.66,2.97,1,"California Institute of Technology (Caltech), USA",1,2023,1
+2,23,66.62,3.84,0,"Imperial College London, UK",0,2023,0
+1,22,77.12,3.04,3,"University of Oxford, UK",1,2023,1
+1,20,74.66,3.23,4,"Harvard University, USA",0,2023,0
+1,21,54.08,2.31,3,"Harvard University, USA",0,2023,0
+1,22,70.16,2.09,2,"Stanford University, USA",0,2023,0
+2,21,61.03,2.22,1,"Stanford University, USA",1,2023,0
+1,20,70.92,3.2,1,"Harvard University, USA",1,2023,0
+1,20,60.18,2.19,3,"University of Oxford, UK",1,2023,0
+2,21,92.02,2.75,0,"Harvard University, USA",1,2023,1
+2,18,58.71,3.1,4,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+1,19,98.04,2.78,1,"University of Oxford, UK",0,2023,1
+1,24,70.8,2.33,2,"Harvard University, USA",1,2023,0
+1,18,92.31,2.55,2,"Harvard University, USA",0,2023,1
+1,18,81.44,3.86,0,"Stanford University, USA",0,2023,1
+1,23,86.77,3.35,1,"Stanford University, USA",0,2023,1
+1,24,88.39,2.99,3,"Stanford University, USA",1,2023,1
+2,24,75.24,2.03,2,"Stanford University, USA",0,2023,0
+1,18,77.17,3.98,0,"Stanford University, USA",0,2023,1
+1,22,75.7,3.34,1,"Harvard University, USA",0,2023,1
+2,23,79.4,2.63,1,"Stanford University, USA",0,2023,1
+2,23,51.47,3.76,1,"Stanford University, USA",0,2023,0
+2,20,69.78,2.52,1,"Harvard University, USA",1,2023,0
+2,24,80.31,3.09,1,"Harvard University, USA",1,2023,1
+1,18,79.89,3.27,2,"University of Oxford, UK",0,2023,1
+1,20,89.65,2.44,0,"Stanford University, USA",1,2023,0
+1,21,82.75,3.96,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+1,19,99.61,3.5,4,"Harvard University, USA",0,2023,1
+1,23,64.19,3.12,4,"Harvard University, USA",0,2023,0
+1,21,67.96,2.36,0,"Harvard University, USA",0,2023,0
+2,21,69.19,2.11,3,"Stanford University, USA",1,2023,0
+1,22,73.29,2.64,3,"Stanford University, USA",0,2023,0
+2,19,91.8,3.51,3,"Harvard University, USA",1,2023,1
+2,21,61.79,2.54,4,"Harvard University, USA",0,2023,0
+1,21,88.8,3.08,3,"Harvard University, USA",0,2023,1
+2,19,70.27,3.46,2,"University of Oxford, UK",0,2023,0
+1,19,80.09,2.22,1,"Stanford University, USA",0,2023,0
+2,21,81.63,3.37,4,"Harvard University, USA",1,2023,1
+1,19,68.64,2.18,0,"Stanford University, USA",1,2023,0
+2,21,75.63,3.93,0,"University of Cambridge, UK",0,2023,1
+1,21,70.65,2.98,1,"Harvard University, USA",1,2023,0
+1,22,53.46,2.3,4,"Harvard University, USA",0,2023,0
+1,18,71.86,2.68,3,"Stanford University, USA",0,2023,0
+1,21,54.87,2.83,3,"Harvard University, USA",1,2023,0
+1,20,70.25,3.52,2,"Stanford University, USA",0,2023,0
+2,23,79.65,3.49,2,"Harvard University, USA",0,2023,1
+2,24,78.97,3.22,3,"Stanford University, USA",0,2023,1
+2,18,83.13,2.21,0,"Harvard University, USA",0,2023,0
+1,18,54.76,2.3,0,"Harvard University, USA",0,2023,0
+2,18,82.61,2.19,2,"Stanford University, USA",1,2023,0
+1,22,65.61,3.15,1,"Harvard University, USA",0,2023,0
+1,21,69.95,3.75,3,"Harvard University, USA",0,2023,0
+2,22,92.9,2.87,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+2,21,50.45,2.32,2,"University of Oxford, UK",1,2023,0
+1,22,79.42,3.12,3,"Harvard University, USA",0,2023,1
+2,22,79.94,3.62,3,"Harvard University, USA",0,2023,1
+1,23,69.83,3.48,0,"Harvard University, USA",0,2023,0
+1,20,61.85,3.76,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,22,61.73,2.56,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,23,94.19,2.39,3,"Harvard University, USA",1,2023,0
+1,19,72.1,3.76,4,"California Institute of Technology (Caltech), USA",0,2023,0
+2,20,66.54,3.32,2,"Harvard University, USA",1,2023,0
+2,22,72.44,2.62,2,"Harvard University, USA",1,2023,0
+1,24,83.47,3.48,3,"Harvard University, USA",0,2023,1
+1,18,57.29,3.63,4,"University of Oxford, UK",0,2023,0
+2,19,72.47,3.23,0,"Harvard University, USA",1,2023,0
+2,19,79.39,3.38,3,"Harvard University, USA",0,2023,1
+1,23,97.43,2.75,3,"California Institute of Technology (Caltech), USA",0,2023,1
+2,19,62.63,3.08,2,"Imperial College London, UK",0,2023,0
+1,20,67.96,3.05,3,"University of Oxford, UK",0,2023,0
+2,22,68.97,3.7,3,"Harvard University, USA",0,2023,0
+1,22,80.28,3.68,3,"Harvard University, USA",0,2023,1
+2,24,67.84,3.67,2,"Stanford University, USA",0,2023,0
+1,18,76.68,2.02,0,"Stanford University, USA",1,2023,0
+2,23,89.09,3.5,0,"Harvard University, USA",1,2023,1
+2,18,85.27,3.52,3,"University of Oxford, UK",1,2023,1
+1,19,72.32,3.36,2,"Harvard University, USA",0,2023,0
+2,24,93.21,3.51,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+1,18,77.91,3.68,0,"University of Oxford, UK",1,2023,1
+2,20,77.0,2.94,0,"Harvard University, USA",1,2023,1
+1,22,51.71,3.0,2,"Harvard University, USA",0,2023,0
+2,19,99.33,2.25,2,"Stanford University, USA",0,2023,0
+1,24,56.15,2.77,3,"Stanford University, USA",0,2023,0
+2,18,61.56,3.29,1,"Stanford University, USA",0,2023,0
+1,23,52.58,3.56,0,"Stanford University, USA",0,2023,0
+2,20,82.0,2.43,1,"Stanford University, USA",0,2023,0
+1,20,61.24,2.28,2,"Harvard University, USA",0,2023,0
+1,18,59.0,3.33,2,"Stanford University, USA",1,2023,0
+1,22,54.43,2.0,2,"Stanford University, USA",1,2023,0
+2,18,55.17,2.36,1,"Harvard University, USA",0,2023,0
+1,19,79.23,2.06,2,"Harvard University, USA",1,2023,0
+2,18,84.41,2.33,3,"University of Oxford, UK",1,2023,0
+1,20,69.87,2.36,2,"Stanford University, USA",1,2023,0
+2,24,73.99,2.78,4,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+1,18,84.3,2.8,1,"Harvard University, USA",0,2023,1
+2,22,50.87,3.75,4,"Harvard University, USA",0,2023,0
+2,24,66.16,3.02,2,"Harvard University, USA",0,2023,0
+1,23,98.65,3.45,3,"Stanford University, USA",0,2023,1
+2,21,79.01,2.21,0,"Stanford University, USA",0,2023,0
+2,18,62.71,2.45,2,"Harvard University, USA",1,2023,0
+1,22,76.09,3.41,3,"Harvard University, USA",0,2023,1
+2,24,67.13,2.11,1,"Harvard University, USA",1,2023,0
+2,22,76.61,2.97,4,"University of Oxford, UK",0,2023,1
+2,23,56.29,3.2,4,"Stanford University, USA",1,2023,0
+1,20,56.64,3.2,4,"Harvard University, USA",0,2023,0
+2,22,57.18,2.05,1,"Stanford University, USA",0,2023,0
+1,24,96.99,2.64,3,"University of Cambridge, UK",0,2023,1
+2,24,81.86,2.49,2,"Harvard University, USA",0,2023,0
+2,23,99.03,2.95,0,"Harvard University, USA",0,2023,1
+2,19,95.17,2.79,0,"Stanford University, USA",0,2023,1
+2,20,82.33,3.1,4,"Harvard University, USA",0,2023,1
+2,23,84.66,3.49,0,"Stanford University, USA",1,2023,1
+2,19,52.58,3.43,3,"Harvard University, USA",1,2023,0
+2,24,83.5,3.04,1,"Stanford University, USA",0,2023,1
+0,23,52.21,3.64,3,"Harvard University, USA",1,2023,0
+2,24,79.41,2.86,2,"Harvard University, USA",0,2023,1
+2,19,99.97,3.79,1,"Stanford University, USA",0,2023,1
+2,24,77.79,2.14,0,"Harvard University, USA",0,2023,0
+2,20,73.66,3.91,2,"Harvard University, USA",0,2023,0
+2,19,65.64,3.31,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,19,56.03,2.76,0,"University of Oxford, UK",0,2023,0
+2,19,86.55,2.39,3,"Harvard University, USA",1,2023,0
+2,18,59.63,2.96,1,"Harvard University, USA",0,2023,0
+2,18,55.76,2.39,0,"Harvard University, USA",1,2023,0
+2,18,71.09,2.33,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,20,89.77,3.23,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,23,87.25,3.05,2,"Harvard University, USA",1,2023,1
+0,24,52.74,3.34,2,"California Institute of Technology (Caltech), USA",1,2023,0
+2,22,72.76,3.86,2,"Harvard University, USA",0,2023,0
+0,19,76.12,3.06,4,"Harvard University, USA",1,2023,1
+0,24,82.23,3.16,1,"Harvard University, USA",0,2023,1
+2,19,82.51,2.18,1,"University of Oxford, UK",0,2023,0
+0,20,68.23,3.44,4,"Harvard University, USA",0,2023,0
+2,19,78.03,2.8,0,"Harvard University, USA",0,2023,1
+2,18,74.05,3.95,0,"California Institute of Technology (Caltech), USA",0,2023,0
+2,22,94.25,3.65,2,"Imperial College London, UK",1,2023,1
+0,21,76.51,3.04,3,"University of Oxford, UK",0,2023,1
+2,19,72.05,2.25,0,"Harvard University, USA",0,2023,0
+2,24,70.22,3.72,3,"Harvard University, USA",1,2023,0
+2,18,78.62,3.6,1,"Stanford University, USA",1,2023,1
+0,21,90.2,2.37,3,"Stanford University, USA",0,2023,0
+0,22,76.92,2.59,1,"Harvard University, USA",1,2023,1
+2,21,83.08,3.59,4,"University of Oxford, UK",1,2023,1
+2,18,86.89,2.37,4,"Harvard University, USA",0,2023,0
+2,23,76.01,3.84,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+0,23,71.34,2.85,0,"University of Oxford, UK",0,2023,0
+2,21,93.83,2.17,2,"Harvard University, USA",0,2023,0
+0,20,70.88,3.63,1,"Harvard University, USA",1,2023,0
+2,24,73.1,2.75,2,"Stanford University, USA",0,2023,0
+2,24,99.52,3.05,3,"Stanford University, USA",0,2023,1
+2,21,50.01,2.22,1,"Stanford University, USA",0,2023,0
+2,19,59.27,2.01,4,"Stanford University, USA",0,2023,0
+2,19,69.2,3.28,0,"Stanford University, USA",0,2023,0
+2,24,96.63,3.03,1,"Harvard University, USA",0,2023,1
+2,24,53.5,3.19,1,"Stanford University, USA",1,2023,0
+2,23,50.47,3.59,3,"Stanford University, USA",0,2023,0
+2,20,52.63,3.29,0,"Harvard University, USA",0,2023,0
+2,18,54.43,2.35,4,"Harvard University, USA",0,2023,0
+2,19,51.88,2.72,1,"University of Oxford, UK",1,2023,0
+2,24,73.99,3.81,1,"Stanford University, USA",0,2023,0
+2,23,79.04,3.54,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,22,63.58,3.11,2,"Harvard University, USA",0,2023,0
+2,23,69.91,2.51,4,"Harvard University, USA",0,2023,0
+2,19,54.58,2.6,0,"Harvard University, USA",1,2023,0
+2,19,66.82,3.46,1,"Stanford University, USA",0,2023,0
+2,23,76.13,3.7,1,"Stanford University, USA",1,2023,1
+2,18,86.61,3.34,4,"Harvard University, USA",0,2023,1
+2,21,50.17,3.62,2,"Harvard University, USA",0,2023,0
+2,19,73.37,3.53,1,"Harvard University, USA",0,2023,0
+2,23,64.85,2.3,4,"University of Oxford, UK",0,2023,0
+0,24,92.64,2.85,3,"Stanford University, USA",1,2023,1
+2,23,85.78,2.31,2,"Harvard University, USA",1,2023,0
+2,20,79.46,2.47,0,"Stanford University, USA",0,2023,0
+2,21,63.86,3.74,1,"University of Cambridge, UK",1,2023,0
+2,22,95.52,2.95,4,"Harvard University, USA",0,2023,1
+2,18,52.26,3.07,3,"Harvard University, USA",1,2023,0
+2,22,55.47,2.36,0,"Stanford University, USA",0,2023,0
+2,21,69.58,2.62,4,"Harvard University, USA",0,2023,0
+2,21,56.22,2.46,4,"Harvard University, USA",0,2023,0
+0,21,97.82,2.41,0,"Stanford University, USA",0,2023,0
+2,22,89.9,3.28,3,"Stanford University, USA",0,2023,1
+2,24,62.95,2.51,3,"Harvard University, USA",0,2023,0
+2,21,79.43,3.26,2,"Harvard University, USA",1,2023,1
+0,23,99.12,2.12,1,"University of Oxford, UK",0,2023,0
+2,22,94.21,2.28,0,"Stanford University, USA",0,2023,0
+2,21,80.04,2.55,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,23,95.19,3.19,0,"Harvard University, USA",1,2023,1
+2,24,99.46,3.35,3,"Harvard University, USA",1,2023,1
+2,20,87.17,2.89,1,"Harvard University, USA",1,2023,1
+2,24,53.25,2.89,2,"Stanford University, USA",1,2023,0
+2,21,70.08,3.45,4,"Stanford University, USA",1,2023,0
+2,22,91.89,2.03,4,"Harvard University, USA",0,2023,0
+2,19,61.53,2.68,0,"Harvard University, USA",0,2023,0
+0,21,91.53,3.64,1,"Harvard University, USA",0,2023,1
+2,19,56.02,3.21,3,"University of Oxford, UK",0,2023,0
+2,23,52.35,2.67,1,"Stanford University, USA",0,2023,0
+0,20,69.2,3.81,1,"Harvard University, USA",0,2023,0
+2,18,51.84,3.55,3,"Stanford University, USA",1,2023,0
+0,24,97.86,2.53,0,"University of Cambridge, UK",1,2023,1
+0,20,91.31,3.29,1,"Harvard University, USA",1,2023,1
+2,21,90.04,3.19,4,"Harvard University, USA",0,2023,1
+2,19,81.49,2.8,3,"Stanford University, USA",0,2023,1
+2,24,60.82,2.73,2,"Harvard University, USA",1,2023,0
+0,19,75.91,2.69,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,22,79.86,3.23,3,"Harvard University, USA",1,2023,1
+2,19,76.25,2.88,2,"Harvard University, USA",0,2023,1
+2,22,63.01,3.66,2,"Stanford University, USA",1,2023,0
+2,23,75.76,3.34,1,"Harvard University, USA",1,2023,1
+2,24,74.56,2.14,1,"Harvard University, USA",1,2023,0
+2,24,99.82,3.28,1,"Stanford University, USA",0,2023,1
+0,18,94.87,2.54,3,"Stanford University, USA",1,2023,1
+2,21,64.19,3.12,3,"Harvard University, USA",1,2023,0
+2,22,67.96,2.36,0,"Stanford University, USA",1,2023,0
+2,18,69.19,2.11,1,"Harvard University, USA",1,2023,0
+2,19,73.29,2.64,2,"Stanford University, USA",1,2023,0
+0,19,91.8,3.51,4,"Harvard University, USA",0,2023,1
+2,18,61.79,2.54,0,"Harvard University, USA",0,2023,0
+2,24,88.8,3.08,3,"Stanford University, USA",0,2023,1
+0,19,70.27,3.46,0,"Harvard University, USA",0,2023,0
+2,23,80.09,2.22,0,"Harvard University, USA",0,2023,0
+0,23,81.63,3.37,0,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+0,18,68.64,2.18,0,"University of Oxford, UK",0,2023,0
+0,22,75.63,3.93,4,"Harvard University, USA",0,2023,1
+0,22,70.65,2.98,1,"Harvard University, USA",0,2023,0
+2,18,53.46,2.3,2,"Harvard University, USA",0,2023,0
+2,22,71.86,2.68,0,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,24,54.87,2.83,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,24,70.25,3.52,0,"Harvard University, USA",0,2023,0
+2,22,79.65,3.49,1,"California Institute of Technology (Caltech), USA",0,2023,1
+2,23,78.97,3.22,3,"Harvard University, USA",0,2023,1
+0,22,83.13,2.21,3,"Harvard University, USA",0,2023,0
+2,24,54.76,2.3,4,"Harvard University, USA",0,2023,0
+2,20,82.61,2.19,3,"University of Oxford, UK",0,2023,0
+2,21,65.61,3.15,0,"Harvard University, USA",1,2023,0
+2,19,69.95,3.75,0,"Harvard University, USA",1,2023,0
+2,20,92.9,2.87,0,"California Institute of Technology (Caltech), USA",0,2023,1
+2,22,50.45,2.32,4,"Imperial College London, UK",1,2023,0
+2,23,79.42,3.12,0,"University of Oxford, UK",0,2023,1
+2,18,79.94,3.62,3,"Harvard University, USA",0,2023,1
+2,22,69.83,3.48,1,"Harvard University, USA",0,2023,0
+2,23,61.85,3.76,1,"Stanford University, USA",0,2023,0
+0,21,61.73,2.56,2,"Stanford University, USA",1,2023,0
+0,22,94.19,2.39,3,"Harvard University, USA",1,2023,0
+2,24,72.1,3.76,0,"University of Oxford, UK",1,2023,0
+2,18,66.54,3.32,1,"Harvard University, USA",0,2023,0
+0,23,72.44,2.62,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,23,83.47,3.48,1,"University of Oxford, UK",0,2023,1
+2,23,57.29,3.63,0,"Harvard University, USA",0,2023,0
+0,21,72.47,3.23,1,"Harvard University, USA",0,2023,0
+2,22,79.39,3.38,2,"Stanford University, USA",1,2023,1
+2,21,97.43,2.75,2,"Stanford University, USA",0,2023,1
+0,19,62.63,3.08,1,"Stanford University, USA",0,2023,0
+2,19,67.96,3.05,3,"Stanford University, USA",0,2023,0
+0,22,68.97,3.7,3,"Stanford University, USA",1,2023,0
+0,24,80.28,3.68,3,"Harvard University, USA",1,2023,1
+0,21,67.84,3.67,1,"Stanford University, USA",0,2023,0
+2,18,76.68,2.02,3,"Stanford University, USA",1,2023,0
+0,23,89.09,3.5,0,"Harvard University, USA",1,2023,1
+2,23,85.27,3.52,2,"Harvard University, USA",1,2023,1
+2,22,72.32,3.36,0,"University of Oxford, UK",1,2023,0
+2,24,93.21,3.51,3,"Stanford University, USA",1,2023,1
+2,19,77.91,3.68,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,19,77.0,2.94,3,"Harvard University, USA",0,2023,1
+2,23,51.71,3.0,1,"Harvard University, USA",1,2023,0
+0,22,99.33,2.25,0,"Harvard University, USA",0,2023,0
+0,21,56.15,2.77,1,"Stanford University, USA",0,2023,0
+2,19,61.56,3.29,1,"Stanford University, USA",1,2023,0
+2,21,52.58,3.56,4,"Harvard University, USA",0,2023,0
+2,24,82.0,2.43,3,"Harvard University, USA",0,2023,0
+2,19,61.24,2.28,2,"Harvard University, USA",0,2023,0
+2,19,59.0,3.33,3,"University of Oxford, UK",0,2023,0
+2,20,54.43,2.0,2,"Stanford University, USA",0,2023,0
+0,19,55.17,2.36,3,"Harvard University, USA",0,2023,0
+2,18,79.23,2.06,1,"Stanford University, USA",0,2023,0
+0,22,84.41,2.33,0,"University of Cambridge, UK",1,2023,0
+2,22,69.87,2.36,0,"Harvard University, USA",1,2023,0
+0,21,73.99,2.78,4,"Stanford University, USA",0,2023,0
+2,24,84.3,2.8,2,"Harvard University, USA",0,2023,1
+2,19,50.87,3.75,2,"Stanford University, USA",1,2023,0
+0,18,66.16,3.02,2,"Harvard University, USA",0,2023,0
+2,21,98.65,3.45,1,"Harvard University, USA",0,2023,1
+2,20,79.01,2.21,2,"Stanford University, USA",1,2023,0
+2,21,62.71,2.45,0,"Harvard University, USA",1,2023,0
+2,21,76.09,3.41,1,"Harvard University, USA",0,2023,1
+2,19,67.13,2.11,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,20,76.61,2.97,2,"University of Oxford, UK",0,2023,1
+2,21,56.29,3.2,2,"Harvard University, USA",0,2023,0
+0,18,56.64,3.2,3,"Harvard University, USA",0,2023,0
+0,18,57.18,2.05,2,"Harvard University, USA",0,2023,0
+2,22,96.99,2.64,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,20,81.86,2.49,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,20,99.03,2.95,0,"Harvard University, USA",1,2023,1
+2,22,95.17,2.79,3,"California Institute of Technology (Caltech), USA",0,2023,1
+0,21,82.33,3.1,4,"Harvard University, USA",1,2023,1
+0,20,84.66,3.49,3,"Harvard University, USA",0,2023,1
+2,18,52.58,3.43,2,"Harvard University, USA",1,2023,0
+2,18,83.5,3.04,1,"University of Oxford, UK",0,2023,1
+0,19,52.21,3.64,1,"Harvard University, USA",0,2023,0
+2,20,79.41,2.86,3,"Harvard University, USA",0,2023,1
+2,21,99.97,3.79,0,"California Institute of Technology (Caltech), USA",0,2023,1
+2,22,77.79,2.14,4,"Imperial College London, UK",0,2023,0
+0,22,73.66,3.91,1,"University of Oxford, UK",0,2023,0
+0,21,65.64,3.31,2,"Harvard University, USA",0,2023,0
+2,24,56.03,2.76,2,"Harvard University, USA",1,2023,0
+2,23,86.55,2.39,0,"Stanford University, USA",0,2023,0
+2,19,59.63,2.96,1,"Stanford University, USA",0,2023,0
+0,22,55.76,2.39,3,"Harvard University, USA",0,2023,0
+2,20,71.09,2.33,2,"University of Oxford, UK",0,2023,0
+0,19,89.77,3.23,0,"Harvard University, USA",1,2023,1
+2,20,87.25,3.05,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+2,24,52.74,3.34,1,"University of Oxford, UK",1,2023,0
+2,18,72.76,3.86,1,"Harvard University, USA",0,2023,0
+2,19,76.12,3.06,1,"Harvard University, USA",0,2023,1
+0,22,82.23,3.16,1,"Stanford University, USA",0,2023,1
+2,19,82.51,2.18,2,"Stanford University, USA",0,2023,0
+0,19,68.23,3.44,0,"Stanford University, USA",0,2023,0
+2,19,78.03,2.8,1,"Stanford University, USA",1,2023,1
+0,23,74.05,3.95,4,"Stanford University, USA",1,2023,0
+2,19,94.25,3.65,4,"Harvard University, USA",1,2023,1
+2,20,76.51,3.04,0,"Stanford University, USA",1,2023,1
+2,18,72.05,2.25,3,"Stanford University, USA",0,2023,0
+2,24,70.22,3.72,3,"Harvard University, USA",1,2023,0
+2,21,78.62,3.6,3,"Harvard University, USA",0,2023,1
+2,19,90.2,2.37,4,"University of Oxford, UK",0,2023,0
+2,22,76.92,2.59,3,"Stanford University, USA",1,2023,1
+2,19,83.08,3.59,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,22,86.89,2.37,1,"Harvard University, USA",1,2023,0
+0,20,76.01,3.84,4,"Harvard University, USA",0,2023,1
+2,22,71.34,2.85,0,"Harvard University, USA",1,2023,0
+2,21,93.83,2.17,0,"Stanford University, USA",0,2023,0
+0,18,70.88,3.63,1,"Stanford University, USA",0,2023,0
+2,22,73.1,2.75,4,"Harvard University, USA",0,2023,0
+0,22,99.52,3.05,3,"Harvard University, USA",1,2023,1
+2,18,50.01,2.22,3,"Harvard University, USA",0,2023,0
+2,21,59.27,2.01,2,"University of Oxford, UK",0,2023,0
+2,19,69.2,3.28,2,"Stanford University, USA",0,2023,0
+2,22,96.63,3.03,3,"Harvard University, USA",0,2023,1
+2,18,53.5,3.19,0,"Stanford University, USA",0,2023,0
+2,20,50.47,3.59,0,"University of Cambridge, UK",0,2023,0
+2,18,52.63,3.29,2,"Harvard University, USA",0,2023,0
+2,20,54.43,2.35,1,"Harvard University, USA",0,2023,0
+0,21,51.88,2.72,3,"Stanford University, USA",0,2023,0
+2,19,73.99,3.81,2,"Harvard University, USA",0,2023,0
+2,18,79.04,3.54,2,"Stanford University, USA",0,2023,1
+2,24,63.58,3.11,3,"Harvard University, USA",0,2023,0
+2,24,69.91,2.51,3,"Stanford University, USA",0,2023,0
+2,23,54.58,2.6,0,"Harvard University, USA",1,2023,0
+2,22,66.82,3.46,1,"Harvard University, USA",1,2023,0
+2,21,76.13,3.7,1,"Stanford University, USA",0,2023,1
+0,18,86.61,3.34,3,"Harvard University, USA",0,2023,1
+2,24,50.17,3.62,4,"Harvard University, USA",0,2023,0
+0,22,73.37,3.53,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+0,24,64.85,2.3,2,"University of Oxford, UK",1,2023,0
+2,18,92.64,2.85,3,"Harvard University, USA",1,2023,1
+2,20,85.78,2.31,4,"Harvard University, USA",1,2023,0
+2,18,79.46,2.47,0,"Harvard University, USA",0,2023,0
+2,23,63.86,3.74,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,18,95.52,2.95,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,18,52.26,3.07,2,"Harvard University, USA",1,2023,0
+2,23,55.47,2.36,3,"California Institute of Technology (Caltech), USA",0,2023,0
+2,21,69.58,2.62,3,"Harvard University, USA",1,2023,0
+2,18,56.22,2.46,3,"Harvard University, USA",0,2023,0
+2,23,79.66,3.33,2,"Harvard University, USA",0,2023,1
+2,22,82.51,2.02,0,"University of Oxford, UK",1,2023,0
+0,20,73.96,2.51,0,"Harvard University, USA",1,2023,0
+2,20,80.79,2.52,3,"Harvard University, USA",0,2023,1
+0,18,66.45,2.14,2,"California Institute of Technology (Caltech), USA",1,2023,0
+2,21,73.51,3.92,0,"Imperial College London, UK",1,2023,0
+2,21,87.21,2.96,0,"University of Oxford, UK",1,2023,1
+2,22,93.59,3.79,0,"Harvard University, USA",0,2023,1
+2,18,71.68,2.64,2,"Harvard University, USA",0,2023,0
+0,20,52.18,2.25,2,"Stanford University, USA",0,2023,0
+2,21,58.08,2.95,3,"Stanford University, USA",0,2023,0
+2,18,51.04,2.23,1,"Harvard University, USA",0,2023,0
+2,24,82.66,2.97,0,"University of Oxford, UK",0,2023,1
+2,21,66.62,3.84,1,"Harvard University, USA",1,2023,0
+2,23,77.12,3.04,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,24,74.66,3.23,2,"University of Oxford, UK",0,2023,0
+2,21,54.08,2.31,2,"Harvard University, USA",0,2023,0
+0,20,70.16,2.09,1,"Harvard University, USA",0,2023,0
+2,19,61.03,2.22,2,"Stanford University, USA",0,2023,0
+2,24,70.92,3.2,3,"Stanford University, USA",0,2023,0
+2,22,60.18,2.19,2,"Stanford University, USA",0,2023,0
+2,22,92.02,2.75,2,"Stanford University, USA",0,2023,1
+2,20,58.71,3.1,0,"Stanford University, USA",1,2023,0
+2,21,98.04,2.78,0,"Harvard University, USA",0,2023,1
+2,18,70.8,2.33,4,"Stanford University, USA",0,2023,0
+2,21,92.31,2.55,0,"Stanford University, USA",0,2023,1
+2,20,81.44,3.86,3,"Harvard University, USA",0,2023,1
+0,22,86.77,3.35,1,"Harvard University, USA",0,2023,1
+2,21,88.39,2.99,3,"University of Oxford, UK",0,2023,1
+2,22,75.24,2.03,2,"Stanford University, USA",0,2023,0
+2,24,77.17,3.98,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,18,75.7,3.34,0,"Harvard University, USA",0,2023,1
+2,24,79.4,2.63,2,"Harvard University, USA",1,2023,1
+2,22,51.47,3.76,1,"Harvard University, USA",0,2023,0
+2,22,69.78,2.52,0,"Stanford University, USA",0,2023,0
+0,19,80.31,3.09,3,"Stanford University, USA",1,2023,1
+2,19,79.89,3.27,1,"Harvard University, USA",0,2023,1
+0,24,89.65,2.44,0,"Harvard University, USA",1,2023,0
+2,23,82.75,3.96,3,"Harvard University, USA",0,2023,1
+2,24,99.61,3.5,2,"University of Oxford, UK",1,2023,1
+2,19,64.19,3.12,2,"Stanford University, USA",0,2023,0
+0,22,67.96,2.36,2,"Harvard University, USA",0,2023,0
+2,20,69.19,2.11,2,"Stanford University, USA",1,2023,0
+2,24,73.29,2.64,4,"University of Cambridge, UK",0,2023,0
+0,22,91.8,3.51,1,"Harvard University, USA",0,2023,1
+2,20,61.79,2.54,1,"Harvard University, USA",0,2023,0
+2,20,88.8,3.08,4,"Stanford University, USA",0,2023,1
+2,19,70.27,3.46,0,"Harvard University, USA",0,2023,0
+2,24,80.09,2.22,0,"Stanford University, USA",0,2023,0
+2,21,81.63,3.37,2,"Harvard University, USA",1,2023,1
+2,18,68.64,2.18,3,"Stanford University, USA",1,2023,0
+2,19,75.63,3.93,0,"Harvard University, USA",1,2023,1
+2,19,70.65,2.98,3,"Harvard University, USA",0,2023,0
+2,21,53.46,2.3,1,"Stanford University, USA",0,2023,0
+0,18,71.86,2.68,3,"Harvard University, USA",0,2023,0
+2,22,54.87,2.83,1,"Harvard University, USA",1,2023,0
+0,23,70.25,3.52,4,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+0,24,79.65,3.49,4,"University of Oxford, UK",0,2023,1
+0,23,78.97,3.22,2,"Harvard University, USA",1,2023,1
+0,22,83.13,2.21,0,"Harvard University, USA",0,2023,0
+2,19,54.76,2.3,2,"Harvard University, USA",1,2023,0
+0,18,82.61,2.19,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,19,65.61,3.15,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+0,20,69.95,3.75,3,"Harvard University, USA",1,2023,0
+2,19,92.9,2.87,1,"California Institute of Technology (Caltech), USA",1,2023,1
+2,19,50.45,2.32,4,"Harvard University, USA",0,2023,0
+2,22,79.42,3.12,0,"Harvard University, USA",0,2023,1
+2,22,79.94,3.62,1,"Harvard University, USA",0,2023,1
+2,22,69.83,3.48,1,"University of Oxford, UK",0,2023,0
+2,23,61.85,3.76,3,"Harvard University, USA",0,2023,0
+2,20,61.73,2.56,0,"Harvard University, USA",0,2023,0
+2,22,94.19,2.39,4,"California Institute of Technology (Caltech), USA",0,2023,0
+0,18,72.1,3.76,1,"Imperial College London, UK",0,2023,0
+0,23,66.54,3.32,1,"University of Oxford, UK",0,2023,0
+2,21,72.44,2.62,3,"Harvard University, USA",1,2023,0
+0,18,83.47,3.48,2,"Harvard University, USA",1,2023,1
+0,24,57.29,3.63,4,"Stanford University, USA",0,2023,0
+0,24,72.47,3.23,0,"Stanford University, USA",0,2023,0
+2,18,79.39,3.38,1,"Harvard University, USA",0,2023,1
+2,22,97.43,2.75,1,"University of Oxford, UK",0,2023,1
+2,21,62.63,3.08,4,"Harvard University, USA",0,2023,0
+0,21,67.96,3.05,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+0,23,68.97,3.7,1,"University of Oxford, UK",1,2023,0
+2,21,80.28,3.68,4,"Harvard University, USA",1,2023,1
+2,24,67.84,3.67,3,"Harvard University, USA",0,2023,0
+0,20,76.68,2.02,2,"Stanford University, USA",0,2023,0
+0,22,89.09,3.5,0,"Stanford University, USA",0,2023,1
+0,21,85.27,3.52,1,"Stanford University, USA",0,2023,1
+0,23,72.32,3.36,4,"Stanford University, USA",1,2023,0
+2,24,93.21,3.51,3,"Stanford University, USA",0,2023,1
+2,20,77.91,3.68,0,"Harvard University, USA",0,2023,1
+2,19,77.0,2.94,4,"Stanford University, USA",0,2023,1
+2,19,51.71,3.0,4,"Stanford University, USA",0,2023,0
+0,20,99.33,2.25,0,"Harvard University, USA",0,2023,0
+2,24,56.15,2.77,3,"Harvard University, USA",0,2023,0
+2,23,61.56,3.29,3,"University of Oxford, UK",0,2023,0
+2,20,52.58,3.56,2,"Stanford University, USA",1,2023,0
+2,22,82.0,2.43,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+0,22,61.24,2.28,0,"Harvard University, USA",0,2023,0
+2,19,59.0,3.33,0,"Harvard University, USA",1,2023,0
+0,21,54.43,2.0,0,"Harvard University, USA",1,2023,0
+2,23,55.17,2.36,3,"Stanford University, USA",1,2023,0
+2,19,79.23,2.06,1,"Stanford University, USA",1,2023,0
+2,21,84.41,2.33,2,"Harvard University, USA",1,2023,0
+2,21,69.87,2.36,4,"Harvard University, USA",0,2023,0
+2,22,73.99,2.78,4,"Harvard University, USA",0,2023,0
+2,24,84.3,2.8,0,"University of Oxford, UK",0,2023,1
+2,18,50.87,3.75,1,"Stanford University, USA",1,2023,0
+2,24,66.16,3.02,3,"Harvard University, USA",1,2023,0
+2,18,98.65,3.45,1,"Stanford University, USA",0,2023,1
+2,20,79.01,2.21,1,"University of Cambridge, UK",0,2023,0
+2,22,62.71,2.45,3,"Harvard University, USA",0,2023,0
+2,21,76.09,3.41,0,"Harvard University, USA",0,2023,1
+2,23,67.13,2.11,1,"Stanford University, USA",0,2023,0
+2,18,76.61,2.97,4,"Harvard University, USA",0,2023,1
+2,24,56.29,3.2,3,"Stanford University, USA",1,2023,0
+2,21,56.64,3.2,2,"Harvard University, USA",0,2023,0
+0,18,57.18,2.05,0,"Harvard University, USA",1,2023,0
+2,18,96.99,2.64,3,"Stanford University, USA",0,2023,1
+0,18,81.86,2.49,2,"Stanford University, USA",1,2023,0
+2,23,99.03,2.95,2,"Harvard University, USA",0,2023,1
+2,22,95.17,2.79,1,"Harvard University, USA",0,2023,1
+0,23,82.33,3.1,1,"University of Oxford, UK",0,2023,1
+2,19,84.66,3.49,1,"Stanford University, USA",0,2023,1
+2,21,52.58,3.43,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+0,22,83.5,3.04,3,"Harvard University, USA",0,2023,1
+2,22,52.21,3.64,0,"Harvard University, USA",1,2023,0
+2,22,79.41,2.86,1,"Harvard University, USA",0,2023,1
+2,24,99.97,3.79,2,"Stanford University, USA",0,2023,1
+2,22,77.79,2.14,4,"Stanford University, USA",0,2023,0
+2,23,73.66,3.91,0,"Harvard University, USA",1,2023,0
+2,22,65.64,3.31,3,"Harvard University, USA",0,2023,0
+2,20,56.03,2.76,0,"Harvard University, USA",0,2023,0
+2,21,86.55,2.39,0,"University of Oxford, UK",0,2023,0
+0,22,59.63,2.96,0,"Stanford University, USA",0,2023,0
+2,21,55.76,2.39,0,"Harvard University, USA",1,2023,0
+2,20,71.09,2.33,4,"Stanford University, USA",0,2023,0
+0,20,89.77,3.23,1,"University of Cambridge, UK",0,2023,1
+2,21,87.25,3.05,2,"Harvard University, USA",0,2023,1
+2,18,52.74,3.34,0,"Harvard University, USA",0,2023,0
+2,19,72.76,3.86,0,"Stanford University, USA",0,2023,0
+0,24,76.12,3.06,0,"Harvard University, USA",0,2023,1
+0,18,82.23,3.16,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+2,18,82.51,2.18,3,"Harvard University, USA",0,2023,0
+2,23,68.23,3.44,3,"Harvard University, USA",0,2023,0
+2,24,78.03,2.8,4,"Stanford University, USA",0,2023,1
+2,24,74.05,3.95,3,"Harvard University, USA",0,2023,0
+2,18,94.25,3.65,0,"Harvard University, USA",0,2023,1
+2,22,76.51,3.04,0,"Stanford University, USA",0,2023,1
+2,23,72.05,2.25,0,"Stanford University, USA",0,2023,0
+0,23,70.22,3.72,4,"Harvard University, USA",0,2023,0
+2,20,78.62,3.6,0,"Stanford University, USA",1,2023,1
+2,24,90.2,2.37,3,"Harvard University, USA",0,2023,0
+2,18,76.92,2.59,1,"Stanford University, USA",0,2023,1
+2,20,83.08,3.59,1,"Harvard University, USA",0,2023,1
+2,21,86.89,2.37,2,"Harvard University, USA",0,2023,0
+0,19,76.01,3.84,3,"Stanford University, USA",1,2023,1
+2,23,71.34,2.85,0,"Harvard University, USA",1,2023,0
+0,21,93.83,2.17,1,"Harvard University, USA",0,2023,0
+0,21,70.88,3.63,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+0,22,73.1,2.75,1,"University of Oxford, UK",1,2023,0
+2,19,99.52,3.05,0,"Harvard University, USA",0,2023,1
+0,21,50.01,2.22,1,"Harvard University, USA",1,2023,0
+2,21,59.27,2.01,2,"Harvard University, USA",0,2023,0
+2,19,69.2,3.28,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,19,96.63,3.03,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,21,53.5,3.19,3,"Harvard University, USA",0,2023,0
+2,19,50.47,3.59,3,"California Institute of Technology (Caltech), USA",0,2023,0
+2,21,52.63,3.29,3,"Harvard University, USA",1,2023,0
+0,21,54.43,2.35,1,"Harvard University, USA",0,2023,0
+2,22,51.88,2.72,3,"Harvard University, USA",1,2023,0
+2,18,73.99,3.81,0,"University of Oxford, UK",1,2023,0
+2,21,79.04,3.54,2,"Harvard University, USA",0,2023,1
+0,20,63.58,3.11,0,"Harvard University, USA",0,2023,0
+2,23,69.91,2.51,3,"California Institute of Technology (Caltech), USA",1,2023,0
+0,24,54.58,2.6,0,"Imperial College London, UK",0,2023,0
+2,18,66.82,3.46,3,"University of Oxford, UK",0,2023,0
+0,18,76.13,3.7,1,"Harvard University, USA",0,2023,1
+2,18,86.61,3.34,0,"Harvard University, USA",0,2023,1
+0,22,50.17,3.62,1,"Stanford University, USA",1,2023,0
+2,21,73.37,3.53,1,"Stanford University, USA",1,2023,0
+2,22,64.85,2.3,4,"Harvard University, USA",0,2023,0
+2,21,92.64,2.85,3,"University of Oxford, UK",0,2023,1
+2,22,85.78,2.31,2,"Harvard University, USA",0,2023,0
+0,22,79.46,2.47,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,23,63.86,3.74,2,"University of Oxford, UK",0,2023,0
+2,20,95.52,2.95,3,"Harvard University, USA",1,2023,1
+2,22,52.26,3.07,1,"Harvard University, USA",0,2023,0
+2,23,55.47,2.36,0,"Stanford University, USA",0,2023,0
+2,19,69.58,2.62,0,"Stanford University, USA",0,2023,0
+2,20,56.22,2.46,4,"Stanford University, USA",0,2023,0
+2,22,97.82,2.41,2,"Stanford University, USA",0,2023,0
+2,24,89.9,3.28,2,"Stanford University, USA",0,2023,1
+2,18,62.95,2.51,2,"Harvard University, USA",1,2023,0
+0,19,79.43,3.26,1,"Stanford University, USA",0,2023,1
+2,19,99.12,2.12,2,"Stanford University, USA",0,2023,0
+2,24,94.21,2.28,0,"Harvard University, USA",0,2023,0
+2,20,80.04,2.55,1,"Harvard University, USA",1,2023,1
+2,24,95.19,3.19,3,"University of Oxford, UK",1,2023,1
+0,21,99.46,3.35,2,"Stanford University, USA",0,2023,1
+2,22,87.17,2.89,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+0,19,53.25,2.89,3,"Harvard University, USA",0,2023,0
+2,21,70.08,3.45,2,"Harvard University, USA",1,2023,0
+0,19,91.89,2.03,3,"Harvard University, USA",0,2023,0
+2,23,61.53,2.68,1,"Stanford University, USA",0,2023,0
+2,20,91.53,3.64,0,"Stanford University, USA",1,2023,1
+2,18,56.02,3.21,3,"Harvard University, USA",0,2023,0
+0,24,52.35,2.67,4,"Harvard University, USA",0,2023,0
+0,20,69.2,3.81,3,"Harvard University, USA",0,2023,0
+2,21,51.84,3.55,2,"University of Oxford, UK",0,2023,0
+2,19,97.86,2.53,1,"Stanford University, USA",1,2023,1
+2,24,91.31,3.29,1,"Harvard University, USA",0,2023,1
+2,19,90.04,3.19,3,"Stanford University, USA",0,2023,1
+2,22,81.49,2.8,0,"University of Cambridge, UK",0,2023,1
+2,19,60.82,2.73,4,"Harvard University, USA",1,2023,0
+2,22,75.91,2.69,1,"Stanford University, USA",1,2023,1
+0,23,79.86,3.23,2,"Harvard University, USA",0,2023,1
+2,24,76.25,2.88,2,"Stanford University, USA",1,2023,1
+2,24,63.01,3.66,0,"Harvard University, USA",1,2023,0
+2,18,75.76,3.34,1,"Harvard University, USA",1,2023,1
+2,21,74.56,2.14,3,"Stanford University, USA",0,2023,0
+2,22,99.82,3.28,2,"Harvard University, USA",0,2023,1
+2,18,94.87,2.54,0,"Harvard University, USA",1,2023,1
+2,19,64.19,3.12,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,19,67.96,2.36,1,"University of Oxford, UK",0,2023,0
+0,18,69.19,2.11,1,"Harvard University, USA",0,2023,0
+2,24,73.29,2.64,1,"Harvard University, USA",0,2023,0
+2,19,91.8,3.51,1,"Harvard University, USA",1,2023,1
+2,23,61.79,2.54,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+0,23,88.8,3.08,0,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+2,18,70.27,3.46,1,"Harvard University, USA",0,2023,0
+0,22,80.09,2.22,4,"California Institute of Technology (Caltech), USA",0,2023,0
+2,22,81.63,3.37,4,"Harvard University, USA",0,2023,1
+2,18,68.64,2.18,0,"Harvard University, USA",1,2023,0
+2,22,75.63,3.93,3,"Harvard University, USA",1,2023,1
+2,24,70.65,2.98,3,"University of Oxford, UK",0,2023,0
+0,24,53.46,2.3,3,"Harvard University, USA",0,2023,0
+2,22,71.86,2.68,4,"Harvard University, USA",1,2023,0
+2,23,54.87,2.83,3,"California Institute of Technology (Caltech), USA",1,2023,0
+0,22,70.25,3.52,2,"Imperial College London, UK",0,2023,0
+2,24,79.65,3.49,1,"University of Oxford, UK",1,2023,1
+2,20,78.97,3.22,4,"Harvard University, USA",0,2023,1
+2,21,83.13,2.21,0,"Harvard University, USA",0,2023,0
+2,19,54.76,2.3,0,"Stanford University, USA",1,2023,0
+2,20,82.61,2.19,1,"Stanford University, USA",1,2023,0
+2,22,65.61,3.15,4,"Harvard University, USA",0,2023,0
+2,23,69.95,3.75,3,"University of Oxford, UK",0,2023,0
+2,18,92.9,2.87,3,"Harvard University, USA",0,2023,1
+0,22,50.45,2.32,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,23,79.42,3.12,2,"University of Oxford, UK",0,2023,1
+2,21,79.94,3.62,3,"Harvard University, USA",0,2023,1
+2,22,69.83,3.48,0,"Harvard University, USA",0,2023,0
+2,24,61.85,3.76,0,"Stanford University, USA",0,2023,0
+2,18,61.73,2.56,2,"Stanford University, USA",0,2023,0
+2,23,94.19,2.39,1,"Stanford University, USA",0,2023,0
+2,23,72.1,3.76,3,"Stanford University, USA",0,2023,0
+2,23,66.54,3.32,2,"Stanford University, USA",0,2023,0
+2,21,72.44,2.62,2,"Harvard University, USA",1,2023,0
+2,22,83.47,3.48,3,"Stanford University, USA",1,2023,1
+2,21,57.29,3.63,3,"Stanford University, USA",1,2023,0
+2,19,72.47,3.23,0,"Harvard University, USA",0,2023,0
+2,19,79.39,3.38,1,"Harvard University, USA",1,2023,1
+0,22,97.43,2.75,1,"University of Oxford, UK",0,2023,1
+0,24,62.63,3.08,3,"Stanford University, USA",1,2023,0
+2,21,67.96,3.05,4,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,18,68.97,3.7,2,"Harvard University, USA",0,2023,0
+2,23,80.28,3.68,2,"Harvard University, USA",0,2023,1
+2,23,67.84,3.67,3,"Harvard University, USA",0,2023,0
+2,22,76.68,2.02,4,"Stanford University, USA",1,2023,0
+2,24,89.09,3.5,0,"Stanford University, USA",0,2023,1
+2,19,85.27,3.52,3,"Harvard University, USA",1,2023,1
+0,19,72.32,3.36,3,"Harvard University, USA",0,2023,0
+2,23,93.21,3.51,2,"Harvard University, USA",0,2023,1
+2,22,77.91,3.68,3,"University of Oxford, UK",1,2023,1
+2,21,77.0,2.94,3,"Stanford University, USA",0,2023,1
+2,19,51.71,3.0,3,"Harvard University, USA",1,2023,0
+2,21,79.66,3.33,2,"Stanford University, USA",0,2023,1
+2,24,82.51,2.02,0,"University of Cambridge, UK",0,2023,0
+2,19,73.96,2.51,0,"Harvard University, USA",0,2023,0
+2,19,80.79,2.52,3,"Harvard University, USA",0,2023,1
+0,20,66.45,2.14,2,"Stanford University, USA",0,2023,0
+2,19,73.51,3.92,0,"Harvard University, USA",0,2023,0
+2,18,87.21,2.96,0,"Stanford University, USA",0,2023,1
+2,22,93.59,3.79,0,"Harvard University, USA",1,2023,1
+2,22,71.68,2.64,2,"Stanford University, USA",0,2023,0
+2,21,52.18,2.25,2,"Harvard University, USA",0,2023,0
+2,24,58.08,2.95,3,"Harvard University, USA",0,2023,0
+2,19,51.04,2.23,1,"Stanford University, USA",0,2023,0
+2,18,82.66,2.97,0,"Harvard University, USA",1,2023,1
+2,21,66.62,3.84,1,"Harvard University, USA",0,2023,0
+2,20,77.12,3.04,2,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+0,21,74.66,3.23,2,"University of Oxford, UK",0,2023,0
+0,21,54.08,2.31,2,"Harvard University, USA",0,2023,0
+2,19,70.16,2.09,1,"Harvard University, USA",0,2023,0
+2,20,61.03,2.22,2,"Harvard University, USA",0,2023,0
+2,21,70.92,3.2,3,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,18,60.18,2.19,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,18,92.02,2.75,2,"Harvard University, USA",1,2023,1
+0,22,58.71,3.1,0,"California Institute of Technology (Caltech), USA",0,2023,0
+2,20,98.04,2.78,0,"Harvard University, USA",1,2023,1
+2,20,70.8,2.33,4,"Harvard University, USA",1,2023,0
+0,22,92.31,2.55,0,"Harvard University, USA",0,2023,1
+0,21,81.44,3.86,3,"University of Oxford, UK",1,2023,1
+2,20,86.77,3.35,1,"Harvard University, USA",0,2023,1
+2,18,88.39,2.99,3,"Harvard University, USA",0,2023,1
+2,18,75.24,2.03,2,"California Institute of Technology (Caltech), USA",1,2023,0
+2,19,77.17,3.98,1,"Imperial College London, UK",0,2023,1
+2,20,75.7,3.34,0,"University of Oxford, UK",0,2023,1
+2,21,79.4,2.63,2,"Harvard University, USA",0,2023,1
+0,22,51.47,3.76,1,"Harvard University, USA",0,2023,0
+2,22,69.78,2.52,0,"Stanford University, USA",1,2023,0
+2,21,80.31,3.09,3,"Stanford University, USA",1,2023,1
+2,24,79.89,3.27,1,"Harvard University, USA",1,2023,1
+2,23,89.65,2.44,0,"University of Oxford, UK",0,2023,0
+2,19,82.75,3.96,3,"Harvard University, USA",0,2023,1
+0,22,99.61,3.5,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,20,64.19,3.12,2,"University of Oxford, UK",0,2023,0
+2,19,67.96,2.36,2,"Harvard University, USA",1,2023,0
+0,20,69.19,2.11,2,"Harvard University, USA",1,2023,0
+0,24,73.29,2.64,4,"Stanford University, USA",0,2023,0
+0,18,91.8,3.51,1,"Stanford University, USA",0,2023,1
+2,19,61.79,2.54,1,"Stanford University, USA",0,2023,0
+2,22,88.8,3.08,4,"Stanford University, USA",1,2023,1
+2,19,70.27,3.46,0,"Stanford University, USA",0,2023,0
+0,19,80.09,2.22,0,"Harvard University, USA",1,2023,0
+2,19,81.63,3.37,2,"Stanford University, USA",0,2023,1
+2,23,68.64,2.18,3,"Stanford University, USA",1,2023,0
+2,19,75.63,3.93,0,"Harvard University, USA",0,2023,1
+2,20,70.65,2.98,3,"Harvard University, USA",0,2023,0
+2,18,53.46,2.3,1,"University of Oxford, UK",0,2023,0
+2,24,71.86,2.68,3,"Stanford University, USA",0,2023,0
+2,21,54.87,2.83,1,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,19,70.25,3.52,4,"Harvard University, USA",0,2023,0
+2,22,79.65,3.49,4,"Harvard University, USA",1,2023,1
+2,19,78.97,3.22,2,"Harvard University, USA",1,2023,1
+0,22,83.13,2.21,0,"Stanford University, USA",0,2023,0
+2,20,54.76,2.3,2,"Stanford University, USA",0,2023,0
+2,22,82.61,2.19,1,"Harvard University, USA",0,2023,0
+2,21,65.61,3.15,2,"Harvard University, USA",1,2023,0
+0,18,69.95,3.75,3,"Harvard University, USA",0,2023,0
+2,22,92.9,2.87,1,"University of Oxford, UK",0,2023,1
+2,22,50.45,2.32,4,"Stanford University, USA",0,2023,0
+2,18,79.42,3.12,0,"Harvard University, USA",0,2023,1
+0,21,79.94,3.62,1,"Stanford University, USA",0,2023,1
+2,19,69.83,3.48,1,"University of Cambridge, UK",0,2023,0
+2,22,61.85,3.76,3,"Harvard University, USA",0,2023,0
+2,18,61.73,2.56,0,"Harvard University, USA",0,2023,0
+2,20,94.19,2.39,4,"Stanford University, USA",1,2023,0
+2,18,72.1,3.76,1,"Harvard University, USA",0,2023,0
+2,20,66.54,3.32,1,"Stanford University, USA",0,2023,0
+0,21,72.44,2.62,3,"Harvard University, USA",1,2023,0
+2,19,83.47,3.48,2,"Stanford University, USA",0,2023,1
+0,18,57.29,3.63,4,"Harvard University, USA",0,2023,0
+2,24,72.47,3.23,0,"Harvard University, USA",0,2023,0
+2,24,79.39,3.38,1,"Stanford University, USA",0,2023,1
+0,23,97.43,2.75,1,"Harvard University, USA",1,2023,1
+2,22,62.63,3.08,4,"Harvard University, USA",1,2023,0
+0,21,67.96,3.05,2,"Massachusetts Institute of Technology (MIT), USA",0,2023,0
+2,18,68.97,3.7,1,"University of Oxford, UK",0,2023,0
+0,24,80.28,3.68,4,"Harvard University, USA",0,2023,1
+2,22,67.84,3.67,3,"Harvard University, USA",0,2023,0
+2,24,76.68,2.02,2,"Harvard University, USA",1,2023,0
+2,18,89.09,3.5,0,"Massachusetts Institute of Technology (MIT), USA",1,2023,1
+2,20,85.27,3.52,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,18,72.32,3.36,4,"Harvard University, USA",0,2023,0
+2,23,93.21,3.51,3,"California Institute of Technology (Caltech), USA",0,2023,1
+0,18,77.91,3.68,0,"Harvard University, USA",0,2023,1
+2,18,77.0,2.94,4,"Harvard University, USA",1,2023,1
+2,23,51.71,3.0,4,"Harvard University, USA",1,2023,0
+2,21,99.33,2.25,0,"University of Oxford, UK",0,2023,0
+0,18,56.15,2.77,3,"Harvard University, USA",1,2023,0
+2,23,61.56,3.29,3,"Harvard University, USA",0,2023,0
+2,22,52.58,3.56,2,"California Institute of Technology (Caltech), USA",1,2023,0
+2,20,82.0,2.43,1,"Imperial College London, UK",0,2023,0
+2,20,61.24,2.28,0,"University of Oxford, UK",0,2023,0
+2,18,59.0,3.33,0,"Harvard University, USA",0,2023,0
+0,21,54.43,2.0,0,"Harvard University, USA",0,2023,0
+2,21,55.17,2.36,3,"Stanford University, USA",1,2023,0
+2,22,79.23,2.06,1,"Stanford University, USA",0,2023,0
+2,18,84.41,2.33,2,"Harvard University, USA",0,2023,0
+2,20,69.87,2.36,4,"University of Oxford, UK",0,2023,0
+2,21,73.99,2.78,4,"Harvard University, USA",0,2023,0
+2,18,84.3,2.8,0,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,24,50.87,3.75,1,"University of Oxford, UK",0,2023,0
+2,21,66.16,3.02,3,"Harvard University, USA",1,2023,0
+2,23,98.65,3.45,1,"Harvard University, USA",0,2023,1
+0,24,79.01,2.21,1,"Stanford University, USA",0,2023,0
+2,21,62.71,2.45,3,"Stanford University, USA",1,2023,0
+0,20,76.09,3.41,0,"Stanford University, USA",0,2023,1
+0,19,67.13,2.11,1,"Stanford University, USA",1,2023,0
+2,24,76.61,2.97,4,"Stanford University, USA",1,2023,1
+2,22,56.29,3.2,3,"Harvard University, USA",0,2023,0
+2,22,56.64,3.2,2,"Stanford University, USA",0,2023,0
+2,20,57.18,2.05,0,"Stanford University, USA",1,2023,0
+2,21,96.99,2.64,3,"Harvard University, USA",0,2023,1
+2,18,81.86,2.49,2,"Harvard University, USA",1,2023,0
+2,21,99.03,2.95,2,"University of Oxford, UK",1,2023,1
+0,20,95.17,2.79,1,"Stanford University, USA",0,2023,1
+2,22,82.33,3.1,1,"Massachusetts Institute of Technology (MIT), USA",0,2023,1
+2,21,84.66,3.49,1,"Harvard University, USA",0,2023,1
+0,22,52.58,3.43,3,"Harvard University, USA",0,2023,0
+0,24,83.5,3.04,3,"Harvard University, USA",1,2023,1
+2,18,52.21,3.64,0,"Stanford University, USA",1,2023,0
+2,24,79.41,2.86,1,"Stanford University, USA",1,2023,1
+2,22,99.97,3.79,2,"Harvard University, USA",0,2023,1
+2,22,77.79,2.14,4,"Harvard University, USA",0,2023,0
+2,19,73.66,3.91,0,"Harvard University, USA",1,2023,0
+2,19,65.64,3.31,3,"University of Oxford, UK",0,2023,0
+2,24,56.03,2.76,0,"Stanford University, USA",0,2023,0
+2,23,86.55,2.39,0,"Harvard University, USA",0,2023,0
+2,24,59.63,2.96,0,"Stanford University, USA",0,2023,0
+2,19,55.76,2.39,0,"University of Cambridge, UK",0,2023,0
+2,22,71.09,2.33,4,"Harvard University, USA",1,2023,0
+0,20,89.77,3.23,1,"Harvard University, USA",0,2023,1
+2,24,87.25,3.05,2,"Stanford University, USA",0,2023,1
+2,22,52.74,3.34,0,"Harvard University, USA",0,2023,0
+2,20,72.76,3.86,0,"Stanford University, USA",1,2023,0
+0,20,76.12,3.06,0,"Harvard University, USA",1,2023,1
+2,19,82.23,3.16,1,"Harvard University, USA",1,2023,1
+2,24,82.51,2.18,3,"Stanford University, USA",1,2023,0
+2,21,68.23,3.44,3,"Stanford University, USA",0,2023,0
+2,18,78.03,2.8,4,"Harvard University, USA",1,2023,1
+2,19,74.05,3.95,3,"Harvard University, USA",1,2023,0
+0,19,94.25,3.65,0,"University of Oxford, UK",0,2023,1
+2,21,76.51,3.04,0,"Stanford University, USA",0,2023,1
+2,18,72.05,2.25,0,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+0,22,70.22,3.72,4,"Harvard University, USA",1,2023,0
+0,23,78.62,3.6,0,"Harvard University, USA",0,2023,1
+2,24,90.2,2.37,3,"Harvard University, USA",1,2023,0
+2,23,76.92,2.59,1,"Stanford University, USA",0,2023,1
+2,22,83.08,3.59,1,"Stanford University, USA",0,2023,1
+2,19,86.89,2.37,2,"Harvard University, USA",0,2023,0
+2,18,76.01,3.84,3,"Harvard University, USA",0,2023,1
+2,19,71.34,2.85,0,"Harvard University, USA",0,2023,0
+2,20,93.83,2.17,1,"University of Oxford, UK",0,2023,0
+0,19,70.88,3.63,3,"Stanford University, USA",0,2023,0
+0,19,73.1,2.75,1,"Harvard University, USA",0,2023,0
+2,22,99.52,3.05,0,"Stanford University, USA",1,2023,1
+2,22,50.01,2.22,1,"University of Cambridge, UK",0,2023,0
+2,22,59.27,2.01,2,"Harvard University, USA",0,2023,0
+2,23,69.2,3.28,2,"Harvard University, USA",0,2023,0
+2,20,96.63,3.03,1,"Stanford University, USA",1,2023,1
+0,22,53.5,3.19,3,"Harvard University, USA",0,2023,0
+2,18,50.47,3.59,3,"Massachusetts Institute of Technology (MIT), USA",1,2023,0
+2,23,52.63,3.29,3,"Harvard University, USA",0,2023,0

@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block title %}Visualizations - GetSetGo{% endblock %}
+
+{% block content %}
+    <h1>Model and Data Visualizations</h1>
+
+    <div>
+        <h2>Dataset Distributions</h2>
+        <img src="{{ url_for('static', filename='visualizations/pass_fail_pie_chart.png') }}" alt="Pass-Fail Pie Chart">
+    </div>
+
+    <div>
+        <h2>Model Performance</h2>
+        <img src="{{ url_for('static', filename='visualizations/logistic_regression_bar_chart.png') }}" alt="Logistic Regression Bar Chart">
+        <img src="{{ url_for('static', filename='visualizations/random_forest_bar_chart.png') }}" alt="Random Forest Bar Chart">
+        <img src="{{ url_for('static', filename='visualizations/xgboost_bar_chart.png') }}" alt="XGBoost Bar Chart">
+        <img src="{{ url_for('static', filename='visualizations/svm_bar_chart.png') }}" alt="SVM Bar Chart">
+    </div>
+
+    <div>
+        <h2>Probability Distributions</h2>
+        <img src="{{ url_for('static', filename='visualizations/logistic_regression_probability_histogram.png') }}" alt="Logistic Regression Histogram">
+        <img src="{{ url_for('static', filename='visualizations/random_forest_probability_histogram.png') }}" alt="Random Forest Histogram">
+        <img src="{{ url_for('static', filename='visualizations/xgboost_probability_histogram.png') }}" alt="XGBoost Histogram">
+        <img src="{{ url_for('static', filename='visualizations/svm_probability_histogram.png') }}" alt="SVM Histogram">
+    </div>
+
+    <div>
+        <h2>Confusion Matrices</h2>
+        <img src="{{ url_for('static', filename='visualizations/logistic_regression_confusion_matrix.png') }}" alt="Logistic Regression Confusion Matrix">
+        <img src="{{ url_for('static', filename='visualizations/random_forest_confusion_matrix.png') }}" alt="Random Forest Confusion Matrix">
+        <img src="{{ url_for('static', filename='visualizations/xgboost_confusion_matrix.png') }}" alt="XGBoost Confusion Matrix">
+        <img src="{{ url_for('static', filename='visualizations/svm_confusion_matrix.png') }}" alt="SVM Confusion Matrix">
+        <img src="{{ url_for('static', filename='visualizations/ensemble_confusion_matrix.png') }}" alt="Ensemble Confusion Matrix">
+    </div>
+
+    <div class="navigation-links">
+        <a href="{{ url_for('logout') }}">Logout</a>
+    </div>
+{% endblock %}

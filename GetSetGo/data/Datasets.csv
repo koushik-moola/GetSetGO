@@ -1,0 +1,1201 @@
+    Fid,Gender,Age,AttendanceRate,GPA,Major,University,Studentname,Institution_Type,Year
+239.255.255.250-10.42.0.151-1900-58596-17,Male,24,90.75,3.47,Arts,"Stanford University, USA",Camila Wood,Private,2023
+10.42.0.151-10.42.0.1-5153-53-17,Female,22,74.9,2.32,Education,"Stanford University, USA",Alexander Thompson,Private,2023
+203.205.158.62-10.42.0.151-80-43183-6,Male,22,53.36,2.38,Business,"Harvard University, USA",Liam Taylor,Public,2023
+10.42.0.151-98.139.180.180-38602-443-6,Male,24,70.26,3.46,Science,"Stanford University, USA",Evelyn Jenkins,Private,2023
+10.42.0.211-34.192.69.195-60313-80-6,Male,18,74.87,2.31,Education,"Harvard University, USA",Michael Jackson,Private,2023
+10.42.0.151-52.52.43.76-58788-443-6,Female,20,86.01,2.47,Business,"Stanford University, USA",Chloe Moore,Private,2023
+10.42.0.211-115.239.210.141-47691-80-6,Male,19,55.33,3.93,Arts,"Harvard University, USA",Nicholas Clark,Private,2023
+10.42.0.151-10.42.0.1-20994-53-17,Male,18,57,2.51,Education,"Stanford University, USA",Olivia Richardson,Private,2023
+10.42.0.151-31.13.80.8-58700-443-6,Male,19,63.18,3.32,Business,"Stanford University, USA",Aiden Rivera,Public,2023
+172.217.10.226-10.42.0.211-443-45345-6,Female,24,63.32,3.96,Engineering,"Harvard University, USA",Harper Turner,Private,2023
+10.42.0.151-103.7.30.118-43688-80-6,Male,23,86.61,2.75,Engineering,"Stanford University, USA",Madison Lee,Public,2023
+224.0.0.251-10.42.0.151-5353-5353-17,Male,19,62.54,2.04,Science,"Harvard University, USA",Carter Hall,Private,2023
+10.42.0.151-10.42.0.1-20472-53-17,Male,20,81.65,2.49,Business,"Harvard University, USA",Mia Thomas,Private,2023
+10.42.0.211-23.206.166.62-37011-80-6,Male,23,74.71,3.66,Engineering,"University of Oxford, UK",Lucas Evans,Private,2023
+172.217.10.74-10.42.0.151-443-36831-6,Female,19,78.66,3.73,Arts,"Harvard University, USA",Abigail Bailey,Private,2023
+192.229.173.173-10.42.0.151-80-59839-6,Male,24,91.91,3.54,Business,"Harvard University, USA",Joseph Diaz,Private,2023
+172.217.7.163-10.42.0.42-443-40740-6,Female,23,70.22,2.23,Arts,"University of Cambridge, UK",William Walker,Public,2023
+172.217.12.131-10.42.0.151-443-41229-6,Female,24,88.55,3.59,Arts,"University of Oxford, UK",Andrew Anderson,Public,2023
+10.42.0.211-10.42.0.1-22757-53-17,Female,19,71.1,3.84,Engineering,"Harvard University, USA",Sophia King,Private,2023
+172.217.6.229-10.42.0.151-443-36455-6,Male,24,67.69,3.2,Business,"Harvard University, USA",Avery Gonzalez,Private,2023
+203.205.147.229-10.42.0.151-80-34424-6,Female,20,97.93,3.88,Education,"Harvard University, USA",Lily Davis,Private,2023
+10.42.0.211-77.234.44.200-51016-80-6,Male,19,59.22,3.65,Engineering,"Stanford University, USA",Scarlett Cooper,Public,2023
+172.217.6.193-10.42.0.211-443-53413-6,Female,19,54.52,3.33,Engineering,"Stanford University, USA",Grace Reed,Private,2023
+203.205.179.172-10.42.0.211-80-47191-6,Female,19,88.55,3.15,Business,"Harvard University, USA",Matthew Johnson,Private,2023
+10.42.0.151-64.71.142.124-36276-80-6,Female,18,53.41,2.7,Business,"Stanford University, USA",Jackson Baker,Public,2023
+216.58.219.234-10.42.0.211-443-56945-6,Female,18,91.85,2.32,Arts,"Harvard University, USA",Ella Martinez,Private,2023
+10.42.0.1-10.42.0.42-53-39659-17,Female,18,71.86,3.21,Business,"Stanford University, USA",Henry Perez,Private,2023
+10.42.0.151-121.31.30.143-57555-80-6,Female,20,95.78,2.64,Arts,"Stanford University, USA",Ava White,Private,2023
+10.42.0.151-31.13.80.52-57546-80-6,Female,23,86.08,3.73,Engineering,"Stanford University, USA",Gabriel Miller,Private,2023
+157.240.18.10-10.42.0.151-443-34267-6,Female,24,80.52,3.99,Science,"Stanford University, USA",Mia Brown,Private,2023
+10.42.0.211-66.102.255.40-43829-443-6,Male,22,97.47,3.5,Education,"Harvard University, USA",Layla Garcia,Private,2023
+172.217.9.234-10.42.0.151-443-43159-6,Male,19,69.83,2.18,Engineering,"Stanford University, USA",Emma Stewart,Private,2023
+10.42.0.151-104.193.88.109-58875-80-6,Female,24,97.7,2.58,Business,"University of Oxford, UK",Daniel Adams,Private,2023
+10.42.0.211-66.198.24.250-59005-80-6,Female,19,56.75,2.22,Education,"Stanford University, USA",Logan Smith,Private,2023
+10.42.0.211-10.42.0.1-5698-53-17,Female,20,74.19,3.3,Science,"Stanford University, USA",James Harris,Private,2023
+180.76.152.193-10.42.0.211-80-48236-6,Male,19,63.5,3.53,Science,"Harvard University, USA",Benjamin Martin,Private,2023
+172.217.6.206-10.42.0.211-80-50287-6,Female,18,76.99,3.85,Arts,"Harvard University, USA",Elijah Robinson,Public,2023
+10.42.0.151-10.42.0.1-39701-53-17,Male,22,58.1,2.88,Education,"Harvard University, USA",Zoey Hayes,Private,2023
+10.42.0.151-10.42.0.1-30733-53-17,Male,21,92.08,3.8,Arts,"Harvard University, USA",Samuel Phillips,Public,2023
+10.42.0.211-114.134.80.163-40022-80-6,Male,19,92.32,3.76,Engineering,"Harvard University, USA",Emily Williams,Public,2023
+172.217.10.42-10.42.0.211-443-42024-6,Male,24,97.76,2.63,Education,"Stanford University, USA",Sofia Lewis,Private,2023
+172.217.10.138-10.42.0.151-443-46680-6,Male,18,57.73,3.74,Engineering,"University of Oxford, UK",Amelia Young,Private,2023
+10.42.0.211-104.192.110.245-37919-80-6,Female,21,81.17,2.75,Arts,"Harvard University, USA",Charlotte Wilson,Private,2023
+172.217.12.129-10.42.0.211-443-33622-6,Female,22,73.71,2.59,Education,"Harvard University, USA",Jack Scott,Private,2023
+172.217.12.170-10.42.0.42-443-60010-6,Female,21,67.22,3.3,Arts,"Harvard University, USA",Noah Parker,Private,2023
+10.42.0.211-104.192.110.245-37617-443-6,Female,18,67.58,2.66,Education,"Harvard University, USA",David Rodriguez,Private,2023
+10.42.0.42-74.125.196.94-38534-443-6,Female,23,70.64,3.26,Arts,"Stanford University, USA",Aria Nelson,Private,2023
+203.205.190.40-10.42.0.42-80-52495-6,Male,23,85.25,3.22,Science,"Harvard University, USA",Ethan Carter,Private,2023
+10.42.0.211-98.139.183.24-36231-443-6,Female,21,79.91,3.13,Arts,"Harvard University, USA",Oliver Green,Private,2023
+172.217.6.234-10.42.0.151-443-33403-6,Female,20,72.98,2.76,Science,"Harvard University, USA",Harper Jones,Private,2023
+162.208.22.39-10.42.0.151-443-52703-6,Male,24,53.8,3.1,Arts,"Stanford University, USA",David Martin,Public,2023
+10.42.0.151-14.204.144.144-33144-80-6,Female,24,53.89,3.19,Education,"Stanford University, USA",Avery Green,Private,2023
+180.149.153.68-10.42.0.211-80-40323-6,Male,21,50.12,3.09,Education,"Harvard University, USA",Aiden Wood,Private,2023
+10.42.0.211-23.15.4.11-52529-80-6,Female,19,98.38,2.89,Education,"Harvard University, USA",Jackson Anderson,Public,2023
+182.22.24.124-10.42.0.211-443-53911-6,Male,19,50.26,2.03,Business,"Stanford University, USA",Scarlett Lee,Private,2023
+10.42.0.151-104.244.42.194-38904-443-6,Female,24,55.15,3.17,Engineering,"Stanford University, USA",Lucas Johnson,Private,2023
+10.42.0.151-10.42.0.1-9196-53-17,Female,24,65.73,2.34,Education,"Massachusetts Institute of Technology (MIT), USA",Madison Davis,Public,2023
+10.42.0.211-14.29.93.254-34945-80-6,Male,23,90.37,3.29,Science,"Harvard University, USA",Nicholas Jones,Private,2023
+10.42.0.151-10.42.0.1-38927-53-17,Male,20,98.1,3.52,Education,"Stanford University, USA",Evelyn Stewart,Private,2023
+10.42.0.211-69.147.64.33-49561-443-6,Male,18,89.5,3,Business,"Stanford University, USA",Benjamin Richardson,Public,2023
+172.217.10.138-10.42.0.42-443-45730-6,Male,19,84.53,3.08,Science,"Harvard University, USA",Charlotte Walker,Private,2023
+10.42.0.211-10.42.0.1-16282-53-17,Male,24,76.07,3.9,Business,"Harvard University, USA",Samuel Scott,Public,2023
+152.163.56.2-10.42.0.151-443-58034-6,Male,23,54.34,3.69,Science,"Stanford University, USA",William Rodriguez,Private,2023
+10.42.0.211-66.102.255.44-59333-443-6,Male,22,97.91,3.83,Arts,"Harvard University, USA",Emily Carter,Private,2023
+219.142.78.217-10.42.0.211-80-48862-6,Male,23,87.92,3.63,Engineering,"Harvard University, USA",Carter Hall,Private,2023
+198.11.132.221-10.42.0.211-443-52880-6,Female,19,81.95,2.22,Engineering,"Harvard University, USA",Alexander Moore,Public,2023
+172.217.10.234-10.42.0.42-443-52674-6,Female,19,87.95,2.3,Business,"Massachusetts Institute of Technology (MIT), USA",Emma Wilson,Private,2023
+10.42.0.211-104.88.89.135-33362-443-6,Male,23,86.21,3.05,Engineering,"Harvard University, USA",Mia Young,Public,2023
+10.42.0.211-10.42.0.1-56298-53-17,Female,18,81.86,2.49,Business,"Stanford University, USA",Aria Evans,Public,2023
+10.42.0.211-106.39.169.66-51885-80-6,Female,21,99.03,2.95,Business,"Harvard University, USA",Layla Phillips,Private,2023
+172.217.11.2-10.42.0.211-443-34472-6,Female,19,95.17,2.79,Business,"Massachusetts Institute of Technology (MIT), USA",Matthew Lewis,Public,2023
+10.42.0.151-10.42.0.1-47394-53-17,Female,23,82.33,3.1,Engineering,"Harvard University, USA",Noah Jenkins,Public,2023
+216.58.219.238-10.42.0.211-443-38396-6,Male,24,84.66,3.49,Business,"Harvard University, USA",Camila Hayes,Public,2023
+172.217.10.33-10.42.0.42-443-43726-6,Female,23,52.58,3.43,Engineering,"Stanford University, USA",Logan Turner,Private,2023
+10.42.0.211-10.42.0.1-31907-53-17,Male,20,83.5,3.04,Business,"Harvard University, USA",Lily Miller,Private,2023
+10.42.0.42-117.121.27.10-59191-80-6,Female,21,52.21,3.64,Education,"Harvard University, USA",Mia Perez,Private,2023
+10.42.0.42-52.84.137.241-35720-443-6,Female,22,79.41,2.86,Business,"Stanford University, USA",Zoey Rivera,Private,2023
+10.42.0.151-111.206.25.159-40958-80-6,Female,18,99.97,3.79,Science,"Stanford University, USA",Sophia King,Public,2023
+10.42.0.211-10.42.0.1-24440-53-17,Male,22,77.79,2.14,Business,"Harvard University, USA",Grace Cooper,Private,2023
+172.217.9.227-10.42.0.151-443-54370-6,Female,21,73.66,3.91,Arts,"Stanford University, USA",Chloe Williams,Private,2023
+10.42.0.211-10.42.0.1-46206-53-17,Male,21,65.64,3.31,Business,"Harvard University, USA",Ella Bailey,Private,2023
+10.42.0.211-77.234.44.40-42384-80-6,Female,21,56.03,2.76,Science,"Stanford University, USA",Harper Nelson,Private,2023
+175.100.207.232-10.42.0.42-443-37579-6,Male,22,86.55,2.39,Science,"Harvard University, USA",Henry Baker,Private,2023
+172.217.6.195-10.42.0.211-443-40731-6,Female,24,59.63,2.96,Engineering,"Harvard University, USA",Andrew Gonzalez,Public,2023
+172.217.9.234-10.42.0.151-443-34004-6,Male,21,55.76,2.39,Education,"Stanford University, USA",Amelia Harris,Private,2023
+183.79.248.252-10.42.0.211-443-44389-6,Male,23,71.09,2.33,Business,"Harvard University, USA",Abigail Robinson,Private,2023
+182.22.25.124-10.42.0.151-443-56817-6,Female,22,89.77,3.23,Engineering,"Harvard University, USA",Harper Jackson,Private,2023
+172.217.9.234-10.42.0.211-443-37658-6,Male,21,87.25,3.05,Education,"Massachusetts Institute of Technology (MIT), USA",Michael White,Private,2023
+8.0.6.4-8.6.0.1-0-0-0,Female,23,52.74,3.34,Business,"University of Oxford, UK",Daniel Brown,Private,2023
+10.42.0.211-104.193.88.109-53569-80-6,Female,24,72.76,3.86,Arts,"Harvard University, USA",Elijah Thomas,Public,2023
+10.42.0.211-98.139.199.205-40148-443-6,Female,20,76.12,3.06,Business,"Harvard University, USA",Liam Thompson,Private,2023
+174.35.73.93-10.42.0.151-80-43890-6,Female,24,82.23,3.16,Science,"Harvard University, USA",Joseph Martinez,Private,2023
+172.217.11.48-10.42.0.151-443-41752-6,Female,21,82.51,2.18,Science,"Massachusetts Institute of Technology (MIT), USA",James Taylor,Private,2023
+10.42.0.1-10.42.0.42-53-41101-17,Female,22,68.23,3.44,Arts,"Massachusetts Institute of Technology (MIT), USA",Ava Clark,Private,2023
+172.217.3.104-10.42.0.42-443-52092-6,Female,19,78.03,2.8,Engineering,"Harvard University, USA",Gabriel Diaz,Private,2023
+10.42.0.42-54.230.39.123-39632-443-6,Female,21,74.05,3.95,Education,"California Institute of Technology (Caltech), USA",Oliver Parker,Private,2023
+172.217.9.226-10.42.0.211-443-53444-6,Female,19,94.25,3.65,Business,"Harvard University, USA",Olivia Smith,Private,2023
+10.42.0.151-10.42.0.1-44391-5351-17,Female,23,76.51,3.04,Science,"Harvard University, USA",Ethan Adams,Public,2023
+172.217.12.138-10.42.0.151-443-43735-6,Female,20,72.05,2.25,Engineering,"Harvard University, USA",Sofia Garcia,Private,2023
+205.185.216.42-10.42.0.151-80-53357-6,Male,18,70.22,3.72,Arts,"University of Oxford, UK",Jack Reed,Public,2023
+10.42.0.211-10.42.0.1-43523-53-17,Male,24,78.62,3.6,Science,"Harvard University, USA",Henry Gonzalez,Private,2023
+173.241.242.143-10.42.0.211-443-47238-6,Female,20,90.2,2.37,Arts,"Harvard University, USA",Jackson Johnson,Private,2023
+10.42.0.211-10.42.0.1-14542-53-17,Female,21,76.92,2.59,Business,"California Institute of Technology (Caltech), USA",William Richardson,Private,2023
+10.42.0.211-10.42.0.1-14935-53-17,Female,19,83.08,3.59,Education,"Imperial College London, UK",Gabriel Wilson,Private,2023
+10.42.0.151-23.101.115.193-52194-443-6,Female,24,86.89,2.37,Science,"University of Oxford, UK",Ava Walker,Private,2023
+10.42.0.211-103.235.46.211-43400-443-6,Female,19,76.01,3.84,Science,"Harvard University, USA",Harper Bailey,Public,2023
+10.42.0.151-123.125.46.11-46456-80-6,Female,22,71.34,2.85,Business,"Harvard University, USA",Alexander Clark,Private,2023
+10.42.0.211-36.110.213.49-39789-443-6,Female,19,93.83,2.17,Engineering,"Stanford University, USA",Michael Evans,Private,2023
+182.22.25.124-10.42.0.211-443-54115-6,Female,22,70.88,3.63,Education,"Stanford University, USA",Zoey Jenkins,Private,2023
+10.42.0.211-10.42.0.1-18545-53-17,Male,23,73.1,2.75,Science,"Harvard University, USA",Liam Taylor,Private,2023
+192.229.163.180-10.42.0.151-443-52892-6,Female,24,99.52,3.05,Education,"University of Oxford, UK",Camila Rivera,Public,2023
+203.205.128.137-10.42.0.211-80-47250-6,Male,24,50.01,2.22,Science,"Harvard University, USA",Jack Garcia,Private,2023
+172.217.7.227-10.42.0.211-80-42392-6,Female,18,59.27,2.01,Education,"Massachusetts Institute of Technology (MIT), USA",Joseph Parker,Public,2023
+203.130.53.126-10.42.0.211-80-39366-6,Female,21,69.2,3.28,Arts,"University of Oxford, UK",Abigail Thomas,Private,2023
+206.126.112.142-10.42.0.42-443-40926-6,Male,22,96.63,3.03,Science,"Harvard University, USA",Sophia Carter,Private,2023
+209.10.120.26-10.42.0.211-80-34317-6,Female,18,53.5,3.19,Education,"Harvard University, USA",Layla Jackson,Private,2023
+10.42.0.151-106.11.94.21-60919-443-6,Male,19,50.47,3.59,Engineering,"Stanford University, USA",Mia Smith,Public,2023
+172.217.12.174-10.42.0.211-443-58888-6,Female,19,52.63,3.29,Arts,"Stanford University, USA",Sofia Nelson,Private,2023
+10.42.0.42-72.21.206.141-42474-443-6,Female,18,54.43,2.35,Arts,"Stanford University, USA",Elijah Williams,Public,2023
+172.217.10.10-10.42.0.42-443-46170-6,Male,24,51.88,2.72,Engineering,"Stanford University, USA",Charlotte Baker,Private,2023
+10.42.0.42-65.52.108.74-35325-443-6,Female,19,73.99,3.81,Education,"Stanford University, USA",Benjamin Green,Private,2023
+172.217.12.130-10.42.0.211-443-54594-6,Male,23,79.04,3.54,Business,"Harvard University, USA",Matthew Miller,Private,2023
+180.163.15.184-10.42.0.211-80-45684-6,Female,23,63.58,3.11,Engineering,"Stanford University, USA",Ella Stewart,Private,2023
+172.217.9.225-10.42.0.151-443-33764-6,Male,18,69.91,2.51,Education,"Stanford University, USA",Emily Moore,Private,2023
+10.42.0.211-87.240.165.80-39757-80-6,Male,22,54.58,2.6,Engineering,"Harvard University, USA",Noah Martinez,Private,2023
+202.77.129.150-10.42.0.211-443-51061-6,Female,22,66.82,3.46,Engineering,"Harvard University, USA",Grace Hall,Private,2023
+192.229.173.173-10.42.0.42-443-52970-6,Female,18,76.13,3.7,Science,"University of Oxford, UK",Logan Brown,Public,2023
+172.217.9.234-10.42.0.151-443-51029-6,Male,22,86.61,3.34,Education,"Stanford University, USA",Lily Davis,Public,2023
+198.11.188.78-10.42.0.211-443-44990-6,Female,24,50.17,3.62,Business,"Massachusetts Institute of Technology (MIT), USA",Amelia Jones,Public,2023
+172.217.12.195-10.42.0.151-443-45129-6,Female,24,73.37,3.53,Science,"Harvard University, USA",Carter Wood,Private,2023
+10.42.0.211-10.42.0.1-21456-53-17,Female,22,64.85,2.3,Engineering,"Harvard University, USA",Emma Reed,Private,2023
+202.77.129.161-10.42.0.211-80-42491-6,Male,23,92.64,2.85,Engineering,"Harvard University, USA",Harper Diaz,Public,2023
+10.42.0.211-10.42.0.1-12152-53-17,Male,22,85.78,2.31,Engineering,"Stanford University, USA",Daniel Lee,Private,2023
+172.217.11.10-10.42.0.211-443-38107-6,Male,24,79.46,2.47,Education,"Stanford University, USA",David Adams,Public,2023
+172.217.10.131-10.42.0.211-443-40571-6,Male,20,63.86,3.74,Education,"Harvard University, USA",James Scott,Private,2023
+221.228.208.97-10.42.0.151-80-60712-6,Male,21,95.52,2.95,Science,"Harvard University, USA",Chloe Anderson,Public,2023
+10.42.0.211-10.42.0.1-1952-53-17,Male,19,52.26,3.07,Business,"Harvard University, USA",Oliver Turner,Private,2023
+10.42.0.211-63.250.200.101-42730-443-6,Male,20,55.47,2.36,Science,"University of Oxford, UK",Scarlett Cooper,Private,2023
+10.42.0.151-52.94.232.33-50030-443-6,Male,22,69.58,2.62,Arts,"Stanford University, USA",Mia Young,Private,2023
+172.217.12.195-10.42.0.151-443-43323-6,Male,23,56.22,2.46,Engineering,"Harvard University, USA",Olivia White,Private,2023
+180.76.174.197-10.42.0.211-80-52217-6,Female,18,97.82,2.41,Engineering,"Stanford University, USA",Lucas Hayes,Private,2023
+10.42.0.211-10.42.0.1-53678-53-17,Male,22,89.9,3.28,Engineering,"University of Cambridge, UK",Aria King,Private,2023
+169.45.214.243-10.42.0.211-443-36631-6,Female,23,62.95,2.51,Science,"Harvard University, USA",Madison Harris,Private,2023
+183.79.248.124-10.42.0.211-443-40421-6,Female,21,79.43,3.26,Science,"University of Oxford, UK",Aiden Thompson,Private,2023
+10.42.0.211-104.254.66.16-47380-80-6,Female,22,99.12,2.12,Engineering,"Harvard University, USA",Andrew Phillips,Public,2023
+10.42.0.211-10.42.0.1-32460-53-17,Male,24,94.21,2.28,Science,"Harvard University, USA",Evelyn Robinson,Private,2023
+10.42.0.151-10.42.0.1-21604-53-17,Male,18,80.04,2.55,Education,"Stanford University, USA",Avery Lewis,Private,2023
+10.42.0.151-31.13.71.3-35366-443-6,Male,23,95.19,3.19,Education,"Stanford University, USA",Ethan Martin,Private,2023
+10.42.0.211-10.42.0.1-50373-53-17,Male,23,99.46,3.35,Science,"Harvard University, USA",Nicholas Rodriguez,Private,2023
+10.42.0.151-10.42.0.1-43443-53-17,Female,23,87.17,2.89,Engineering,"Stanford University, USA",Samuel Perez,Public,2023
+172.217.12.194-10.42.0.211-443-47702-6,Male,21,53.25,2.89,Science,"Massachusetts Institute of Technology (MIT), USA",Emily Lee,Private,2023
+10.42.0.211-52.84.145.171-58226-443-6,Male,22,70.08,3.45,Science,"Harvard University, USA",Jesse Lawhorn,Public,2023
+10.42.0.151-119.146.74.33-38976-443-6,Male,21,91.89,2.03,Science,"Stanford University, USA",Stacy Payne,Private,2023
+172.217.3.109-10.42.0.151-443-33396-6,Male,19,61.53,2.68,Arts,"Harvard University, USA",Katrina Nicewander,Private,2023
+10.42.0.211-10.42.0.1-26449-53-17,Male,19,91.53,3.64,Education,"Massachusetts Institute of Technology (MIT), USA",Eric Yarbrough,Private,2023
+211.103.34.111-10.42.0.211-8080-60439-6,Female,22,56.02,3.21,Business,"Harvard University, USA",Daniel Adkins,Public,2023
+172.217.3.110-10.42.0.42-443-55146-6,Male,24,52.35,2.67,Business,"Harvard University, USA",Diane Jara,Private,2023
+203.205.160.20-10.42.0.151-80-53322-6,Female,21,69.2,3.81,Arts,"Stanford University, USA",Sheryl Morgan,Public,2023
+10.42.0.211-64.71.142.96-60177-443-6,Male,18,51.84,3.55,Science,"Harvard University, USA",William Harper,Private,2023
+172.217.12.138-10.42.0.42-443-54673-6,Female,23,97.86,2.53,Arts,"Harvard University, USA",Virginia Varron,Private,2023
+172.217.10.14-10.42.0.151-443-50221-17,Male,23,91.31,3.29,Arts,"Stanford University, USA",Charles Figueroa,Private,2023
+172.217.10.142-10.42.0.211-443-44265-6,Male,22,90.04,3.19,Engineering,"Stanford University, USA",Paul Chain,Private,2023
+10.42.0.151-121.12.98.64-59148-80-6,Female,24,81.49,2.8,Education,"Harvard University, USA",Christina Parker,Public,2023
+172.217.11.42-10.42.0.211-443-55640-6,Female,19,60.82,2.73,Business,"Stanford University, USA",Jack Freeman,Public,2023
+140.205.62.20-10.42.0.211-80-36819-6,Female,19,75.91,2.69,Science,"Harvard University, USA",Wayne Fasano,Public,2023
+202.77.129.150-10.42.0.211-443-41525-6,Male,23,79.86,3.23,Business,"Stanford University, USA",Homer Maxwell,Private,2023
+209.10.120.26-10.42.0.211-80-33938-6,Female,22,76.25,2.88,Business,"Harvard University, USA",Frank Holmes,Public,2023
+10.42.0.42-115.239.210.141-47688-80-6,Male,21,63.01,3.66,Education,"Harvard University, USA",Donald Zeller,Public,2023
+209.10.120.26-10.42.0.211-80-38896-6,Male,19,75.76,3.34,Business,"Stanford University, USA",Sheldon Wentz,Private,2023
+198.11.132.178-10.42.0.211-443-48328-6,Female,21,74.56,2.14,Business,"Harvard University, USA",Isabel Williams,Public,2023
+10.42.0.211-10.42.0.1-9221-53-17,Female,24,99.82,3.28,Arts,"Harvard University, USA",Cody Watson,Private,2023
+10.42.0.211-77.234.44.79-39909-443-6,Male,19,94.87,2.54,Education,"Massachusetts Institute of Technology (MIT), USA",Doris Vinci,Public,2023
+203.205.158.62-10.42.0.211-80-33404-6,Male,19,73.17,3.19,Engineering,"University of Oxford, UK",Bobby Christensen,Private,2023
+198.105.244.11-10.42.0.151-80-57934-6,Female,20,81.15,3.36,Science,"Harvard University, USA",William Richardson,Private,2023
+172.217.12.142-10.42.0.42-80-43798-6,Female,19,87.39,2.46,Business,"Harvard University, USA",Hester Avery,Public,2023
+10.42.0.1-10.42.0.42-53-62484-17,Female,18,51.74,2.91,Science,"Harvard University, USA",Ruth Burns,Private,2023
+10.42.0.211-104.244.43.99-49021-443-6,Male,22,94.75,2.38,Engineering,"Massachusetts Institute of Technology (MIT), USA",William Pitman,Private,2023
+10.42.0.42-121.12.98.62-52182-80-6,Male,22,93.01,2.1,Science,"Massachusetts Institute of Technology (MIT), USA",Darrell Prendergast,Public,2023
+216.58.219.238-10.42.0.42-443-58178-6,Male,21,72.87,2.76,Engineering,"Harvard University, USA",Manuel Helton,Private,2023
+192.229.173.173-10.42.0.151-80-46804-6,Male,24,69.56,2.73,Arts,"California Institute of Technology (Caltech), USA",Rena Wild,Private,2023
+172.217.10.138-10.42.0.211-443-43025-6,Male,19,63.65,3.99,Business,"Harvard University, USA",Marilyn Mahan,Public,2023
+10.42.0.211-104.93.163.48-34924-80-6,Male,18,73.83,2.89,Engineering,"Harvard University, USA",David Coleman,Private,2023
+192.229.173.173-10.42.0.42-443-42176-6,Female,21,52.22,2.67,Science,"Harvard University, USA",Steven Hille,Private,2023
+151.101.1.134-10.42.0.151-443-35334-6,Male,20,92.61,3.16,Business,"University of Oxford, UK",Joyce Lashley,Private,2023
+10.42.0.151-10.42.0.1-17427-53-17,Male,21,51.77,2.18,Arts,"Harvard University, USA",Christian Kim,Private,2023
+151.101.21.63-10.42.0.211-443-59663-6,Male,21,66.45,3.92,Business,"Harvard University, USA",Manuel Strickland,Private,2023
+10.42.0.151-23.67.1.79-50403-443-6,Female,19,96.58,3.27,Engineering,"California Institute of Technology (Caltech), USA",Erica Dilks,Private,2023
+10.42.0.42-88.212.201.208-49654-443-6,Male,20,86.76,3.51,Arts,"Imperial College London, UK",Justin Gallant,Public,2023
+172.217.10.138-10.42.0.151-443-40472-6,Male,21,64.07,2.34,Science,"University of Oxford, UK",Christopher Martin,Private,2023
+180.149.136.247-10.42.0.42-80-49129-6,Female,18,62.63,2.82,Arts,"Harvard University, USA",Robert Ross,Private,2023
+239.255.255.250-10.42.0.1-1900-43327-17,Male,18,50.25,2.85,Arts,"Harvard University, USA",Laurie Mcgee,Private,2023
+182.254.5.234-10.42.0.211-80-47326-6,Male,22,84.79,3.64,Education,"Stanford University, USA",Carrie Bruner,Private,2023
+10.42.0.211-104.192.110.245-38033-80-6,Male,20,52.44,2,Arts,"Stanford University, USA",Diana French,Private,2023
+239.255.255.250-10.42.0.1-1900-44229-17,Male,20,76.63,2.6,Arts,"Harvard University, USA",Arthur Quezada,Public,2023
+192.229.173.173-10.42.0.151-80-35897-6,Male,22,98.11,3.96,Business,"University of Oxford, UK",William Putnam,Public,2023
+10.42.0.151-52.86.243.58-46983-443-6,Female,21,55.47,2.95,Science,"Harvard University, USA",Heidi Morrow,Private,2023
+10.42.0.211-115.239.210.141-58976-443-6,Female,20,94.72,2.77,Business,"Massachusetts Institute of Technology (MIT), USA",Teofila Harris,Public,2023
+172.217.12.142-10.42.0.151-443-40766-6,Female,18,99.57,2.24,Business,"University of Oxford, UK",Crystal Summy,Private,2023
+157.240.2.25-10.42.0.211-443-59096-6,Male,18,53.08,3.95,Engineering,"Harvard University, USA",Brenda Gegenheimer,Private,2023
+205.185.216.42-10.42.0.211-80-41824-6,Male,19,94.15,2.04,Business,"Harvard University, USA",Joshua Morgan,Public,2023
+202.77.129.150-10.42.0.211-80-47908-6,Male,20,75.8,3.47,Education,"Stanford University, USA",Cynthia Avellino,Public,2023
+172.217.12.174-10.42.0.151-443-36542-6,Female,21,95.33,3.54,Education,"Stanford University, USA",Michael Fairbanks,Private,2023
+10.42.0.1-10.42.0.42-53-54335-17,Male,22,78.57,2.49,Engineering,"Stanford University, USA",Audrey Hollenbeck,Private,2023
+172.217.10.77-10.42.0.42-443-58681-6,Male,22,83.11,3.34,Science,"Stanford University, USA",James Vazquez,Private,2023
+10.42.0.211-10.42.0.1-1522-53-17,Female,21,77.19,2.19,Science,"Stanford University, USA",Carita Scott,Private,2023
+182.22.65.140-10.42.0.151-443-37281-6,Male,24,93.22,2.51,Business,"Harvard University, USA",David Haden,Public,2023
+10.42.0.211-77.234.44.201-43806-80-6,Female,23,86.7,3.58,Business,"Stanford University, USA",Richard Dickson,Private,2023
+140.205.140.87-10.42.0.151-80-58824-6,Female,19,76.06,3.73,Business,"Stanford University, USA",Richard Soto,Private,2023
+10.42.0.151-10.42.0.1-6365-53-17,Female,22,93.41,3.22,Science,"Harvard University, USA",Verda Barry,Public,2023
+10.42.0.211-52.84.29.137-58302-443-6,Male,20,62.26,3.01,Arts,"Harvard University, USA",Charles Xiong,Private,2023
+172.217.3.99-10.42.0.151-443-33150-6,Male,19,57.87,2.32,Education,"University of Oxford, UK",Jacqueline Watkins,Public,2023
+151.101.1.140-10.42.0.211-443-43649-6,Male,20,58.02,2.13,Arts,"Stanford University, USA",Angel Barnes,Public,2023
+151.101.21.140-10.42.0.211-443-56703-6,Male,24,66.7,2.24,Arts,"Massachusetts Institute of Technology (MIT), USA",Karla Williams,Public,2023
+180.163.255.159-10.42.0.211-80-59933-6,Male,18,61.93,2.45,Science,"Harvard University, USA",Dorothy Cheng,Private,2023
+10.42.0.151-104.192.108.27-49497-80-6,Male,19,96.5,2.68,Arts,"Harvard University, USA",Eric Rice,Public,2023
+10.42.0.211-103.235.46.212-39080-443-6,Male,22,55.29,2.76,Engineering,"Harvard University, USA",Jane Blackwell,Public,2023
+10.42.0.211-54.230.36.66-58864-443-6,Female,19,84.95,2.69,Business,"Stanford University, USA",Blanche Demby,Private,2023
+172.217.11.14-10.42.0.151-443-46014-6,Male,19,59.46,2.48,Engineering,"Stanford University, USA",Julie Allen,Private,2023
+172.217.12.142-10.42.0.42-443-46523-6,Female,19,94.08,3.02,Education,"Harvard University, USA",Lori Montague,Private,2023
+10.42.0.211-31.13.71.3-54495-443-6,Male,23,98.07,3.65,Business,"Harvard University, USA",David Gibson,Public,2023
+10.42.0.151-10.42.0.1-15331-53-17,Male,19,73.27,2.56,Arts,"Harvard University, USA",Joseph Sherman,Private,2023
+10.42.0.211-23.219.23.167-36347-80-6,Male,20,93.95,3.88,Education,"University of Oxford, UK",Ted Blackwell,Private,2023
+216.58.219.227-10.42.0.151-443-34288-6,Female,18,50.26,3.75,Business,"Stanford University, USA",Jared Howard,Private,2023
+10.42.0.211-10.42.0.1-21120-53-17,Female,24,91,2.32,Arts,"Harvard University, USA",Charles Mccall,Private,2023
+10.42.0.151-10.42.0.1-17040-53-17,Female,21,61.43,3.57,Engineering,"Stanford University, USA",Lawrence Johnson,Private,2023
+10.42.0.211-10.42.0.1-2943-53-17,Female,19,95.44,3.15,Business,"University of Cambridge, UK",Michael Gamble,Private,2023
+220.243.219.55-10.42.0.42-80-40093-6,Male,22,50.06,3.13,Arts,"Harvard University, USA",Lucy Lea,Private,2023
+10.42.0.211-104.193.88.109-38510-80-6,Female,19,77.81,2.78,Engineering,"Harvard University, USA",Candy Camacho,Private,2023
+10.42.0.151-108.168.176.199-57691-5222-6,Male,22,87.83,3,Education,"Stanford University, USA",David Nguyen,Private,2023
+180.149.136.194-10.42.0.151-443-33755-6,Male,20,62.93,2.79,Education,"Harvard University, USA",Naomi Wallace,Private,2023
+10.42.0.151-36.110.213.49-47170-443-6,Female,22,59.66,3.08,Education,"Massachusetts Institute of Technology (MIT), USA",Maragaret Ellis,Private,2023
+10.42.0.42-123.125.115.164-42103-443-6,Female,21,54.2,3.26,Education,"Harvard University, USA",Andrew Jimenes,Private,2023
+10.42.0.211-23.208.168.108-35587-80-6,Female,18,66.32,3.35,Science,"Harvard University, USA",Rebekah Tiger,Private,2023
+172.217.10.78-10.42.0.211-443-49136-6,Female,22,77.99,3.06,Business,"Stanford University, USA",Henry Lebowitz,Public,2023
+10.42.0.151-31.13.80.37-40986-443-6,Female,22,55.79,3.44,Business,"Harvard University, USA",Rosa Perez,Private,2023
+172.217.12.170-10.42.0.42-443-46006-6,Female,18,68.83,2.28,Science,"Harvard University, USA",John Greene,Private,2023
+10.42.0.211-64.71.142.120-33206-443-6,Female,21,50.45,2.42,Arts,"Stanford University, USA",Michelle Mayhew,Private,2023
+10.42.0.151-14.17.42.57-53099-80-6,Female,19,90.93,3.64,Arts,"Stanford University, USA",David Prunty,Public,2023
+10.42.0.1-10.42.0.42-53-37181-17,Male,22,56.42,2.65,Education,"Harvard University, USA",Sheryl Godfrey,Private,2023
+172.217.10.10-10.42.0.151-443-40017-6,Female,18,64.17,2.05,Engineering,"Stanford University, USA",Juan Martinez,Private,2023
+10.42.0.211-77.234.44.199-47467-80-6,Female,20,50.92,2.31,Arts,"Harvard University, USA",Anna Bolton,Public,2023
+220.243.219.55-10.42.0.211-80-54501-6,Male,18,71.61,2.45,Engineering,"Stanford University, USA",Lorraine Bolt,Private,2023
+10.42.0.151-114.134.80.163-50927-80-6,Female,20,92.01,3.91,Business,"Harvard University, USA",Karen Silkenson,Public,2023
+10.42.0.1-10.42.0.42-53-37517-17,Male,21,69.61,3.15,Engineering,"Harvard University, USA",Valerie Webb,Private,2023
+10.42.0.42-63.251.88.56-37725-443-6,Male,19,58.97,3.87,Business,"Stanford University, USA",Carmen Blackburn,Private,2023
+203.205.147.229-10.42.0.151-80-36648-6,Female,18,87.68,3.15,Science,"Harvard University, USA",Anna Whitfield,Private,2023
+131.253.61.98-10.42.0.211-443-55152-6,Male,24,89.44,2.96,Science,"Harvard University, USA",Lynn Edmiston,Private,2023
+172.217.10.3-10.42.0.151-443-50724-6,Male,24,58.69,2.63,Education,"Massachusetts Institute of Technology (MIT), USA",Nanci Sabatino,Private,2023
+10.42.0.211-64.71.142.120-37154-443-6,Male,23,88.54,3.21,Arts,"University of Oxford, UK",Beverly Rash,Private,2023
+172.217.10.3-10.42.0.151-443-48229-6,Male,22,97.36,2.28,Education,"Harvard University, USA",Felecia Windham,Public,2023
+10.42.0.211-98.139.199.205-38844-443-6,Female,21,58.32,3.8,Business,"Harvard University, USA",Connie Turner,Private,2023
+10.42.0.42-50.17.227.139-56867-443-6,Male,18,88.55,3.66,Education,"Harvard University, USA",Arthur Pranger,Private,2023
+10.42.0.151-104.244.43.195-40371-443-6,Female,24,85.43,2.64,Engineering,"Massachusetts Institute of Technology (MIT), USA",William Seidman,Public,2023
+10.42.0.211-120.55.89.238-38203-8977-6,Male,22,73.68,3.91,Business,"Massachusetts Institute of Technology (MIT), USA",Thomas Montgomery,Public,2023
+172.217.9.225-10.42.0.151-443-45111-6,Male,24,52.9,3.65,Science,"Harvard University, USA",Ericka Griffis,Private,2023
+10.42.0.151-103.7.30.118-57563-80-6,Male,18,53.73,3.33,Arts,"California Institute of Technology (Caltech), USA",Edna Kimbrough,Private,2023
+172.217.6.227-10.42.0.211-443-60348-6,Male,20,92.62,2.24,Business,"Harvard University, USA",John Watts,Public,2023
+10.42.0.151-103.235.46.211-45704-80-6,Female,18,99.51,2.96,Business,"Harvard University, USA",Lisa Blackwell,Private,2023
+10.42.0.151-121.29.54.142-59446-80-6,Female,23,83.8,3.01,Engineering,"Harvard University, USA",David Pugh,Private,2023
+172.217.12.142-10.42.0.42-443-42537-6,Male,18,72.3,2.47,Arts,"University of Oxford, UK",Austin Smith,Public,2023
+10.42.0.151-69.28.57.178-39662-10086-6,Male,18,82.38,2.16,Science,"Harvard University, USA",Charles Hughes,Private,2023
+172.217.6.234-10.42.0.151-443-46728-6,Female,23,79.72,3.55,Business,"Harvard University, USA",John Hendrickson,Private,2023
+10.42.0.151-10.42.0.1-22844-53-17,Male,21,69.18,2.24,Business,"California Institute of Technology (Caltech), USA",Edwin Frantz,Private,2023
+10.42.0.151-10.42.0.1-19919-53-17,Male,18,53.28,3.19,Engineering,"Imperial College London, UK",Michael Paquette,Private,2023
+172.217.10.106-10.42.0.211-443-44045-6,Male,23,91.08,3.87,Education,"University of Oxford, UK",Barry Small,Public,2023
+10.42.0.211-14.17.42.57-58155-80-6,Female,22,68.59,3.75,Science,"Harvard University, USA",Ana Moore,Private,2023
+10.42.0.211-54.192.38.171-56444-443-6,Female,20,90.94,2.56,Arts,"Harvard University, USA",Karen Draper,Public,2023
+10.42.0.151-111.221.77.173-43477-40010-17,Female,20,62.63,3.7,Business,"Stanford University, USA",Shelby Barnes,Public,2023
+10.42.0.211-72.51.26.219-42280-80-6,Male,18,50.05,2,Business,"Stanford University, USA",John Tackett,Private,2023
+10.42.0.151-52.84.0.74-56783-443-6,Male,21,57.95,2.04,Science,"Harvard University, USA",Rhonda Adam,Private,2023
+172.217.10.67-10.42.0.151-443-43431-6,Female,21,73.43,3.21,Education,"University of Oxford, UK",Charles Garrett,Private,2023
+220.243.225.102-10.42.0.211-80-50728-6,Female,22,97.22,2.73,Business,"Harvard University, USA",Dawn Diaz,Private,2023
+10.42.0.211-23.21.95.195-52288-443-6,Female,18,55.11,2.77,Science,"Massachusetts Institute of Technology (MIT), USA",Lela Burns,Public,2023
+10.42.0.211-64.71.142.124-44198-443-6,Female,20,92.71,3.13,Engineering,"University of Oxford, UK",Charles Murillo,Private,2023
+172.217.12.174-10.42.0.211-443-57656-6,Male,21,76.35,2.38,Education,"Harvard University, USA",Bonnie Labree,Private,2023
+182.22.65.139-10.42.0.42-443-40644-6,Female,18,91.3,2.42,Arts,"Harvard University, USA",Trinidad Eastman,Private,2023
+10.42.0.211-104.254.66.16-58916-80-6,Male,24,64.92,2.97,Business,"Stanford University, USA",Angelica Walker,Private,2023
+192.229.163.180-10.42.0.151-443-46530-6,Female,21,92,3.51,Science,"Stanford University, USA",Charles Martin,Public,2023
+162.208.22.39-10.42.0.211-443-45090-6,Male,23,88.64,3.24,Engineering,"Stanford University, USA",Terry Herald,Private,2023
+172.217.12.170-10.42.0.211-443-44074-6,Female,24,61.5,2.59,Arts,"Stanford University, USA",Lilian Davis,Private,2023
+10.42.0.211-10.42.0.1-5457-53-17,Female,21,56.57,2.86,Science,"Stanford University, USA",Benjamin Stewart,Public,2023
+10.42.0.211-23.23.129.231-43094-443-6,Female,20,93.4,2.34,Science,"Harvard University, USA",Manuel Amato,Public,2023
+172.217.11.14-10.42.0.42-443-49893-17,Female,19,98.16,2.15,Arts,"Stanford University, USA",William Ashford,Private,2023
+10.42.0.211-23.219.23.166-47665-80-6,Male,24,51.57,3.57,Engineering,"Stanford University, USA",Felix Davis,Private,2023
+10.42.0.151-10.42.0.1-47799-53-17,Female,22,86.56,2.53,Engineering,"Harvard University, USA",Maggie Jess,Private,2023
+10.42.0.211-123.125.29.138-51191-80-6,Male,22,95.48,2.36,Education,"Harvard University, USA",Dorothy Dominguez,Public,2023
+10.42.0.211-66.102.255.44-42705-443-6,Male,20,92.87,3.38,Business,"University of Oxford, UK",Anthony Bell,Private,2023
+10.42.0.151-31.13.80.5-52202-443-6,Male,21,98.23,3.24,Arts,"Stanford University, USA",Robert Douglas,Private,2023
+172.217.10.110-10.42.0.42-443-44051-17,Male,18,88,3.27,Arts,"Massachusetts Institute of Technology (MIT), USA",Ivan Mcnelis,Private,2023
+10.42.0.211-10.42.0.1-51009-53-17,Female,21,72.11,2.46,Arts,"Harvard University, USA",April Thomas,Private,2023
+10.42.0.211-52.84.134.65-41272-443-6,Male,20,65.6,2.47,Engineering,"Harvard University, USA",Amy Baker,Private,2023
+172.217.9.234-10.42.0.151-443-42383-6,Male,22,66.04,2.44,Business,"Harvard University, USA",Curt Anderson,Private,2023
+220.181.7.190-10.42.0.151-443-39952-6,Male,21,86.22,2.35,Education,"Stanford University, USA",Kevin Dempsey,Private,2023
+151.101.1.140-10.42.0.211-443-48066-6,Female,22,87.29,3.31,Science,"Stanford University, USA",Emilia Hermanson,Public,2023
+10.42.0.211-64.71.142.110-45408-80-6,Female,24,60.02,3.7,Science,"Harvard University, USA",Billie Esser,Public,2023
+8.43.72.67-10.42.0.151-443-53999-6,Female,18,93.41,3.45,Arts,"Harvard University, USA",Ronald Stello,Private,2023
+10.42.0.211-10.42.0.1-1684-53-17,Female,24,85.75,3.58,Business,"Harvard University, USA",James Ortiz,Private,2023
+151.101.1.140-10.42.0.42-443-39277-6,Male,22,78.14,2.81,Engineering,"University of Oxford, UK",Gerardo Moran,Public,2023
+10.42.0.211-23.8.99.182-58543-443-6,Male,22,73.58,3.31,Business,"Stanford University, USA",Bryon Martin,Private,2023
+172.217.12.206-10.42.0.211-443-35187-6,Female,19,77.16,2.71,Business,"Harvard University, USA",Randolph Villani,Private,2023
+10.42.0.211-10.42.0.1-58605-53-17,Male,19,57.96,3.05,Engineering,"Stanford University, USA",Lee Patterson,Private,2023
+172.217.10.42-10.42.0.211-443-60452-6,Male,24,60.19,2.96,Arts,"University of Cambridge, UK",Julia Corso,Private,2023
+239.255.255.250-10.42.0.1-1900-47816-17,Male,23,54.56,2.35,Business,"Harvard University, USA",Ray Dudley,Private,2023
+10.42.0.151-10.42.0.1-24360-53-17,Female,24,57.68,2.77,Science,"Stanford University, USA",Lenora Woo,Private,2023
+10.42.0.211-69.147.82.60-33207-443-6,Female,19,72.68,3.93,Engineering,"Harvard University, USA",Benjamin Smith,Public,2023
+202.77.129.218-10.42.0.211-80-60137-6,Male,22,76.52,2.5,Education,"Stanford University, USA",Elnora Douglas,Private,2023
+10.42.0.211-50.19.223.117-47705-443-6,Female,20,50.89,2.27,Arts,"Harvard University, USA",Patricia Jackson,Public,2023
+10.42.0.211-123.125.29.138-51941-80-6,Female,24,89.84,2.84,Engineering,"Harvard University, USA",Esther Bradley,Private,2023
+10.42.0.211-54.192.37.49-51320-443-6,Female,22,64.71,3.58,Education,"Stanford University, USA",Thomas Driscoll,Private,2023
+172.217.12.206-10.42.0.151-443-56364-6,Female,20,95.59,3.16,Education,"Harvard University, USA",Evelyn Reeves,Public,2023
+209.10.120.26-10.42.0.211-80-54982-6,Female,20,98.38,3.36,Business,"Harvard University, USA",Salina Day,Private,2023
+216.58.219.196-10.42.0.151-443-50803-6,Male,19,59.27,2.38,Business,"Massachusetts Institute of Technology (MIT), USA",Larry Rogers,Private,2023
+10.42.0.211-23.219.23.167-35522-80-6,Female,24,73.1,3.24,Business,"University of Oxford, UK",Kevin Washington,Private,2023
+172.217.11.42-10.42.0.42-443-41333-6,Male,21,50.06,2.65,Engineering,"Harvard University, USA",Marjorie Leatherwood,Private,2023
+172.217.10.227-10.42.0.151-443-59491-6,Male,18,79.92,3.67,Engineering,"Harvard University, USA",Linsey Gannon,Private,2023
+10.42.0.211-104.254.66.16-58949-80-6,Female,19,80.37,3.26,Arts,"Harvard University, USA",Teresa Johnson,Private,2023
+10.42.0.211-10.42.0.1-57032-53-17,Male,19,62.38,2.4,Business,"Massachusetts Institute of Technology (MIT), USA",Isaac Jackson,Private,2023
+10.42.0.1-10.42.0.42-53-50009-17,Male,21,77.92,2.13,Education,"Massachusetts Institute of Technology (MIT), USA",Virginia Curtis,Public,2023
+10.42.0.211-87.240.165.91-49771-80-6,Male,18,61.28,2.09,Science,"Harvard University, USA",Jacob Wright,Private,2023
+172.217.12.206-10.42.0.151-443-52194-6,Female,22,58.04,2.74,Arts,"California Institute of Technology (Caltech), USA",Edward Miller,Private,2023
+10.42.0.42-54.173.220.111-56318-443-6,Female,23,82.58,2.53,Engineering,"Harvard University, USA",Arthur Nace,Private,2023
+10.42.0.211-14.17.42.57-47262-80-6,Male,24,66.3,3.29,Arts,"Harvard University, USA",Victoria Duncan,Private,2023
+222.73.28.96-10.42.0.211-80-32936-6,Female,23,79.51,3,Arts,"Harvard University, USA",Ruth Blackman,Private,2023
+172.217.10.138-10.42.0.151-443-54066-6,Female,22,71.66,2.53,Arts,"University of Oxford, UK",Robert Murray,Private,2023
+10.42.0.211-64.71.142.125-46361-443-6,Female,19,99.22,2.3,Arts,"Harvard University, USA",Maxine Meza,Private,2023
+10.42.0.151-10.42.0.1-51128-53-17,Female,18,57.48,2.25,Science,"Harvard University, USA",Joanne Perritt,Public,2023
+10.42.0.42-54.192.38.154-59374-443-6,Male,19,73.23,3.73,Business,"California Institute of Technology (Caltech), USA",Regina Washington,Private,2023
+10.42.0.151-10.42.0.1-23592-53-17,Male,20,84.02,2.49,Education,"Imperial College London, UK",Bessie Freeman,Public,2023
+10.42.0.151-104.244.43.131-57204-443-6,Female,19,69.78,3.3,Arts,"University of Oxford, UK",Kristy Spindler,Private,2023
+172.217.9.227-10.42.0.42-443-34840-6,Female,19,98.73,3.62,Arts,"Harvard University, USA",Judy Hosler,Public,2023
+10.42.0.211-72.247.70.190-40089-80-6,Male,22,86.09,3.23,Arts,"Harvard University, USA",Anna Woloszyn,Private,2023
+192.229.173.173-10.42.0.42-80-48401-6,Male,22,82.85,3.72,Business,"Stanford University, USA",Heather Lewis,Public,2023
+172.217.10.228-10.42.0.42-443-44262-6,Female,22,87.85,2.78,Engineering,"Stanford University, USA",Andrea Guererro,Private,2023
+10.42.0.211-10.42.0.1-55066-53-17,Male,23,97.63,3.91,Engineering,"Harvard University, USA",Mia Bickers,Private,2023
+10.42.0.151-98.139.180.180-39914-443-6,Female,20,95.39,2.27,Science,"University of Oxford, UK",Henry Parkman,Private,2023
+10.42.0.1-10.42.0.42-53-53137-17,Female,22,86.21,2.2,Engineering,"Harvard University, USA",Mary Willis,Private,2023
+10.42.0.211-104.254.66.16-50627-80-6,Male,18,87.46,3.32,Arts,"Massachusetts Institute of Technology (MIT), USA",Christopher Fowler,Private,2023
+10.42.0.211-10.42.0.1-30005-53-17,Male,23,57.3,3.89,Arts,"University of Oxford, UK",Thomas Jacobs,Public,2023
+180.149.136.194-10.42.0.211-80-41012-6,Female,21,55.14,3.62,Arts,"Harvard University, USA",Sean Colemen,Private,2023
+10.42.0.211-10.42.0.1-23450-53-17,Female,18,78.55,2.15,Science,"Harvard University, USA",Theresa Samaniego,Public,2023
+10.42.0.1-10.42.0.42-53-41476-17,Male,24,50.92,2.56,Arts,"Stanford University, USA",Adam Box,Private,2023
+10.42.0.151-10.42.0.1-35521-53-17,Female,24,74.12,3.86,Engineering,"Stanford University, USA",Marlene Rodgers,Public,2023
+10.42.0.151-10.42.0.1-12156-53-17,Male,18,60.52,2.51,Business,"Stanford University, USA",Valerie Woock,Private,2023
+10.42.0.211-104.68.227.87-59091-443-6,Female,22,67.3,3.56,Business,"Stanford University, USA",Eva Payne,Public,2023
+10.42.0.42-106.11.94.21-37280-443-6,Male,21,88.79,3.65,Education,"Stanford University, USA",Lawrence Doney,Private,2023
+10.42.0.211-23.52.146.64-33392-443-6,Male,21,97.06,2.99,Engineering,"Harvard University, USA",Joseph Heninger,Private,2023
+10.42.0.211-10.42.0.1-3106-53-17,Male,23,53.62,2.77,Arts,"Stanford University, USA",Wayne Williams,Public,2023
+203.130.53.126-10.42.0.211-80-38370-6,Female,21,76.71,2.9,Business,"Stanford University, USA",Martha Dorsey,Private,2023
+151.101.22.2-10.42.0.211-443-39518-6,Female,24,94.13,2.45,Engineering,"Harvard University, USA",Kelly Gearhart,Private,2023
+182.22.67.89-10.42.0.42-443-34067-6,Male,20,54.13,3.78,Business,"Harvard University, USA",Warren Felder,Private,2023
+10.42.0.42-106.39.169.66-57122-80-6,Female,22,91.23,2.9,Arts,"University of Oxford, UK",Robert Cole,Private,2023
+202.77.129.150-10.42.0.211-443-42256-6,Male,21,67.89,3.76,Business,"Stanford University, USA",Edmund Raney,Public,2023
+172.217.3.106-10.42.0.211-443-49808-6,Male,23,66.1,2.21,Education,"Massachusetts Institute of Technology (MIT), USA",Maureen Acuna,Private,2023
+172.217.10.238-10.42.0.151-443-56648-6,Female,24,98.87,3.98,Education,"Harvard University, USA",David Muzzey,Private,2023
+10.42.0.211-31.13.80.52-57253-443-6,Female,20,60.04,2.89,Business,"Harvard University, USA",Rodney Mccall,Private,2023
+10.42.0.211-121.14.255.98-58513-80-6,Male,19,84.66,2.1,Engineering,"Harvard University, USA",Sherry Settles,Public,2023
+172.217.12.195-10.42.0.151-443-52354-6,Female,19,91.07,2.08,Engineering,"Stanford University, USA",Irene Mull,Public,2023
+10.42.0.211-74.6.105.9-33885-443-6,Female,20,52.06,3.49,Engineering,"Stanford University, USA",Julie Allen,Private,2023
+10.42.0.1-10.42.0.42-53-27957-17,Male,24,83.52,3.32,Business,"Harvard University, USA",Eddie Cutler,Private,2023
+10.42.0.42-72.30.3.43-51926-443-6,Male,23,97.58,3.6,Engineering,"Harvard University, USA",Mark Latta,Private,2023
+10.42.0.151-23.208.35.210-45529-80-6,Female,20,56.21,2.21,Arts,"Harvard University, USA",Esther Bantz,Private,2023
+10.42.0.211-10.42.0.1-37516-53-17,Male,22,94.81,2.07,Education,"University of Oxford, UK",Eric Barrera,Private,2023
+172.217.10.234-10.42.0.151-443-44837-6,Male,22,79.74,3.02,Arts,"Stanford University, USA",Timothy Florens,Private,2023
+172.217.3.110-10.42.0.151-443-48028-6,Female,19,80.83,2.78,Engineering,"Harvard University, USA",Martha Isham,Private,2023
+10.42.0.211-54.243.187.254-38235-443-6,Male,21,80.65,2.92,Arts,"Stanford University, USA",Elliott Alvarado,Private,2023
+10.42.0.211-98.139.180.149-38120-443-6,Male,23,64.94,3.98,Engineering,"University of Cambridge, UK",Jonathan Scott,Private,2023
+10.42.0.211-36.51.254.232-38873-443-6,Female,19,96.76,3.94,Business,"Harvard University, USA",Anthony Maki,Public,2023
+157.240.2.25-10.42.0.42-443-47857-6,Female,21,97.37,3.88,Arts,"Harvard University, USA",Janice Warner,Private,2023
+172.217.11.35-10.42.0.151-443-39503-6,Male,21,81.27,3.57,Business,"Stanford University, USA",James Gordillo,Public,2023
+10.42.0.42-106.11.94.1-50641-443-6,Male,22,89.17,2.71,Business,"Harvard University, USA",Bernard Beck,Private,2023
+10.42.0.211-106.39.162.36-54697-80-6,Female,24,80.61,2.82,Science,"Stanford University, USA",Felix Shirley,Public,2023
+10.42.0.151-10.42.0.1-51497-53-17,Female,18,74.22,3.1,Engineering,"Harvard University, USA",Linda Thurlow,Private,2023
+172.217.10.42-10.42.0.42-443-59904-6,Female,24,83.04,3.66,Education,"Stanford University, USA",Willie Gee,Public,2023
+10.42.0.211-104.208.31.113-46751-443-6,Female,18,77.65,2.14,Engineering,"Harvard University, USA",John Titus,Private,2023
+8.0.6.4-8.6.0.1-0-0-0,Male,20,79.87,2.85,Education,"Harvard University, USA",Terrance Keith,Public,2023
+10.42.0.211-31.13.71.1-37623-443-6,Female,22,89.19,2.17,Engineering,"Stanford University, USA",Shirley Williams,Public,2023
+10.42.0.211-123.151.79.150-52386-80-6,Female,21,74.05,3.03,Business,"Harvard University, USA",Peter Dahlke,Private,2023
+172.217.12.142-10.42.0.151-443-53464-6,Male,23,52.04,3.8,Arts,"Harvard University, USA",Anthony Smith,Public,2023
+10.42.0.211-10.42.0.1-35441-53-17,Female,18,58.2,3.56,Arts,"Massachusetts Institute of Technology (MIT), USA",Jaime Sommers,Private,2023
+10.42.0.211-98.139.199.204-56348-443-6,Male,24,71.93,2.46,Science,"University of Oxford, UK",Karen Andrews,Public,2023
+157.240.18.35-10.42.0.151-443-42866-6,Female,21,86.24,3.95,Education,"Harvard University, USA",Debbie Valencia,Private,2023
+10.42.0.151-47.93.160.174-45889-80-6,Female,18,79.66,3.33,Education,"Harvard University, USA",Ben Bowser,Public,2023
+222.73.28.96-10.42.0.211-80-32865-6,Female,18,82.51,2.02,Education,"Harvard University, USA",Donna Powell,Private,2023
+10.42.0.151-40.122.44.96-38120-443-6,Male,18,73.96,2.51,Business,"Massachusetts Institute of Technology (MIT), USA",Justin Fuqua,Private,2023
+172.217.10.142-10.42.0.151-443-38477-6,Male,23,80.79,2.52,Education,"Massachusetts Institute of Technology (MIT), USA",Elsie Stephens,Public,2023
+10.42.0.211-64.71.142.120-33207-443-6,Female,22,66.45,2.14,Arts,"Harvard University, USA",Christopher Finch,Public,2023
+172.217.6.234-10.42.0.211-443-39479-6,Male,23,73.51,3.92,Business,"California Institute of Technology (Caltech), USA",Eugene Heck,Private,2023
+10.42.0.211-31.13.80.52-33903-80-6,Male,19,87.21,2.96,Engineering,"Harvard University, USA",Terry Mcphail,Private,2023
+10.42.0.211-36.51.254.232-34680-443-6,Male,21,93.59,3.79,Education,"Harvard University, USA",Aaron Delgado,Private,2023
+173.222.142.156-10.42.0.211-443-32971-6,Male,22,71.68,2.64,Education,"Harvard University, USA",Donald Johnson,Public,2023
+10.42.0.211-10.42.0.1-1407-53-17,Male,22,52.18,2.25,Engineering,"University of Oxford, UK",Sara Rodriguez,Private,2023
+175.100.207.206-10.42.0.211-80-35488-6,Male,22,58.08,2.95,Education,"Harvard University, USA",Lianne Battle,Private,2023
+10.42.0.211-106.11.93.16-57557-443-6,Female,24,51.04,2.23,Engineering,"Harvard University, USA",Kevin Wirtz,Private,2023
+10.42.0.211-121.12.98.64-51600-80-6,Female,22,82.66,2.97,Business,"California Institute of Technology (Caltech), USA",Crystal White,Public,2023
+180.149.136.194-10.42.0.151-80-56005-6,Male,23,66.62,3.84,Arts,"Imperial College London, UK",John Turner,Private,2023
+172.217.10.226-10.42.0.211-443-40807-6,Female,22,77.12,3.04,Engineering,"University of Oxford, UK",Jim Erling,Public,2023
+10.42.0.151-31.13.69.195-47278-443-6,Female,20,74.66,3.23,Science,"Harvard University, USA",David Howell,Private,2023
+172.217.10.78-10.42.0.151-443-45549-6,Female,21,54.08,2.31,Engineering,"Harvard University, USA",Scott Fusco,Private,2023
+10.42.0.42-58.63.236.212-50450-443-6,Female,22,70.16,2.09,Education,"Stanford University, USA",Samuel Lewis,Private,2023
+10.42.0.211-23.206.162.129-53701-80-6,Male,21,61.03,2.22,Business,"Stanford University, USA",Ralph Holder,Public,2023
+203.205.158.60-10.42.0.211-80-41161-6,Female,20,70.92,3.2,Business,"Harvard University, USA",Napoleon Vega,Public,2023
+10.42.0.211-72.21.206.140-46342-443-6,Female,20,60.18,2.19,Engineering,"University of Oxford, UK",Louis Skinner,Public,2023
+10.42.0.1-10.42.0.42-53-65047-17,Male,21,92.02,2.75,Arts,"Harvard University, USA",Lonnie Hartman,Public,2023
+10.42.0.151-10.42.0.1-5499-53-17,Male,18,58.71,3.1,Science,"Massachusetts Institute of Technology (MIT), USA",Cassandra Pepin,Public,2023
+10.42.0.151-121.12.98.63-48537-80-6,Female,19,98.04,2.78,Business,"University of Oxford, UK",Marsha Grollimund,Private,2023
+192.229.173.173-10.42.0.211-80-46887-6,Female,24,70.8,2.33,Education,"Harvard University, USA",Kenneth Waddell,Public,2023
+151.101.21.140-10.42.0.42-443-39443-6,Female,18,92.31,2.55,Education,"Harvard University, USA",Julie Martinez,Private,2023
+10.42.0.211-10.42.0.1-20372-53-17,Female,18,81.44,3.86,Arts,"Stanford University, USA",Ty Scott,Private,2023
+10.42.0.211-10.42.0.1-30051-53-17,Female,23,86.77,3.35,Business,"Stanford University, USA",Michael Griffies,Private,2023
+10.42.0.211-111.1.17.152-33704-80-6,Female,24,88.39,2.99,Engineering,"Stanford University, USA",Patricia Strickland,Public,2023
+10.42.0.151-121.14.255.49-52308-80-6,Male,24,75.24,2.03,Education,"Stanford University, USA",David Lewis,Private,2023
+172.217.12.194-10.42.0.211-443-51536-6,Female,18,77.17,3.98,Arts,"Stanford University, USA",Randall Grant,Private,2023
+10.42.0.211-95.213.11.133-56087-80-6,Female,22,75.7,3.34,Business,"Harvard University, USA",Gina Kitanik,Private,2023
+10.42.0.151-10.42.0.1-48853-53-17,Male,23,79.4,2.63,Business,"Stanford University, USA",Philip Fernandez,Private,2023
+172.217.11.14-10.42.0.151-443-43508-6,Male,23,51.47,3.76,Business,"Stanford University, USA",Velma Perry,Private,2023
+10.42.0.1-10.42.0.42-53-61281-17,Male,20,69.78,2.52,Business,"Harvard University, USA",Lester Reid,Public,2023
+10.42.0.151-10.42.0.1-39277-53-17,Male,24,80.31,3.09,Business,"Harvard University, USA",Reginald Metz,Public,2023
+10.42.0.211-64.71.142.124-46179-80-6,Female,18,79.89,3.27,Education,"University of Oxford, UK",Jeffrey Beltran,Private,2023
+10.42.0.211-119.6.229.36-42096-80-6,Female,20,89.65,2.44,Arts,"Stanford University, USA",Ruth Lachley,Public,2023
+10.42.0.151-10.42.0.1-19798-53-17,Female,21,82.75,3.96,Business,"Massachusetts Institute of Technology (MIT), USA",John Doughty,Public,2023
+10.42.0.211-36.110.213.49-59048-443-6,Female,19,99.61,3.5,Science,"Harvard University, USA",Brenda Arellano,Private,2023
+10.42.0.211-10.42.0.1-47250-53-17,Female,23,64.19,3.12,Science,"Harvard University, USA",Arthur Spangler,Private,2023
+10.42.0.211-10.42.0.1-18039-53-17,Female,21,67.96,2.36,Arts,"Harvard University, USA",Donald Dickey,Private,2023
+198.105.244.11-10.42.0.151-80-37563-6,Male,21,69.19,2.11,Engineering,"Stanford University, USA",Weldon Jimenez,Public,2023
+172.217.12.202-10.42.0.42-443-48615-6,Female,22,73.29,2.64,Engineering,"Stanford University, USA",Carl Parker,Private,2023
+10.42.0.1-10.42.0.42-53-28240-17,Male,19,91.8,3.51,Engineering,"Harvard University, USA",Allison Seales,Public,2023
+10.42.0.42-123.125.115.190-52315-80-6,Male,21,61.79,2.54,Science,"Harvard University, USA",Maryellen Berg,Private,2023
+192.229.173.173-10.42.0.211-80-55562-6,Female,21,88.8,3.08,Engineering,"Harvard University, USA",Collin Escudero,Private,2023
+10.42.0.211-10.42.0.1-35199-53-17,Male,19,70.27,3.46,Education,"University of Oxford, UK",Robert Robinson,Private,2023
+10.42.0.151-121.29.54.142-59446-80-6,Female,19,80.09,2.22,Business,"Stanford University, USA",Justin Cotton,Private,2023
+172.217.6.238-10.42.0.151-443-43096-6,Male,21,81.63,3.37,Science,"Harvard University, USA",Gabriel Hernandez,Public,2023
+172.217.11.46-10.42.0.151-443-59511-6,Female,19,68.64,2.18,Arts,"Stanford University, USA",George Martinez,Public,2023
+10.42.0.211-52.84.143.156-35170-443-6,Male,21,75.63,3.93,Arts,"University of Cambridge, UK",Dale Totten,Private,2023
+172.217.11.1-10.42.0.211-443-48082-6,Female,21,70.65,2.98,Business,"Harvard University, USA",Lee Noh,Public,2023
+10.42.0.211-119.146.74.33-46476-443-6,Female,22,53.46,2.3,Science,"Harvard University, USA",Joey Presley,Private,2023
+10.42.0.211-10.42.0.1-47580-53-17,Female,18,71.86,2.68,Engineering,"Stanford University, USA",Harold Pannenbacker,Private,2023
+172.217.11.10-10.42.0.211-443-36099-6,Female,21,54.87,2.83,Engineering,"Harvard University, USA",Roger Delarosa,Public,2023
+172.217.11.46-10.42.0.151-443-48207-6,Female,20,70.25,3.52,Education,"Stanford University, USA",Lawrence Spooner,Private,2023
+172.217.12.174-10.42.0.42-443-35037-17,Male,23,79.65,3.49,Education,"Harvard University, USA",Jack Vandiver,Private,2023
+10.42.0.211-10.42.0.1-22033-53-17,Male,24,78.97,3.22,Engineering,"Stanford University, USA",Mary Miller,Private,2023
+172.217.10.238-10.42.0.42-443-39702-6,Male,18,83.13,2.21,Arts,"Harvard University, USA",Grace Warren,Private,2023
+10.42.0.151-31.13.80.5-45770-443-6,Female,18,54.76,2.3,Arts,"Harvard University, USA",Brett Fishback,Private,2023
+180.163.255.159-10.42.0.211-80-52117-6,Male,18,82.61,2.19,Education,"Stanford University, USA",James Adcock,Public,2023
+172.217.3.100-10.42.0.211-443-60924-6,Female,22,65.61,3.15,Business,"Harvard University, USA",Sarah Maciel,Private,2023
+10.42.0.211-123.125.29.138-41975-80-6,Female,21,69.95,3.75,Engineering,"Harvard University, USA",Robert Stone,Private,2023
+172.217.7.10-10.42.0.211-443-36162-6,Male,22,92.9,2.87,Education,"Massachusetts Institute of Technology (MIT), USA",Stephen Bonavia,Public,2023
+172.217.6.206-10.42.0.151-443-45231-6,Male,21,50.45,2.32,Education,"University of Oxford, UK",Nancy Kelly,Public,2023
+222.73.28.96-10.42.0.211-80-33963-6,Female,22,79.42,3.12,Engineering,"Harvard University, USA",Charles Hughes,Private,2023
+180.149.134.142-10.42.0.211-80-40436-6,Male,22,79.94,3.62,Engineering,"Harvard University, USA",Carole Soileau,Private,2023
+203.205.147.229-10.42.0.151-80-36688-6,Female,23,69.83,3.48,Arts,"Harvard University, USA",Ronald Mcnealy,Private,2023
+10.42.0.151-10.42.0.1-9263-53-17,Female,20,61.85,3.76,Business,"Massachusetts Institute of Technology (MIT), USA",Janis Robertson,Private,2023
+172.217.1.174-10.42.0.42-443-49922-6,Female,22,61.73,2.56,Business,"Massachusetts Institute of Technology (MIT), USA",Cathleen Devries,Private,2023
+10.42.0.211-10.42.0.1-2046-53-17,Female,23,94.19,2.39,Engineering,"Harvard University, USA",Josephine Garcia,Public,2023
+180.163.251.231-10.42.0.211-80-39629-6,Female,19,72.1,3.76,Science,"California Institute of Technology (Caltech), USA",Tim Bean,Private,2023
+172.217.6.202-10.42.0.151-443-52686-6,Male,20,66.54,3.32,Education,"Harvard University, USA",Glenna Laundree,Public,2023
+10.42.0.42-106.39.169.66-43528-443-6,Male,22,72.44,2.62,Education,"Harvard University, USA",Edward Passmore,Public,2023
+203.205.158.53-10.42.0.151-80-54288-6,Female,24,83.47,3.48,Engineering,"Harvard University, USA",Annette Silva,Private,2023
+192.229.173.173-10.42.0.151-80-38581-6,Female,18,57.29,3.63,Science,"University of Oxford, UK",Robert Saran,Private,2023
+183.79.248.124-10.42.0.211-443-40807-6,Male,19,72.47,3.23,Arts,"Harvard University, USA",Jami Riley,Public,2023
+10.42.0.211-98.139.199.205-37100-443-6,Male,19,79.39,3.38,Engineering,"Harvard University, USA",Robert Benedetto,Private,2023
+10.42.0.211-123.125.29.220-55822-80-6,Female,23,97.43,2.75,Engineering,"California Institute of Technology (Caltech), USA",Anna Klarich,Private,2023
+182.22.24.252-10.42.0.211-443-52474-6,Male,19,62.63,3.08,Education,"Imperial College London, UK",Hazel Messana,Private,2023
+172.217.11.3-10.42.0.151-443-58634-6,Female,20,67.96,3.05,Engineering,"University of Oxford, UK",James Copeland,Private,2023
+172.217.6.194-10.42.0.211-443-38657-6,Male,22,68.97,3.7,Engineering,"Harvard University, USA",William Smith,Private,2023
+182.254.5.234-10.42.0.211-80-47233-6,Female,22,80.28,3.68,Engineering,"Harvard University, USA",David Bretz,Private,2023
+203.130.53.126-10.42.0.211-80-39365-6,Male,24,67.84,3.67,Education,"Stanford University, USA",Mary Daughrity,Private,2023
+172.217.12.129-10.42.0.211-443-43129-6,Female,18,76.68,2.02,Arts,"Stanford University, USA",Susan Korfhage,Public,2023
+239.255.255.250-10.42.0.1-1900-47045-17,Male,23,89.09,3.5,Arts,"Harvard University, USA",Joyce Love,Public,2023
+10.42.0.211-66.198.178.90-50719-443-6,Male,18,85.27,3.52,Engineering,"University of Oxford, UK",Joshua Hatley,Public,2023
+202.77.129.150-10.42.0.42-80-39283-6,Female,19,72.32,3.36,Education,"Harvard University, USA",William Turner,Private,2023
+172.217.9.238-10.42.0.211-80-39662-6,Male,24,93.21,3.51,Arts,"Massachusetts Institute of Technology (MIT), USA",Arthur Mcneil,Private,2023
+10.42.0.42-104.193.88.109-43934-80-6,Female,18,77.91,3.68,Arts,"University of Oxford, UK",Dorothy Green,Public,2023
+10.42.0.211-10.42.0.1-9424-53-17,Male,20,77,2.94,Arts,"Harvard University, USA",Sylvia Grimmett,Public,2023
+174.36.210.54-10.42.0.211-443-57584-6,Female,22,51.71,3,Education,"Harvard University, USA",Carolyn Maldonado,Private,2023
+10.42.0.42-52.84.143.192-46890-80-6,Male,19,99.33,2.25,Education,"Stanford University, USA",Neal Weiss,Private,2023
+140.205.34.4-10.42.0.211-443-49666-6,Female,24,56.15,2.77,Engineering,"Stanford University, USA",Richard Fullmer,Private,2023
+10.42.0.151-10.42.0.1-4546-53-17,Male,18,61.56,3.29,Business,"Stanford University, USA",Gerard Caravati,Private,2023
+208.185.50.55-10.42.0.211-443-56665-6,Female,23,52.58,3.56,Arts,"Stanford University, USA",Dustin Baylon,Private,2023
+172.217.3.99-10.42.0.151-443-36341-6,Male,20,82,2.43,Business,"Stanford University, USA",Gerald Graham,Private,2023
+172.217.6.202-10.42.0.151-443-55922-6,Female,20,61.24,2.28,Education,"Harvard University, USA",Ramona Ridgeway,Private,2023
+172.217.3.110-10.42.0.151-443-38287-6,Female,18,59,3.33,Education,"Stanford University, USA",Robert Nolan,Public,2023
+206.126.112.142-10.42.0.151-443-49187-6,Female,22,54.43,2,Education,"Stanford University, USA",Iva Hamilton,Public,2023
+10.42.0.211-10.42.0.1-3918-53-17,Male,18,55.17,2.36,Business,"Harvard University, USA",Raymond Butler,Private,2023
+202.77.129.230-10.42.0.211-80-44876-6,Female,19,79.23,2.06,Education,"Harvard University, USA",Jong Pinkett,Public,2023
+10.42.0.151-104.244.43.131-48231-443-6,Male,18,84.41,2.33,Engineering,"University of Oxford, UK",Sandra Griffin,Public,2023
+206.126.112.142-10.42.0.151-443-47418-6,Female,20,69.87,2.36,Education,"Stanford University, USA",Karon King,Public,2023
+172.217.10.131-10.42.0.151-443-53240-6,Male,24,73.99,2.78,Science,"Massachusetts Institute of Technology (MIT), USA",Amanda Rosas,Private,2023
+10.42.0.211-10.42.0.1-7499-53-17,Female,18,84.3,2.8,Business,"Harvard University, USA",George Huneycutt,Private,2023
+10.42.0.211-10.42.0.1-33526-53-17,Male,22,50.87,3.75,Science,"Harvard University, USA",Heidi Jamon,Private,2023
+10.42.0.211-10.42.0.1-15908-53-17,Male,24,66.16,3.02,Education,"Harvard University, USA",Edward Middleton,Private,2023
+10.42.0.151-65.55.223.36-43477-40035-17,Female,23,98.65,3.45,Engineering,"Stanford University, USA",Michael Vazquez,Private,2023
+172.217.7.196-10.42.0.211-443-55832-6,Male,21,79.01,2.21,Arts,"Stanford University, USA",Alfredia Susana,Private,2023
+10.42.0.151-104.193.88.109-40160-80-6,Male,18,62.71,2.45,Education,"Harvard University, USA",Dennis Parizo,Public,2023
+158.85.58.107-10.42.0.211-443-43601-6,Female,22,76.09,3.41,Engineering,"Harvard University, USA",Salvador Clark,Private,2023
+172.217.10.35-10.42.0.42-443-48966-6,Male,24,67.13,2.11,Business,"Harvard University, USA",Joanne Rowald,Public,2023
+10.42.0.211-66.198.24.243-52175-80-6,Male,22,76.61,2.97,Science,"University of Oxford, UK",Phyllis Paquette,Private,2023
+172.217.12.195-10.42.0.151-443-40553-6,Male,23,56.29,3.2,Science,"Stanford University, USA",Juan Malone,Public,2023
+10.42.0.151-10.42.0.1-40156-53-17,Female,20,56.64,3.2,Science,"Harvard University, USA",Verna Hamilton,Private,2023
+172.217.7.196-10.42.0.151-443-37989-6,Male,22,57.18,2.05,Business,"Stanford University, USA",Kenneth Pace,Private,2023
+10.42.0.211-10.42.0.1-63154-53-17,Female,24,96.99,2.64,Engineering,"University of Cambridge, UK",Cruz Branton,Private,2023
+10.42.0.151-119.146.74.33-38817-443-6,Male,24,81.86,2.49,Education,"Harvard University, USA",Lisa Smith,Private,2023
+10.42.0.151-104.192.108.27-45724-443-6,Male,23,99.03,2.95,Arts,"Harvard University, USA",Olga Ainley,Private,2023
+10.42.0.211-58.63.236.212-45631-443-6,Male,19,95.17,2.79,Arts,"Stanford University, USA",Christy Miranda,Private,2023
+180.149.136.194-10.42.0.42-80-49179-6,Male,20,82.33,3.1,Science,"Harvard University, USA",Marianne Turkel,Private,2023
+10.42.0.151-10.42.0.1-21179-53-17,Male,23,84.66,3.49,Arts,"Stanford University, USA",Kathleen Gonzalez,Public,2023
+10.42.0.211-23.208.26.242-42403-443-6,Male,19,52.58,3.43,Engineering,"Harvard University, USA",Kimberley Havens,Public,2023
+10.42.0.211-119.146.74.33-47229-443-6,Male,24,83.5,3.04,Business,"Stanford University, USA",Dolores Ewert,Private,2023
+10.42.0.211-10.42.0.1-64068-53-17,FeMale,23,52.21,3.64,Engineering,"Harvard University, USA",Lynn Roche,Public,2023
+10.42.0.211-121.12.98.63-49720-80-6,Male,24,79.41,2.86,Education,"Harvard University, USA",Jason Trax,Private,2023
+10.42.0.211-115.239.210.141-51788-80-6,Male,19,99.97,3.79,Business,"Stanford University, USA",Lisa Hamilton,Private,2023
+203.205.158.38-10.42.0.211-80-39112-6,Male,24,77.79,2.14,Arts,"Harvard University, USA",Nancy Didonna,Private,2023
+10.42.0.151-69.147.82.60-35078-443-6,Male,20,73.66,3.91,Education,"Harvard University, USA",Nigel Peacock,Private,2023
+10.42.0.211-47.88.68.21-57241-443-6,Male,19,65.64,3.31,Business,"Massachusetts Institute of Technology (MIT), USA",Wilson Laflamme,Private,2023
+10.42.0.151-23.199.25.36-48998-80-6,Male,19,56.03,2.76,Arts,"University of Oxford, UK",Edward Cobb,Private,2023
+10.42.0.211-121.42.8.152-44999-8082-6,Male,19,86.55,2.39,Engineering,"Harvard University, USA",Cathleen Grant,Public,2023
+172.217.10.45-10.42.0.151-443-41800-6,Male,18,59.63,2.96,Business,"Harvard University, USA",Andera Allen,Private,2023
+183.79.248.124-10.42.0.211-443-40419-6,Male,18,55.76,2.39,Arts,"Harvard University, USA",Elizabeth Pince,Public,2023
+172.217.3.110-10.42.0.151-443-45480-6,Male,18,71.09,2.33,Engineering,"Massachusetts Institute of Technology (MIT), USA",Lisa Bookout,Private,2023
+180.163.255.159-10.42.0.151-443-43618-6,Male,20,89.77,3.23,Education,"Massachusetts Institute of Technology (MIT), USA",Virgil Gonce,Private,2023
+202.77.129.150-10.42.0.211-80-54866-6,Male,23,87.25,3.05,Education,"Harvard University, USA",Richard Onisick,Public,2023
+10.42.0.151-31.13.71.3-60642-443-6,FeMale,24,52.74,3.34,Education,"California Institute of Technology (Caltech), USA",Gilberte Hill,Public,2023
+172.217.3.110-10.42.0.42-443-59130-6,Male,22,72.76,3.86,Education,"Harvard University, USA",Priscilla Wagner,Private,2023
+151.101.116.166-10.42.0.211-443-42455-6,FeMale,19,76.12,3.06,Science,"Harvard University, USA",Helen Mccormack,Public,2023
+199.59.150.44-10.42.0.151-443-45196-6,FeMale,24,82.23,3.16,Business,"Harvard University, USA",Ora Jefferies,Private,2023
+182.22.25.252-10.42.0.151-80-47256-6,Male,19,82.51,2.18,Business,"University of Oxford, UK",Florence Harlow,Private,2023
+10.42.0.42-40.117.100.83-36429-443-6,FeMale,20,68.23,3.44,Science,"Harvard University, USA",Kim Nevin,Private,2023
+10.42.0.211-10.42.0.1-6007-53-17,Male,19,78.03,2.8,Arts,"Harvard University, USA",Renee Gutierrez,Private,2023
+174.35.73.135-10.42.0.211-443-55967-6,Male,18,74.05,3.95,Arts,"California Institute of Technology (Caltech), USA",Ben Long,Private,2023
+10.42.0.151-31.13.71.52-55031-80-6,Male,22,94.25,3.65,Education,"Imperial College London, UK",Thomas Powe,Public,2023
+203.205.158.61-10.42.0.211-80-53333-6,FeMale,21,76.51,3.04,Engineering,"University of Oxford, UK",Robert Day,Private,2023
+10.42.0.211-10.42.0.1-26091-53-17,Male,19,72.05,2.25,Arts,"Harvard University, USA",Margaret Sanchez,Private,2023
+10.42.0.151-104.244.43.67-33913-443-6,Male,24,70.22,3.72,Engineering,"Harvard University, USA",Margaret Smith,Public,2023
+10.42.0.1-10.42.0.42-53-49350-17,Male,18,78.62,3.6,Business,"Stanford University, USA",Alexis Jude,Public,2023
+10.42.0.211-104.97.95.172-34787-80-6,FeMale,21,90.2,2.37,Engineering,"Stanford University, USA",Aline Perez,Private,2023
+180.149.136.194-10.42.0.211-80-56962-6,FeMale,22,76.92,2.59,Business,"Harvard University, USA",Jenifer Baker,Public,2023
+219.142.78.162-10.42.0.211-80-49174-6,Male,21,83.08,3.59,Science,"University of Oxford, UK",Heather Marshall,Public,2023
+5.61.39.3-10.42.0.42-80-43125-6,Male,18,86.89,2.37,Science,"Harvard University, USA",Hettie Mcdonald,Private,2023
+172.217.10.10-10.42.0.211-443-58909-6,Male,23,76.01,3.84,Education,"Massachusetts Institute of Technology (MIT), USA",Roman Gibbs,Private,2023
+172.217.9.238-10.42.0.151-443-60166-6,FeMale,23,71.34,2.85,Arts,"University of Oxford, UK",George Zack,Private,2023
+203.205.158.37-10.42.0.151-80-59937-6,Male,21,93.83,2.17,Education,"Harvard University, USA",Gerardo Roper,Private,2023
+10.42.0.211-10.42.0.1-38998-53-17,FeMale,20,70.88,3.63,Business,"Harvard University, USA",Richard Runion,Public,2023
+172.217.10.10-10.42.0.151-443-36046-6,Male,24,73.1,2.75,Education,"Stanford University, USA",Numbers Davino,Private,2023
+10.42.0.1-10.42.0.42-53-43558-17,Male,24,99.52,3.05,Engineering,"Stanford University, USA",Erika Friou,Private,2023
+10.42.0.211-103.7.30.118-46944-80-6,Male,21,50.01,2.22,Business,"Stanford University, USA",William Krausz,Private,2023
+8.0.6.4-8.6.0.1-0-0-0,Male,19,59.27,2.01,Science,"Stanford University, USA",Adam Dube,Private,2023
+183.79.253.231-10.42.0.211-443-50052-6,Male,19,69.2,3.28,Arts,"Stanford University, USA",Ralph Rann,Private,2023
+10.42.0.211-67.129.144.41-50697-80-6,Male,24,96.63,3.03,Business,"Harvard University, USA",Nicholas Walker,Private,2023
+10.42.0.151-104.244.43.99-50120-443-6,Male,24,53.5,3.19,Business,"Stanford University, USA",Barbara Woods,Public,2023
+239.255.255.250-10.42.0.211-1900-59975-17,Male,23,50.47,3.59,Engineering,"Stanford University, USA",Jason Woll,Private,2023
+10.42.0.211-52.84.1.220-35495-443-6,Male,20,52.63,3.29,Arts,"Harvard University, USA",Judy Willard,Private,2023
+10.42.0.1-10.42.0.42-53-53004-17,Male,18,54.43,2.35,Science,"Harvard University, USA",Annie Witherspoon,Private,2023
+10.42.0.211-104.97.95.172-36296-80-6,Male,19,51.88,2.72,Business,"University of Oxford, UK",Mary Browne,Public,2023
+203.205.158.60-10.42.0.151-80-54550-6,Male,24,73.99,3.81,Business,"Stanford University, USA",Melissa Hill,Private,2023
+172.217.12.206-10.42.0.151-80-43217-6,Male,23,79.04,3.54,Engineering,"Massachusetts Institute of Technology (MIT), USA",Steven Gilliam,Private,2023
+216.58.219.238-10.42.0.151-443-42142-6,Male,22,63.58,3.11,Education,"Harvard University, USA",Frank Lopez,Private,2023
+172.217.6.206-10.42.0.151-443-41083-6,Male,23,69.91,2.51,Science,"Harvard University, USA",Johnna Ford,Private,2023
+10.42.0.42-66.198.178.124-49422-80-6,Male,19,54.58,2.6,Arts,"Harvard University, USA",Gloria Brown,Public,2023
+172.217.10.99-10.42.0.211-443-55739-6,Male,19,66.82,3.46,Business,"Stanford University, USA",Miriam Silversmith,Private,2023
+10.42.0.211-64.71.142.124-46905-443-6,Male,23,76.13,3.7,Business,"Stanford University, USA",Mary Redner,Public,2023
+10.42.0.211-66.102.255.44-43113-443-6,Male,18,86.61,3.34,Science,"Harvard University, USA",James Nilsen,Private,2023
+10.42.0.1-10.42.0.42-53-11971-17,Male,21,50.17,3.62,Education,"Harvard University, USA",Elizabeth Devane,Private,2023
+174.35.73.97-10.42.0.211-80-54445-6,Male,19,73.37,3.53,Business,"Harvard University, USA",Helen Abbott,Private,2023
+10.42.0.1-10.42.0.42-53-16110-17,Male,23,64.85,2.3,Science,"University of Oxford, UK",Robert Johnson,Private,2023
+10.42.0.42-104.97.80.216-50863-443-6,FeMale,24,92.64,2.85,Engineering,"Stanford University, USA",Cecil Hoagland,Public,2023
+10.42.0.211-104.254.66.16-48312-80-6,Male,23,85.78,2.31,Education,"Harvard University, USA",Vernon Moore,Public,2023
+172.217.10.129-10.42.0.42-443-43320-6,Male,20,79.46,2.47,Arts,"Stanford University, USA",Shirley Aponte,Private,2023
+10.42.0.211-103.235.46.212-60285-80-6,Male,21,63.86,3.74,Business,"University of Cambridge, UK",Horace Durham,Public,2023
+10.42.0.211-35.160.180.157-57341-443-6,Male,22,95.52,2.95,Science,"Harvard University, USA",Jeff Mckie,Private,2023
+10.42.0.151-52.197.242.223-51672-443-6,Male,18,52.26,3.07,Engineering,"Harvard University, USA",Elizabeth Antoniou,Public,2023
+10.42.0.1-10.42.0.42-53-45996-17,Male,22,55.47,2.36,Arts,"Stanford University, USA",Margaret Chamberlain,Private,2023
+10.42.0.42-62.138.0.117-58259-80-6,Male,21,69.58,2.62,Science,"Harvard University, USA",Alvin Brown,Private,2023
+208.80.154.224-10.42.0.211-443-52109-6,Male,21,56.22,2.46,Science,"Harvard University, USA",Randy Beebe,Private,2023
+10.42.0.211-10.42.0.1-48153-53-17,FeMale,21,97.82,2.41,Arts,"Stanford University, USA",Ellen Puckett,Private,2023
+10.42.0.211-54.192.37.151-37041-80-6,Male,22,89.9,3.28,Engineering,"Stanford University, USA",Tamera Shine,Private,2023
+172.217.8.3-10.42.0.42-443-49095-6,Male,24,62.95,2.51,Engineering,"Harvard University, USA",Barbara Starkes,Private,2023
+182.22.25.124-10.42.0.151-443-56812-6,Male,21,79.43,3.26,Education,"Harvard University, USA",Milton Stump,Public,2023
+169.45.248.108-10.42.0.151-443-33062-6,FeMale,23,99.12,2.12,Business,"University of Oxford, UK",John Devine,Private,2023
+172.217.6.234-10.42.0.151-443-38983-6,Male,22,94.21,2.28,Arts,"Stanford University, USA",Larry Quimby,Private,2023
+10.42.0.211-10.42.0.1-28208-53-17,Male,21,80.04,2.55,Arts,"Massachusetts Institute of Technology (MIT), USA",Julia Gomez,Private,2023
+172.217.11.14-10.42.0.151-443-59031-6,Male,23,95.19,3.19,Arts,"Harvard University, USA",Amy Sanchez,Public,2023
+10.42.0.42-104.193.88.102-56560-443-6,Male,24,99.46,3.35,Engineering,"Harvard University, USA",Steven Williams,Public,2023
+10.42.0.211-10.42.0.1-45958-53-17,Male,20,87.17,2.89,Business,"Harvard University, USA",Jennifer Renshaw,Public,2023
+10.42.0.42-52.192.237.93-56728-443-6,Male,24,53.25,2.89,Education,"Stanford University, USA",Raymond Williams,Public,2023
+10.42.0.211-10.42.0.1-44256-53-17,Male,21,70.08,3.45,Science,"Stanford University, USA",Jackie Holmes,Public,2023
+10.42.0.151-23.208.87.120-44274-80-6,Male,22,91.89,2.03,Science,"Harvard University, USA",Johnnie Cunningham,Private,2023
+172.217.10.142-10.42.0.211-443-54927-6,Male,19,61.53,2.68,Arts,"Harvard University, USA",Albert Mcginnes,Private,2023
+10.42.0.211-10.42.0.1-57702-53-17,FeMale,21,91.53,3.64,Business,"Harvard University, USA",Jeannie Thorp,Private,2023
+10.42.0.211-31.13.80.37-33782-443-6,Male,19,56.02,3.21,Engineering,"University of Oxford, UK",Melissa Combs,Private,2023
+173.194.175.102-10.42.0.211-443-50668-6,Male,23,52.35,2.67,Business,"Stanford University, USA",Jacqueline Angel,Private,2023
+10.42.0.211-106.11.14.99-56099-443-6,FeMale,20,69.2,3.81,Business,"Harvard University, USA",Edward Castellano,Private,2023
+10.42.0.211-23.206.125.17-34837-80-6,Male,18,51.84,3.55,Engineering,"Stanford University, USA",Paul Garrity,Public,2023
+10.42.0.211-66.231.239.124-52898-443-6,FeMale,24,97.86,2.53,Arts,"University of Cambridge, UK",Kyle Shippey,Public,2023
+10.42.0.42-106.11.94.27-57825-443-6,FeMale,20,91.31,3.29,Business,"Harvard University, USA",Amber Ball,Public,2023
+172.217.5.227-10.42.0.211-443-37710-6,Male,21,90.04,3.19,Science,"Harvard University, USA",Sara Wright,Private,2023
+10.42.0.151-54.209.13.204-60692-443-6,Male,19,81.49,2.8,Engineering,"Stanford University, USA",Mike Castleberry,Private,2023
+10.42.0.151-31.13.71.3-43056-443-6,Male,24,60.82,2.73,Education,"Harvard University, USA",Shirley Langford,Public,2023
+10.42.0.211-64.71.142.124-39749-443-6,FeMale,19,75.91,2.69,Arts,"Massachusetts Institute of Technology (MIT), USA",Christina Chiodo,Private,2023
+10.42.0.211-123.59.190.237-48858-80-6,Male,22,79.86,3.23,Engineering,"Harvard University, USA",John Felix,Public,2023
+174.35.73.107-10.42.0.211-443-53904-6,Male,19,76.25,2.88,Education,"Harvard University, USA",William Blanchette,Private,2023
+10.42.0.211-10.42.0.1-57760-53-17,Male,22,63.01,3.66,Education,"Stanford University, USA",Michael Young,Public,2023
+10.42.0.211-10.42.0.1-59950-53-17,Male,23,75.76,3.34,Business,"Harvard University, USA",Arturo Hicks,Public,2023
+222.73.28.96-10.42.0.211-80-34329-6,Male,24,74.56,2.14,Business,"Harvard University, USA",Susan Jones,Public,2023
+10.42.0.151-10.42.0.1-6275-53-17,Male,24,99.82,3.28,Business,"Stanford University, USA",Terry Albrecht,Private,2023
+172.217.3.99-10.42.0.151-443-52494-6,FeMale,18,94.87,2.54,Engineering,"Stanford University, USA",Deborah Williams,Public,2023
+158.85.48.247-10.42.0.42-5222-50344-6,Male,21,64.19,3.12,Engineering,"Harvard University, USA",Terry Gaskin,Public,2023
+10.42.0.211-104.192.110.245-59866-443-6,Male,22,67.96,2.36,Arts,"Stanford University, USA",Sheryl Henkel,Public,2023
+10.42.0.151-119.146.74.49-40038-443-6,Male,18,69.19,2.11,Business,"Harvard University, USA",Dessie Donahue,Public,2023
+10.42.0.211-106.11.15.99-55925-443-6,Male,19,73.29,2.64,Education,"Stanford University, USA",William Kimrey,Public,2023
+184.50.111.246-10.42.0.151-443-53508-6,FeMale,19,91.8,3.51,Science,"Harvard University, USA",John Loos,Private,2023
+157.56.52.23-10.42.0.42-40033-53350-6,Male,18,61.79,2.54,Arts,"Harvard University, USA",Peggy Nazario,Private,2023
+10.42.0.211-10.42.0.1-33844-53-17,Male,24,88.8,3.08,Engineering,"Stanford University, USA",Joshua Hernandez,Private,2023
+10.42.0.151-119.146.74.33-38961-443-6,FeMale,19,70.27,3.46,Arts,"Harvard University, USA",Arthur Salmons,Private,2023
+10.42.0.211-10.42.0.1-20395-53-17,Male,23,80.09,2.22,Arts,"Harvard University, USA",Sidney Ray,Private,2023
+10.42.0.1-10.42.0.42-53-6024-17,FeMale,23,81.63,3.37,Arts,"Massachusetts Institute of Technology (MIT), USA",Franklin Bailey,Public,2023
+172.217.6.227-10.42.0.42-443-37555-6,FeMale,18,68.64,2.18,Arts,"University of Oxford, UK",Curtis Tibbs,Private,2023
+10.42.0.211-23.206.166.62-37011-80-6,FeMale,22,75.63,3.93,Science,"Harvard University, USA",Orlando Nies,Private,2023
+10.42.0.151-103.7.30.118-56014-80-6,FeMale,22,70.65,2.98,Business,"Harvard University, USA",Kimberly Kelly,Private,2023
+172.217.11.36-10.42.0.211-443-51674-6,Male,18,53.46,2.3,Education,"Harvard University, USA",Raymond Wade,Private,2023
+172.217.9.234-10.42.0.151-443-47238-6,Male,22,71.86,2.68,Arts,"Massachusetts Institute of Technology (MIT), USA",Thomas Swaby,Public,2023
+10.42.0.151-104.244.42.66-39960-443-6,Male,24,54.87,2.83,Arts,"Massachusetts Institute of Technology (MIT), USA",Kelly Thong,Private,2023
+10.42.0.211-23.21.172.210-36346-443-6,Male,24,70.25,3.52,Arts,"Harvard University, USA",Edwin Parrales,Private,2023
+10.42.0.211-10.42.0.1-21610-53-17,Male,22,79.65,3.49,Business,"California Institute of Technology (Caltech), USA",Alice Mansfield,Private,2023
+10.42.0.211-52.84.29.154-55869-443-6,Male,23,78.97,3.22,Engineering,"Harvard University, USA",William Doud,Private,2023
+203.205.158.60-10.42.0.151-80-39572-6,FeMale,22,83.13,2.21,Engineering,"Harvard University, USA",Larry Bermudez,Private,2023
+10.42.0.211-88.212.201.193-51676-443-6,Male,24,54.76,2.3,Science,"Harvard University, USA",Lawrence Racine,Private,2023
+10.42.0.211-123.125.29.220-55782-80-6,Male,20,82.61,2.19,Engineering,"University of Oxford, UK",Marion Cropp,Private,2023
+180.149.136.194-10.42.0.211-80-42382-6,Male,21,65.61,3.15,Arts,"Harvard University, USA",Helen Hall,Public,2023
+216.58.219.238-10.42.0.151-443-55624-6,Male,19,69.95,3.75,Arts,"Harvard University, USA",Holly Wilson,Public,2023
+202.77.129.150-10.42.0.42-443-54207-6,Male,20,92.9,2.87,Arts,"California Institute of Technology (Caltech), USA",Otis Aguilera,Private,2023
+192.229.173.173-10.42.0.151-80-56305-6,Male,22,50.45,2.32,Science,"Imperial College London, UK",Joseph Paige,Public,2023
+172.217.12.170-10.42.0.211-443-35387-6,Male,23,79.42,3.12,Arts,"University of Oxford, UK",Tasha Allen,Private,2023
+220.243.225.102-10.42.0.211-80-33754-6,Male,18,79.94,3.62,Engineering,"Harvard University, USA",Richard Knell,Private,2023
+202.77.129.230-10.42.0.211-80-49775-6,Male,22,69.83,3.48,Business,"Harvard University, USA",Trey Mclavrin,Private,2023
+172.217.10.142-10.42.0.151-443-41476-6,Male,23,61.85,3.76,Business,"Stanford University, USA",Kanesha Sheppard,Private,2023
+10.42.0.151-104.244.42.2-51089-443-6,FeMale,21,61.73,2.56,Education,"Stanford University, USA",Raymond Simmons,Public,2023
+239.255.255.250-10.42.0.211-1900-58586-17,FeMale,22,94.19,2.39,Engineering,"Harvard University, USA",Samuel Mosley,Public,2023
+10.42.0.1-10.42.0.42-53-31451-17,Male,24,72.1,3.76,Arts,"University of Oxford, UK",Travis Oglesby,Public,2023
+157.55.130.155-10.42.0.211-40008-60774-17,Male,18,66.54,3.32,Business,"Harvard University, USA",John Avila,Private,2023
+10.42.0.151-72.21.207.148-35575-443-6,FeMale,23,72.44,2.62,Engineering,"Massachusetts Institute of Technology (MIT), USA",Donna Weaver,Private,2023
+182.22.25.252-10.42.0.211-443-38769-6,Male,23,83.47,3.48,Business,"University of Oxford, UK",Minnie Lafountain,Private,2023
+172.217.10.10-10.42.0.151-443-46881-6,Male,23,57.29,3.63,Arts,"Harvard University, USA",Bill Pounds,Private,2023
+10.42.0.42-66.198.24.224-41089-443-6,FeMale,21,72.47,3.23,Business,"Harvard University, USA",Evelyn Norman,Private,2023
+10.42.0.151-31.13.71.3-43132-443-6,Male,22,79.39,3.38,Education,"Stanford University, USA",Susan Pinilla,Public,2023
+174.35.73.149-10.42.0.211-80-59292-6,Male,21,97.43,2.75,Education,"Stanford University, USA",Tanya Griffin,Private,2023
+10.42.0.151-10.42.0.1-1858-53-17,FeMale,19,62.63,3.08,Business,"Stanford University, USA",Marion Larimer,Private,2023
+209.10.120.26-10.42.0.211-80-56730-6,Male,19,67.96,3.05,Engineering,"Stanford University, USA",Donald Pullins,Private,2023
+10.42.0.211-67.129.144.48-52713-80-6,FeMale,22,68.97,3.7,Engineering,"Stanford University, USA",Clyde Rathburn,Public,2023
+182.22.25.252-10.42.0.211-443-38342-6,FeMale,24,80.28,3.68,Engineering,"Harvard University, USA",Glenda Costley,Public,2023
+10.42.0.151-10.42.0.1-17967-53-17,FeMale,21,67.84,3.67,Business,"Stanford University, USA",Barbara Bradley,Private,2023
+10.42.0.211-10.42.0.1-54385-53-17,Male,18,76.68,2.02,Engineering,"Stanford University, USA",Elvira Bailey,Public,2023
+172.217.12.202-10.42.0.42-443-40749-6,FeMale,23,89.09,3.5,Arts,"Harvard University, USA",Ashley Pichler,Public,2023
+172.217.10.42-10.42.0.151-443-43737-6,Male,23,85.27,3.52,Education,"Harvard University, USA",Anthony Culp,Public,2023
+10.42.0.42-104.193.88.109-45262-80-6,Male,22,72.32,3.36,Arts,"University of Oxford, UK",Alan Liddle,Public,2023
+10.42.0.211-10.42.0.1-11474-53-17,Male,24,93.21,3.51,Engineering,"Stanford University, USA",Edna Mckinney,Public,2023
+10.42.0.211-52.84.142.16-35059-443-6,Male,19,77.91,3.68,Arts,"Massachusetts Institute of Technology (MIT), USA",Sarah Fields,Private,2023
+172.217.10.74-10.42.0.151-443-37734-6,Male,19,77,2.94,Engineering,"Harvard University, USA",Willie Willard,Private,2023
+209.10.120.26-10.42.0.211-80-34689-6,Male,23,51.71,3,Business,"Harvard University, USA",Patricia Olson,Public,2023
+216.58.219.227-10.42.0.42-443-44798-17,FeMale,22,99.33,2.25,Arts,"Harvard University, USA",Joan Miller,Private,2023
+10.42.0.211-110.53.246.32-40296-80-6,FeMale,21,56.15,2.77,Business,"Stanford University, USA",Silvia Hlavac,Private,2023
+172.217.10.74-10.42.0.151-443-49657-6,Male,19,61.56,3.29,Business,"Stanford University, USA",Jon Davis,Public,2023
+10.42.0.211-10.42.0.1-58838-53-17,Male,21,52.58,3.56,Science,"Harvard University, USA",Dorothy Ivy,Private,2023
+209.85.144.188-10.42.0.151-5228-54256-6,Male,24,82,2.43,Engineering,"Harvard University, USA",Elizabeth Robinson,Private,2023
+10.42.0.151-23.192.21.115-37392-443-6,Male,19,61.24,2.28,Education,"Harvard University, USA",Jonathan Krings,Private,2023
+172.217.10.78-10.42.0.151-443-40821-6,Male,19,59,3.33,Engineering,"University of Oxford, UK",Hilda Kirk,Private,2023
+10.42.0.211-114.134.80.163-60299-80-6,Male,20,54.43,2,Education,"Stanford University, USA",Kathy Joyner,Private,2023
+172.217.10.238-10.42.0.211-80-43477-6,FeMale,19,55.17,2.36,Engineering,"Harvard University, USA",Lewis King,Private,2023
+10.42.0.211-10.42.0.1-13911-53-17,Male,18,79.23,2.06,Business,"Stanford University, USA",Esperanza Speights,Private,2023
+172.217.10.46-10.42.0.151-443-36662-6,FeMale,22,84.41,2.33,Arts,"University of Cambridge, UK",Debra Cassada,Public,2023
+10.42.0.211-23.217.155.120-55426-80-6,Male,22,69.87,2.36,Arts,"Harvard University, USA",Alfredo Gable,Public,2023
+10.42.0.211-10.42.0.1-14518-53-17,FeMale,21,73.99,2.78,Science,"Stanford University, USA",Dennis Rodriguez,Private,2023
+209.10.120.26-10.42.0.211-80-32866-6,Male,24,84.3,2.8,Education,"Harvard University, USA",John Osborne,Private,2023
+10.42.0.42-93.184.215.201-49701-443-6,Male,19,50.87,3.75,Education,"Stanford University, USA",Sadie Crane,Public,2023
+10.42.0.151-10.42.0.1-22556-53-17,FeMale,18,66.16,3.02,Education,"Harvard University, USA",Suzanne Fleming,Private,2023
+10.42.0.42-23.194.140.226-54697-80-6,Male,21,98.65,3.45,Business,"Harvard University, USA",Mildred Belvin,Private,2023
+10.42.0.211-106.11.30.199-45349-80-6,Male,20,79.01,2.21,Education,"Stanford University, USA",Jeremy Smith,Public,2023
+151.101.21.140-10.42.0.211-443-57062-6,Male,21,62.71,2.45,Arts,"Harvard University, USA",Elyse Johnson,Public,2023
+10.42.0.151-10.42.0.1-63353-53-17,Male,21,76.09,3.41,Business,"Harvard University, USA",Francisca Mckown,Private,2023
+10.42.0.151-103.7.30.118-43697-80-6,Male,19,67.13,2.11,Engineering,"Massachusetts Institute of Technology (MIT), USA",Tyson Leflore,Private,2023
+10.42.0.151-52.86.21.31-48202-443-6,Male,20,76.61,2.97,Education,"University of Oxford, UK",Constance Alden,Private,2023
+172.217.10.10-10.42.0.151-443-40017-6,Male,21,56.29,3.2,Education,"Harvard University, USA",Ashley White,Private,2023
+239.255.255.250-10.42.0.1-1900-60663-17,FeMale,18,56.64,3.2,Engineering,"Harvard University, USA",Edward Granillo,Private,2023
+10.42.0.151-66.198.178.88-39008-443-6,FeMale,18,57.18,2.05,Education,"Harvard University, USA",Dennis Ware,Private,2023
+10.42.0.211-10.42.0.1-6007-53-17,Male,22,96.99,2.64,Engineering,"Massachusetts Institute of Technology (MIT), USA",Patricia Bourgoin,Private,2023
+172.217.12.131-10.42.0.211-443-32906-6,Male,20,81.86,2.49,Business,"Massachusetts Institute of Technology (MIT), USA",Nancy Cummings,Private,2023
+10.42.0.211-31.13.80.12-44024-443-6,Male,20,99.03,2.95,Arts,"Harvard University, USA",Celia Saunders,Public,2023
+172.217.6.206-10.42.0.151-443-35801-6,Male,22,95.17,2.79,Engineering,"California Institute of Technology (Caltech), USA",Theodore Reeves,Private,2023
+151.101.192.207-10.42.0.211-443-48838-6,FeMale,21,82.33,3.1,Science,"Harvard University, USA",Estela Mellinger,Public,2023
+208.80.154.224-10.42.0.211-443-53566-6,FeMale,20,84.66,3.49,Engineering,"Harvard University, USA",Roland Anderson,Private,2023
+10.42.0.211-98.139.199.205-48160-443-6,Male,18,52.58,3.43,Education,"Harvard University, USA",Caroline Turner,Public,2023
+10.42.0.211-10.42.0.1-59555-53-17,Male,18,83.5,3.04,Business,"University of Oxford, UK",Ruth Kennedy,Private,2023
+216.58.219.202-10.42.0.211-443-47567-6,FeMale,19,52.21,3.64,Business,"Harvard University, USA",Amy Naffziger,Private,2023
+10.42.0.151-23.6.162.190-59733-443-6,Male,20,79.41,2.86,Engineering,"Harvard University, USA",Inez Toki,Private,2023
+172.217.12.174-10.42.0.151-443-54508-6,Male,21,99.97,3.79,Arts,"California Institute of Technology (Caltech), USA",Keith Graham,Private,2023
+10.42.0.211-10.42.0.1-25838-53-17,Male,22,77.79,2.14,Science,"Imperial College London, UK",Patrick Mayfield,Private,2023
+10.42.0.211-23.45.196.130-59845-443-6,FeMale,22,73.66,3.91,Business,"University of Oxford, UK",Gerald Kelly,Private,2023
+172.217.9.227-10.42.0.211-443-35228-6,FeMale,21,65.64,3.31,Education,"Harvard University, USA",Nancy Ingram,Private,2023
+174.35.73.111-10.42.0.151-80-38230-6,Male,24,56.03,2.76,Education,"Harvard University, USA",Brian Feist,Public,2023
+172.217.12.200-10.42.0.211-443-48040-6,Male,23,86.55,2.39,Arts,"Stanford University, USA",Kathy Hallenbeck,Private,2023
+203.205.158.62-10.42.0.151-80-53898-6,Male,19,59.63,2.96,Business,"Stanford University, USA",Danny Croy,Private,2023
+172.217.12.170-10.42.0.151-443-49704-6,FeMale,22,55.76,2.39,Engineering,"Harvard University, USA",Myrtle Carr,Private,2023
+10.42.0.211-120.76.223.181-58370-83-6,Male,20,71.09,2.33,Education,"University of Oxford, UK",Dennis Ward,Private,2023
+10.42.0.211-103.235.46.39-40645-80-6,FeMale,19,89.77,3.23,Arts,"Harvard University, USA",Paul Love,Public,2023
+172.217.12.163-10.42.0.151-443-60319-6,Male,20,87.25,3.05,Business,"Massachusetts Institute of Technology (MIT), USA",Wanda Martinez,Public,2023
+10.42.0.151-10.42.0.1-21180-53-17,Male,24,52.74,3.34,Business,"University of Oxford, UK",Lottie Mallory,Public,2023
+10.42.0.1-10.42.0.42-53-34399-17,Male,18,72.76,3.86,Business,"Harvard University, USA",James Turner,Private,2023
+172.217.12.170-10.42.0.151-443-42201-6,Male,19,76.12,3.06,Business,"Harvard University, USA",Michael Mosser,Private,2023
+10.42.0.211-123.125.115.190-39120-80-6,FeMale,22,82.23,3.16,Business,"Stanford University, USA",Walter Deshotel,Private,2023
+10.42.0.151-52.84.40.77-59545-443-6,Male,19,82.51,2.18,Education,"Stanford University, USA",Brendan Jackson,Private,2023
+175.100.207.232-10.42.0.151-80-40406-6,FeMale,19,68.23,3.44,Arts,"Stanford University, USA",Ernest Faulkner,Private,2023
+10.42.0.211-10.42.0.1-64218-53-17,Male,19,78.03,2.8,Business,"Stanford University, USA",Derrick Pulver,Public,2023
+10.42.0.211-117.121.27.10-41999-80-6,FeMale,23,74.05,3.95,Science,"Stanford University, USA",Adam Burger,Public,2023
+220.243.235.201-10.42.0.211-80-54553-6,Male,19,94.25,3.65,Science,"Harvard University, USA",Martin Carey,Public,2023
+10.42.0.211-10.42.0.1-18278-53-17,Male,20,76.51,3.04,Arts,"Stanford University, USA",Brian Kapinos,Public,2023
+10.42.0.211-23.66.246.24-45727-443-6,Male,18,72.05,2.25,Engineering,"Stanford University, USA",Charles Rosen,Private,2023
+216.58.219.202-10.42.0.151-443-40610-6,Male,24,70.22,3.72,Engineering,"Harvard University, USA",Ethel Marshall,Public,2023
+174.35.73.107-10.42.0.211-80-50073-6,Male,21,78.62,3.6,Engineering,"Harvard University, USA",Edward Rawls,Private,2023
+172.217.10.234-10.42.0.211-443-40382-6,Male,19,90.2,2.37,Science,"University of Oxford, UK",Robert Payne,Private,2023
+172.217.6.206-10.42.0.151-443-53203-6,Male,22,76.92,2.59,Engineering,"Stanford University, USA",Michael Devoy,Public,2023
+10.42.0.211-64.71.142.96-56643-443-6,Male,19,83.08,3.59,Education,"Massachusetts Institute of Technology (MIT), USA",Joseph Tovar,Private,2023
+10.42.0.211-106.11.94.27-58060-443-6,Male,22,86.89,2.37,Business,"Harvard University, USA",Mildred Cary,Public,2023
+10.42.0.211-95.213.11.133-35731-80-6,FeMale,20,76.01,3.84,Science,"Harvard University, USA",Darryl Cole,Private,2023
+10.42.0.211-77.234.42.92-43011-443-6,Male,22,71.34,2.85,Arts,"Harvard University, USA",Shirley Wells,Public,2023
+10.42.0.211-103.235.46.211-48256-443-6,Male,21,93.83,2.17,Arts,"Stanford University, USA",Steve Gagnon,Private,2023
+206.126.112.142-10.42.0.151-443-49855-6,FeMale,18,70.88,3.63,Business,"Stanford University, USA",Lester Baker,Private,2023
+192.229.173.173-10.42.0.211-80-42365-6,Male,22,73.1,2.75,Science,"Harvard University, USA",Marjorie Adams,Private,2023
+10.42.0.151-10.42.0.1-32688-53-17,FeMale,22,99.52,3.05,Engineering,"Harvard University, USA",Una Koenig,Public,2023
+172.217.10.42-10.42.0.211-443-36781-6,Male,18,50.01,2.22,Engineering,"Harvard University, USA",Catherine Modglin,Private,2023
+10.42.0.211-123.125.29.220-52786-80-6,Male,21,59.27,2.01,Education,"University of Oxford, UK",Louise Swenson,Private,2023
+10.42.0.42-104.97.95.172-59458-80-6,Male,19,69.2,3.28,Education,"Stanford University, USA",Camilla Thomas,Private,2023
+172.217.12.206-10.42.0.211-443-59283-6,Male,22,96.63,3.03,Engineering,"Harvard University, USA",Bernice Adams,Private,2023
+182.22.25.252-10.42.0.211-443-57334-6,Male,18,53.5,3.19,Arts,"Stanford University, USA",Michael Nguyen,Private,2023
+10.42.0.211-10.42.0.1-58332-53-17,Male,20,50.47,3.59,Arts,"University of Cambridge, UK",William Mullins,Private,2023
+10.42.0.42-54.239.17.112-52579-443-6,Male,18,52.63,3.29,Education,"Harvard University, USA",Garland Dixon,Private,2023
+10.42.0.151-23.217.30.116-40817-443-6,Male,20,54.43,2.35,Business,"Harvard University, USA",Catherine Adkison,Private,2023
+172.217.10.42-10.42.0.42-443-57190-6,FeMale,21,51.88,2.72,Engineering,"Stanford University, USA",Nicholas Roberts,Private,2023
+180.149.134.221-10.42.0.211-80-36134-6,Male,19,73.99,3.81,Education,"Harvard University, USA",Mary Groce,Private,2023
+10.42.0.211-104.193.88.109-42050-80-6,Male,18,79.04,3.54,Education,"Stanford University, USA",John Christen,Private,2023
+10.42.0.42-103.235.46.211-32975-443-6,Male,24,63.58,3.11,Engineering,"Harvard University, USA",Rosa Southerly,Private,2023
+10.42.0.151-13.32.250.46-49117-443-6,Male,24,69.91,2.51,Engineering,"Stanford University, USA",Barbara Gaskins,Private,2023
+172.217.3.110-10.42.0.151-443-45707-6,Male,23,54.58,2.6,Arts,"Harvard University, USA",Marvin Wright,Public,2023
+220.243.225.102-10.42.0.151-80-49861-6,Male,22,66.82,3.46,Business,"Harvard University, USA",Patrick Hawley,Public,2023
+10.42.0.211-123.125.29.138-52978-80-6,Male,21,76.13,3.7,Business,"Stanford University, USA",George Mccluney,Private,2023
+10.42.0.211-98.139.199.205-47985-443-6,FeMale,18,86.61,3.34,Engineering,"Harvard University, USA",Irma Hartis,Private,2023
+162.208.22.39-10.42.0.42-443-57828-6,Male,24,50.17,3.62,Science,"Harvard University, USA",Christian Noble,Private,2023
+10.42.0.211-10.42.0.1-60699-53-17,FeMale,22,73.37,3.53,Education,"Massachusetts Institute of Technology (MIT), USA",Dennis Rodriguez,Public,2023
+180.149.136.194-10.42.0.151-80-34442-6,FeMale,24,64.85,2.3,Education,"University of Oxford, UK",Nancy Marble,Public,2023
+10.42.0.151-119.146.74.32-55465-443-6,Male,18,92.64,2.85,Engineering,"Harvard University, USA",Linda Ozaeta,Public,2023
+209.10.120.26-10.42.0.211-80-38896-6,Male,20,85.78,2.31,Science,"Harvard University, USA",Henry Benoit,Public,2023
+192.33.31.104-10.42.0.211-443-41864-6,Male,18,79.46,2.47,Arts,"Harvard University, USA",Joseph Harris,Private,2023
+183.3.235.80-10.42.0.211-80-45848-6,Male,23,63.86,3.74,Engineering,"Massachusetts Institute of Technology (MIT), USA",Mary Winter,Private,2023
+131.253.61.66-10.42.0.151-443-50652-6,Male,18,95.52,2.95,Engineering,"Massachusetts Institute of Technology (MIT), USA",Antonia Flores,Private,2023
+172.217.12.206-10.42.0.151-443-47985-6,Male,18,52.26,3.07,Education,"Harvard University, USA",Mary Cook,Public,2023
+174.35.73.168-10.42.0.42-80-51823-6,Male,23,55.47,2.36,Engineering,"California Institute of Technology (Caltech), USA",Gail Sexton,Private,2023
+172.217.7.163-10.42.0.151-80-60965-6,Male,21,69.58,2.62,Engineering,"Harvard University, USA",Debra Callaway,Public,2023
+10.42.0.151-10.42.0.1-61659-53-17,Male,18,56.22,2.46,Engineering,"Harvard University, USA",Lino Billingsley,Private,2023
+10.42.0.42-119.146.74.48-55133-80-6,Male,23,79.66,3.33,Education,"Harvard University, USA",Michael Quarles,Private,2023
+239.255.255.250-10.42.0.1-1900-41033-17,Male,22,82.51,2.02,Arts,"University of Oxford, UK",Helen White,Public,2023
+10.42.0.151-10.42.0.1-62157-53-17,FeMale,20,73.96,2.51,Arts,"Harvard University, USA",Holly Bailey,Public,2023
+172.217.10.42-10.42.0.151-443-41089-6,Male,20,80.79,2.52,Engineering,"Harvard University, USA",Scott Sowers,Private,2023
+172.217.10.227-10.42.0.151-443-55945-6,FeMale,18,66.45,2.14,Education,"California Institute of Technology (Caltech), USA",Shirley Peterson,Public,2023
+10.42.0.211-104.193.88.109-52204-80-6,Male,21,73.51,3.92,Arts,"Imperial College London, UK",Clara Delang,Public,2023
+10.42.0.211-52.44.158.240-40209-443-6,Male,21,87.21,2.96,Arts,"University of Oxford, UK",Johnny Gilbert,Public,2023
+10.42.0.211-59.38.112.48-33279-443-6,Male,22,93.59,3.79,Arts,"Harvard University, USA",Esther Wojenski,Private,2023
+209.10.120.26-10.42.0.211-80-44353-6,Male,18,71.68,2.64,Education,"Harvard University, USA",Don King,Private,2023
+183.79.248.252-10.42.0.42-443-53876-6,FeMale,20,52.18,2.25,Education,"Stanford University, USA",Louisa Hall,Private,2023
+182.22.31.124-10.42.0.211-443-45394-6,Male,21,58.08,2.95,Engineering,"Stanford University, USA",Stephanie Strickland,Private,2023
+10.42.0.211-31.13.65.36-49760-443-6,Male,18,51.04,2.23,Business,"Harvard University, USA",Rebecca Bennett,Private,2023
+10.42.0.211-10.42.0.1-25087-53-17,Male,24,82.66,2.97,Arts,"University of Oxford, UK",Genevieve Marusak,Private,2023
+10.42.0.211-103.7.30.118-35220-80-6,Male,21,66.62,3.84,Business,"Harvard University, USA",Brian Wray,Public,2023
+10.42.0.151-74.125.22.139-35773-443-6,Male,23,77.12,3.04,Education,"Massachusetts Institute of Technology (MIT), USA",Danielle Brown,Private,2023
+10.42.0.211-111.221.77.171-60774-443-17,Male,24,74.66,3.23,Education,"University of Oxford, UK",Lisa Puleo,Private,2023
+10.42.0.151-31.13.69.195-35187-443-6,Male,21,54.08,2.31,Education,"Harvard University, USA",William Gerena,Private,2023
+10.42.0.211-111.1.17.152-49409-8077-6,FeMale,20,70.16,2.09,Business,"Harvard University, USA",Daniel Hammes,Private,2023
+172.217.7.164-10.42.0.42-443-55450-6,Male,19,61.03,2.22,Education,"Stanford University, USA",Adriana Boatright,Private,2023
+10.42.0.1-10.42.0.42-53-42468-17,Male,24,70.92,3.2,Engineering,"Stanford University, USA",Gerald Klien,Private,2023
+10.42.0.211-10.42.0.1-6825-53-17,Male,22,60.18,2.19,Education,"Stanford University, USA",Darryl Hall,Private,2023
+10.42.0.151-54.239.17.112-40961-443-6,Male,22,92.02,2.75,Education,"Stanford University, USA",Dale Martin,Private,2023
+10.42.0.211-88.212.201.205-45137-443-6,Male,20,58.71,3.1,Arts,"Stanford University, USA",Terry Bassi,Public,2023
+172.217.12.174-10.42.0.151-443-50825-6,Male,21,98.04,2.78,Arts,"Harvard University, USA",Jose Flory,Private,2023
+10.42.0.211-10.42.0.1-1945-53-17,Male,18,70.8,2.33,Science,"Stanford University, USA",Rosalie Atherton,Private,2023
+169.47.42.121-10.42.0.211-5222-55769-6,Male,21,92.31,2.55,Arts,"Stanford University, USA",Jean Beaupre,Private,2023
+203.205.158.52-10.42.0.151-80-34622-6,Male,20,81.44,3.86,Engineering,"Harvard University, USA",James Amsden,Private,2023
+10.42.0.211-66.155.99.59-39496-443-6,FeMale,22,86.77,3.35,Business,"Harvard University, USA",Stephen Pletcher,Private,2023
+173.194.68.188-10.42.0.151-5228-36766-6,Male,21,88.39,2.99,Engineering,"University of Oxford, UK",John Lahti,Private,2023
+10.42.0.211-98.139.199.204-44602-443-6,Male,22,75.24,2.03,Education,"Stanford University, USA",Grace Zamudio,Private,2023
+10.42.0.211-10.42.0.1-53031-53-17,Male,24,77.17,3.98,Business,"Massachusetts Institute of Technology (MIT), USA",Russell August,Private,2023
+172.217.12.131-10.42.0.151-443-45779-6,Male,18,75.7,3.34,Arts,"Harvard University, USA",Marguerite Walton,Private,2023
+10.42.0.211-104.94.222.37-36114-80-6,Male,24,79.4,2.63,Education,"Harvard University, USA",Marjorie Smith,Public,2023
+203.205.158.62-10.42.0.151-80-37709-6,Male,22,51.47,3.76,Business,"Harvard University, USA",Maria Holland,Private,2023
+10.42.0.211-10.42.0.1-37105-53-17,Male,22,69.78,2.52,Arts,"Stanford University, USA",Lindsay Ramirez,Private,2023
+10.42.0.211-123.125.115.164-54997-443-6,FeMale,19,80.31,3.09,Engineering,"Stanford University, USA",Harley Richards,Public,2023
+169.55.67.247-10.42.0.211-5222-60190-6,Male,19,79.89,3.27,Business,"Harvard University, USA",Andrea Asmus,Private,2023
+172.217.12.174-10.42.0.151-443-43282-6,FeMale,24,89.65,2.44,Arts,"Harvard University, USA",Stephen Petry,Public,2023
+172.217.12.202-10.42.0.211-443-56089-6,Male,23,82.75,3.96,Engineering,"Harvard University, USA",John Borel,Private,2023
+10.42.0.211-66.198.24.240-45630-80-6,Male,24,99.61,3.5,Education,"University of Oxford, UK",Alma Deen,Public,2023
+10.42.0.211-54.230.49.181-35206-443-6,Male,19,64.19,3.12,Education,"Stanford University, USA",Richard Wetherington,Private,2023
+10.42.0.151-104.254.66.16-40388-80-6,FeMale,22,67.96,2.36,Education,"Harvard University, USA",Jennifer Lamboy,Private,2023
+10.42.0.151-10.42.0.1-1428-53-17,Male,20,69.19,2.11,Education,"Stanford University, USA",Russell Workman,Public,2023
+172.217.12.142-10.42.0.211-443-33996-6,Male,24,73.29,2.64,Science,"University of Cambridge, UK",Ralph Salcedo,Private,2023
+172.217.8.3-10.42.0.211-443-60068-6,FeMale,22,91.8,3.51,Business,"Harvard University, USA",James Frazer,Private,2023
+10.42.0.151-10.42.0.1-59910-53-17,Male,20,61.79,2.54,Business,"Harvard University, USA",Bethany Castro,Private,2023
+10.42.0.211-111.206.25.159-38860-80-6,Male,20,88.8,3.08,Science,"Stanford University, USA",Philip Nejaime,Private,2023
+10.42.0.211-10.42.0.1-19085-53-17,Male,19,70.27,3.46,Arts,"Harvard University, USA",Lawrence Jaques,Private,2023
+10.42.0.211-40.79.74.185-49435-443-6,Male,24,80.09,2.22,Arts,"Stanford University, USA",William Martinez,Private,2023
+203.205.158.63-10.42.0.211-80-50845-6,Male,21,81.63,3.37,Education,"Harvard University, USA",Patsy Ferris,Public,2023
+10.42.0.211-10.42.0.1-5351-36229-17,Male,18,68.64,2.18,Engineering,"Stanford University, USA",John Gifford,Public,2023
+169.45.248.170-10.42.0.211-443-49132-6,Male,19,75.63,3.93,Arts,"Harvard University, USA",Tammy Vanhook,Public,2023
+10.42.0.211-23.23.129.231-36010-443-6,Male,19,70.65,2.98,Engineering,"Harvard University, USA",Rosa George,Private,2023
+172.217.12.174-10.42.0.211-443-54725-6,Male,21,53.46,2.3,Business,"Stanford University, USA",Casey Holsten,Private,2023
+10.42.0.211-10.42.0.1-14460-53-17,FeMale,18,71.86,2.68,Engineering,"Harvard University, USA",Kristle Peterson,Private,2023
+10.42.0.151-121.12.98.63-42089-80-6,Male,22,54.87,2.83,Business,"Harvard University, USA",Frank Kelly,Public,2023
+202.77.129.150-10.42.0.42-443-35482-6,FeMale,23,70.25,3.52,Science,"Massachusetts Institute of Technology (MIT), USA",Elsie Rawlins,Private,2023
+10.42.0.211-10.42.0.1-8961-53-17,FeMale,24,79.65,3.49,Science,"University of Oxford, UK",Michelle Milligan,Private,2023
+10.42.0.42-65.52.108.74-53053-443-6,FeMale,23,78.97,3.22,Education,"Harvard University, USA",Alan Schupp,Public,2023
+172.217.7.195-10.42.0.151-443-47860-6,FeMale,22,83.13,2.21,Arts,"Harvard University, USA",Joyce Cook,Private,2023
+10.42.0.151-13.88.145.72-46666-443-6,Male,19,54.76,2.3,Education,"Harvard University, USA",Judith Deldonno,Public,2023
+10.42.0.211-10.42.0.1-58145-53-17,FeMale,18,82.61,2.19,Business,"Massachusetts Institute of Technology (MIT), USA",Howard Routt,Public,2023
+219.142.78.162-10.42.0.211-80-57065-6,Male,19,65.61,3.15,Education,"Massachusetts Institute of Technology (MIT), USA",Kurt Pearson,Private,2023
+10.42.0.1-10.42.0.42-53-35601-17,FeMale,20,69.95,3.75,Engineering,"Harvard University, USA",Joan King,Public,2023
+10.42.0.211-10.42.0.1-13242-53-17,Male,19,92.9,2.87,Business,"California Institute of Technology (Caltech), USA",Margaret Smith,Public,2023
+10.42.0.211-23.194.140.226-48026-80-6,Male,19,50.45,2.32,Science,"Harvard University, USA",Jay Phillips,Private,2023
+10.42.0.211-23.194.141.179-48936-443-6,Male,22,79.42,3.12,Arts,"Harvard University, USA",Regina Thompson,Private,2023
+169.45.238.55-10.42.0.151-443-57301-6,Male,22,79.94,3.62,Business,"Harvard University, USA",Shannon Kabat,Private,2023
+10.42.0.1-10.42.0.42-53-12864-17,Male,22,69.83,3.48,Business,"University of Oxford, UK",Craig Dance,Private,2023
+10.42.0.151-10.42.0.1-64257-53-17,Male,23,61.85,3.76,Engineering,"Harvard University, USA",Richard Rooks,Private,2023
+10.42.0.42-106.11.92.14-37060-443-6,Male,20,61.73,2.56,Arts,"Harvard University, USA",Gary Thomas,Private,2023
+150.138.170.22-10.42.0.211-443-36374-6,Male,22,94.19,2.39,Science,"California Institute of Technology (Caltech), USA",Brittany Minelli,Private,2023
+10.42.0.211-10.42.0.1-19676-53-17,FeMale,18,72.1,3.76,Business,"Imperial College London, UK",Jon Richardson,Private,2023
+10.42.0.151-103.7.30.118-55896-80-6,FeMale,23,66.54,3.32,Business,"University of Oxford, UK",Debbie Chean,Private,2023
+203.205.147.229-10.42.0.42-80-51272-6,Male,21,72.44,2.62,Engineering,"Harvard University, USA",Scott Jackson,Public,2023
+158.85.58.119-10.42.0.211-5222-35131-6,FeMale,18,83.47,3.48,Education,"Harvard University, USA",Bob Landrum,Public,2023
+10.42.0.211-64.71.142.125-55171-443-6,FeMale,24,57.29,3.63,Science,"Stanford University, USA",Walter Irby,Private,2023
+205.185.216.10-10.42.0.211-80-33003-6,FeMale,24,72.47,3.23,Arts,"Stanford University, USA",Carol Trotman,Private,2023
+172.217.10.234-10.42.0.151-443-36017-6,Male,18,79.39,3.38,Business,"Harvard University, USA",Cindy Bolton,Private,2023
+175.100.207.206-10.42.0.211-80-35486-6,Male,22,97.43,2.75,Business,"University of Oxford, UK",Donald Porter,Private,2023
+10.42.0.211-77.234.42.92-52065-443-6,Male,21,62.63,3.08,Science,"Harvard University, USA",Marilyn Camacho,Private,2023
+172.217.10.35-10.42.0.42-443-46980-6,FeMale,21,67.96,3.05,Education,"Massachusetts Institute of Technology (MIT), USA",Jerome Bagley,Private,2023
+10.42.0.1-10.42.0.42-53-5528-17,FeMale,23,68.97,3.7,Business,"University of Oxford, UK",Rebecca Gerena,Public,2023
+10.42.0.1-10.42.0.42-53-1473-17,Male,21,80.28,3.68,Science,"Harvard University, USA",Ruben Lareau,Public,2023
+172.217.12.170-10.42.0.211-443-47135-6,Male,24,67.84,3.67,Engineering,"Harvard University, USA",Robert Coker,Private,2023
+5.61.39.3-10.42.0.42-80-57208-6,FeMale,20,76.68,2.02,Education,"Stanford University, USA",David Fugate,Private,2023
+172.217.10.138-10.42.0.151-443-43064-6,FeMale,22,89.09,3.5,Arts,"Stanford University, USA",David Wright,Private,2023
+10.42.0.211-10.42.0.1-25458-53-17,FeMale,21,85.27,3.52,Business,"Stanford University, USA",Mary Reilly,Private,2023
+10.42.0.1-10.42.0.42-53-27634-17,FeMale,23,72.32,3.36,Science,"Stanford University, USA",Sally Gumm,Public,2023
+172.217.10.234-10.42.0.151-443-51058-6,Male,24,93.21,3.51,Engineering,"Stanford University, USA",Terri Shield,Private,2023
+172.217.3.110-10.42.0.151-443-39780-6,Male,20,77.91,3.68,Arts,"Harvard University, USA",Tyler Greenhill,Private,2023
+182.254.5.234-10.42.0.151-80-48899-6,Male,19,77,2.94,Science,"Stanford University, USA",Kevin Little,Private,2023
+172.217.10.78-10.42.0.151-443-59373-6,Male,19,51.71,3,Science,"Stanford University, USA",Peggy Mcvay,Private,2023
+10.42.0.151-10.42.0.1-30293-53-17,FeMale,20,99.33,2.25,Arts,"Harvard University, USA",Elisa Santiago,Private,2023
+183.36.108.199-10.42.0.211-80-45243-6,Male,24,56.15,2.77,Engineering,"Harvard University, USA",Roger Schneider,Private,2023
+172.217.12.194-10.42.0.211-443-58393-6,Male,23,61.56,3.29,Engineering,"University of Oxford, UK",Alan Barnes,Private,2023
+216.58.219.202-10.42.0.151-443-48605-6,Male,20,52.58,3.56,Education,"Stanford University, USA",Andrea Brown,Public,2023
+10.42.0.42-52.84.1.143-33727-443-6,Male,22,82,2.43,Business,"Massachusetts Institute of Technology (MIT), USA",Debra Creech,Private,2023
+172.217.12.202-10.42.0.42-443-37751-6,FeMale,22,61.24,2.28,Arts,"Harvard University, USA",Alfred Caldwell,Private,2023
+172.217.6.206-10.42.0.151-443-56012-6,Male,19,59,3.33,Arts,"Harvard University, USA",Jess Mcknight,Public,2023
+10.42.0.211-103.235.46.211-40223-443-6,FeMale,21,54.43,2,Arts,"Harvard University, USA",Adam Schwartz,Public,2023
+10.42.0.151-31.13.71.7-39617-443-6,Male,23,55.17,2.36,Engineering,"Stanford University, USA",Judy Wilds,Public,2023
+10.42.0.211-10.42.0.1-4980-53-17,Male,19,79.23,2.06,Business,"Stanford University, USA",Michael Gomez,Public,2023
+10.42.0.211-123.134.184.156-58877-80-6,Male,21,84.41,2.33,Education,"Harvard University, USA",Bryce Gath,Public,2023
+203.205.179.172-10.42.0.211-80-40199-6,Male,21,69.87,2.36,Science,"Harvard University, USA",George Draper,Private,2023
+172.217.11.10-10.42.0.151-443-44340-6,Male,22,73.99,2.78,Science,"Harvard University, USA",Kay Trimble,Private,2023
+172.217.1.174-10.42.0.151-443-54575-6,Male,24,84.3,2.8,Arts,"University of Oxford, UK",Daniel Castillo,Private,2023
+10.42.0.151-10.42.0.1-52947-53-17,Male,18,50.87,3.75,Business,"Stanford University, USA",Alla Mccants,Public,2023
+10.42.0.211-10.42.0.1-49560-53-17,Male,24,66.16,3.02,Engineering,"Harvard University, USA",Gerald Moore,Public,2023
+202.77.129.150-10.42.0.42-80-59079-6,Male,18,98.65,3.45,Business,"Stanford University, USA",Shawna Hillhouse,Private,2023
+202.77.129.185-10.42.0.211-80-34491-6,Male,20,79.01,2.21,Business,"University of Cambridge, UK",Marie Mitchell,Private,2023
+203.205.158.44-10.42.0.151-80-39957-6,Male,22,62.71,2.45,Engineering,"Harvard University, USA",Sandra Baker,Private,2023
+239.255.255.250-10.42.0.42-1900-46751-17,Male,21,76.09,3.41,Arts,"Harvard University, USA",Larry Mills,Private,2023
+172.217.3.106-10.42.0.211-443-50817-6,Male,23,67.13,2.11,Business,"Stanford University, USA",Bill Clouser,Private,2023
+172.217.10.2-10.42.0.211-443-45174-6,Male,18,76.61,2.97,Science,"Harvard University, USA",Emanuel Nickels,Private,2023
+10.42.0.211-50.19.245.144-53778-443-6,Male,24,56.29,3.2,Engineering,"Stanford University, USA",Melodie Card,Public,2023
+10.42.0.211-52.84.29.154-52844-443-6,Male,21,56.64,3.2,Education,"Harvard University, USA",Kelly Golden,Private,2023
+10.42.0.42-119.146.74.34-52738-80-6,FeMale,18,57.18,2.05,Arts,"Harvard University, USA",Rose Cain,Public,2023
+183.3.235.80-10.42.0.42-80-46715-6,Male,18,96.99,2.64,Engineering,"Stanford University, USA",Nicole Monson,Private,2023
+10.42.0.151-104.254.66.16-55229-80-6,FeMale,18,81.86,2.49,Education,"Stanford University, USA",Susan Delung,Public,2023
+10.42.0.211-64.71.142.124-37864-443-6,Male,23,99.03,2.95,Education,"Harvard University, USA",Brandon Banks,Private,2023
+10.42.0.211-10.42.0.1-62489-53-17,Male,22,95.17,2.79,Business,"Harvard University, USA",Shannon Clark,Private,2023
+183.3.235.80-10.42.0.151-80-47475-6,FeMale,23,82.33,3.1,Business,"University of Oxford, UK",Louise Hill,Private,2023
+10.42.0.211-10.42.0.1-29634-53-17,Male,19,84.66,3.49,Business,"Stanford University, USA",Michelle Crutchfield,Private,2023
+172.217.10.74-10.42.0.151-443-46306-6,Male,21,52.58,3.43,Engineering,"Massachusetts Institute of Technology (MIT), USA",Wesley Hetzel,Private,2023
+174.36.210.51-10.42.0.211-5222-58655-6,FeMale,22,83.5,3.04,Engineering,"Harvard University, USA",Adele Hart,Private,2023
+10.42.0.151-10.42.0.1-30447-53-17,Male,22,52.21,3.64,Arts,"Harvard University, USA",Oscar Mclaren,Public,2023
+172.217.10.3-10.42.0.151-443-47624-6,Male,22,79.41,2.86,Business,"Harvard University, USA",Joseph Holbrook,Private,2023
+216.58.219.226-10.42.0.211-443-56072-6,Male,24,99.97,3.79,Education,"Stanford University, USA",Rochelle Medina,Private,2023
+10.42.0.151-10.42.0.1-2836-53-17,Male,22,77.79,2.14,Science,"Stanford University, USA",Kevin Albright,Private,2023
+10.42.0.151-10.42.0.1-12682-53-17,Male,23,73.66,3.91,Arts,"Harvard University, USA",Dorothy Rodriguez,Public,2023
+172.217.3.99-10.42.0.151-443-58181-6,Male,22,65.64,3.31,Engineering,"Harvard University, USA",Leon Wilson,Private,2023
+10.42.0.211-10.42.0.1-22276-53-17,Male,20,56.03,2.76,Arts,"Harvard University, USA",Connie Phillips,Private,2023
+10.42.0.151-36.110.213.49-37939-80-6,Male,21,86.55,2.39,Arts,"University of Oxford, UK",Marlin Schmidt,Private,2023
+10.42.0.211-10.42.0.1-65350-53-17,FeMale,22,59.63,2.96,Arts,"Stanford University, USA",Cornelius Griffiths,Private,2023
+182.22.24.124-10.42.0.151-443-43936-6,Male,21,55.76,2.39,Arts,"Harvard University, USA",Lois Smith,Public,2023
+10.42.0.211-10.42.0.1-8238-53-17,Male,20,71.09,2.33,Science,"Stanford University, USA",Gregory Thompson,Private,2023
+174.35.73.134-10.42.0.211-80-38274-6,FeMale,20,89.77,3.23,Business,"University of Cambridge, UK",Jesse Vaughan,Private,2023
+10.42.0.151-104.97.95.172-52067-80-6,Male,21,87.25,3.05,Education,"Harvard University, USA",Mikel Davy,Private,2023
+10.42.0.211-106.39.169.66-47726-443-6,Male,18,52.74,3.34,Arts,"Harvard University, USA",William Fletcher,Private,2023
+10.42.0.151-31.13.80.37-48419-443-6,Male,19,72.76,3.86,Arts,"Stanford University, USA",Tim Miller,Private,2023
+10.42.0.151-10.42.0.1-12463-53-17,FeMale,24,76.12,3.06,Arts,"Harvard University, USA",Gail Wells,Private,2023
+203.205.158.53-10.42.0.151-80-54287-6,FeMale,18,82.23,3.16,Business,"Massachusetts Institute of Technology (MIT), USA",Miriam Tuck,Public,2023
+174.129.32.117-10.42.0.211-443-60600-6,Male,18,82.51,2.18,Engineering,"Harvard University, USA",Clyde Kelly,Private,2023
+192.229.173.173-10.42.0.151-80-46765-6,Male,23,68.23,3.44,Engineering,"Harvard University, USA",Randall Haynes,Private,2023
+10.42.0.42-119.146.74.49-58768-443-6,Male,24,78.03,2.8,Science,"Stanford University, USA",David Thompson,Private,2023
+172.217.11.42-10.42.0.211-443-38786-6,Male,24,74.05,3.95,Engineering,"Harvard University, USA",Larry Harvey,Private,2023
+172.217.3.100-10.42.0.151-443-46419-6,Male,18,94.25,3.65,Arts,"Harvard University, USA",Colene Fields,Private,2023
+10.42.0.211-23.23.129.231-33526-443-6,Male,22,76.51,3.04,Arts,"Stanford University, USA",Jeffrey Kaminski,Private,2023
+157.56.52.23-10.42.0.42-40033-44878-6,Male,23,72.05,2.25,Arts,"Stanford University, USA",Esther Hiatt,Private,2023
+172.217.11.8-10.42.0.211-443-38069-6,FeMale,23,70.22,3.72,Science,"Harvard University, USA",Jaqueline Woodward,Private,2023
+10.42.0.211-103.7.30.118-38647-80-6,Male,20,78.62,3.6,Arts,"Stanford University, USA",Bernard Collins,Public,2023
+10.42.0.211-121.12.98.64-51589-80-6,Male,24,90.2,2.37,Engineering,"Harvard University, USA",James Sass,Private,2023
+216.58.219.238-10.42.0.151-443-33327-6,Male,18,76.92,2.59,Business,"Stanford University, USA",Sam Prevatte,Private,2023
+172.217.10.14-10.42.0.211-443-49503-6,Male,20,83.08,3.59,Business,"Harvard University, USA",Mary Harris,Private,2023
+174.35.73.78-10.42.0.211-443-45259-6,Male,21,86.89,2.37,Education,"Harvard University, USA",Eloise Meadows,Private,2023
+151.101.1.140-10.42.0.211-443-44570-6,FeMale,19,76.01,3.84,Engineering,"Stanford University, USA",Cecelia Miller,Public,2023
+158.85.58.102-10.42.0.211-5222-42814-6,Male,23,71.34,2.85,Arts,"Harvard University, USA",Dorothy Dodd,Public,2023
+10.42.0.211-47.89.67.240-49209-443-6,FeMale,21,93.83,2.17,Business,"Harvard University, USA",James Lancaster,Private,2023
+239.255.255.250-10.42.0.1-1900-54327-17,FeMale,21,70.88,3.63,Engineering,"Massachusetts Institute of Technology (MIT), USA",Steven Morgan,Private,2023
+10.42.0.211-31.13.71.1-59911-443-6,FeMale,22,73.1,2.75,Business,"University of Oxford, UK",Willie Tarrant,Public,2023
+10.42.0.211-54.192.36.135-45066-80-6,Male,19,99.52,3.05,Arts,"Harvard University, USA",Teri Smith,Private,2023
+10.42.0.151-10.42.0.1-21924-53-17,FeMale,21,50.01,2.22,Business,"Harvard University, USA",Michelle Murach,Public,2023
+10.42.0.42-74.125.192.188-35395-5228-6,Male,21,59.27,2.01,Education,"Harvard University, USA",Annette Reed,Private,2023
+219.142.78.217-10.42.0.211-80-51652-6,Male,19,69.2,3.28,Education,"Massachusetts Institute of Technology (MIT), USA",Marvin Prince,Private,2023
+175.100.207.206-10.42.0.211-80-35506-6,Male,19,96.63,3.03,Business,"Massachusetts Institute of Technology (MIT), USA",Philip Rizzi,Private,2023
+10.42.0.211-10.42.0.1-13095-53-17,Male,21,53.5,3.19,Engineering,"Harvard University, USA",Jackie Fletcher,Private,2023
+10.42.0.211-64.71.142.95-52993-80-6,Male,19,50.47,3.59,Engineering,"California Institute of Technology (Caltech), USA",Michael Phillips,Private,2023
+205.185.216.10-10.42.0.211-80-50114-6,Male,21,52.63,3.29,Engineering,"Harvard University, USA",James Durden,Public,2023
+172.217.12.174-10.42.0.151-443-50305-6,FeMale,21,54.43,2.35,Business,"Harvard University, USA",Harold Mimms,Private,2023
+172.217.12.195-10.42.0.151-443-60430-6,Male,22,51.88,2.72,Engineering,"Harvard University, USA",Carol Meyers,Public,2023
+172.217.11.14-10.42.0.151-443-43576-6,Male,18,73.99,3.81,Arts,"University of Oxford, UK",Charlie Schuttler,Public,2023
+202.77.129.150-10.42.0.151-80-39349-6,Male,21,79.04,3.54,Education,"Harvard University, USA",Randy Moreno,Private,2023
+172.217.3.98-10.42.0.211-443-34449-6,FeMale,20,63.58,3.11,Arts,"Harvard University, USA",Michelle Heredia,Private,2023
+157.240.18.36-10.42.0.211-443-50225-6,Male,23,69.91,2.51,Engineering,"California Institute of Technology (Caltech), USA",Guy Resendez,Public,2023
+10.42.0.211-23.23.129.231-53919-443-6,FeMale,24,54.58,2.6,Arts,"Imperial College London, UK",Raquel Henderson,Private,2023
+10.42.0.211-23.206.162.129-39561-80-6,Male,18,66.82,3.46,Engineering,"University of Oxford, UK",Gloria Waldow,Private,2023
+10.42.0.151-66.102.255.44-46535-443-6,FeMale,18,76.13,3.7,Business,"Harvard University, USA",James Walker,Private,2023
+10.42.0.211-47.89.68.225-57550-443-6,Male,18,86.61,3.34,Arts,"Harvard University, USA",Christopher Winston,Private,2023
+10.42.0.42-106.39.169.66-50140-80-6,FeMale,22,50.17,3.62,Business,"Stanford University, USA",Arthur Thompson,Public,2023
+172.217.10.46-10.42.0.151-443-54716-6,Male,21,73.37,3.53,Business,"Stanford University, USA",Susan Waters,Public,2023
+175.100.207.206-10.42.0.211-80-46327-6,Male,22,64.85,2.3,Science,"Harvard University, USA",Arthur Selby,Private,2023
+180.149.136.194-10.42.0.211-80-51675-6,Male,21,92.64,2.85,Engineering,"University of Oxford, UK",Theresa Baines,Private,2023
+192.229.173.173-10.42.0.151-80-56315-6,Male,22,85.78,2.31,Education,"Harvard University, USA",Jeffery Graham,Private,2023
+10.42.0.42-119.146.74.49-58773-443-6,FeMale,22,79.46,2.47,Engineering,"Massachusetts Institute of Technology (MIT), USA",Eva Sykes,Private,2023
+10.42.0.211-111.1.17.152-43471-8077-6,Male,23,63.86,3.74,Education,"University of Oxford, UK",Aaron Sturdivant,Private,2023
+169.55.67.229-10.42.0.211-443-48896-6,Male,20,95.52,2.95,Engineering,"Harvard University, USA",Carlton Wimberly,Public,2023
+10.42.0.1-10.42.0.42-53-6852-17,Male,22,52.26,3.07,Business,"Harvard University, USA",Nancy Bautista,Private,2023
+169.47.42.243-10.42.0.211-443-33739-6,Male,23,55.47,2.36,Arts,"Stanford University, USA",Joseph Williams,Private,2023
+10.42.0.211-52.84.37.172-34032-443-6,Male,19,69.58,2.62,Arts,"Stanford University, USA",Ruth Carrasquillo,Private,2023
+219.142.78.162-10.42.0.211-80-57093-6,Male,20,56.22,2.46,Science,"Stanford University, USA",Roslyn Barnes,Private,2023
+220.170.182.31-10.42.0.151-443-58199-6,Male,22,97.82,2.41,Education,"Stanford University, USA",Benjamin Tooms,Private,2023
+157.240.18.19-10.42.0.151-443-35523-6,Male,24,89.9,3.28,Education,"Stanford University, USA",Martha Hallock,Private,2023
+10.42.0.211-65.55.118.92-50899-80-6,Male,18,62.95,2.51,Education,"Harvard University, USA",Jillian Moore,Public,2023
+10.42.0.211-23.101.116.26-34327-443-6,FeMale,19,79.43,3.26,Business,"Stanford University, USA",Russell Murrow,Private,2023
+10.42.0.211-10.42.0.1-16371-53-17,Male,19,99.12,2.12,Education,"Stanford University, USA",Timothy Doxey,Private,2023
+169.47.5.248-10.42.0.211-443-47689-6,Male,24,94.21,2.28,Arts,"Harvard University, USA",Tom Hepner,Private,2023
+10.42.0.151-10.42.0.1-62065-53-17,Male,20,80.04,2.55,Business,"Harvard University, USA",Jackie Clark,Public,2023
+216.58.219.225-10.42.0.42-443-58078-6,Male,24,95.19,3.19,Engineering,"University of Oxford, UK",Beverly Mcconnell,Public,2023
+172.217.12.195-10.42.0.211-443-56220-6,FeMale,21,99.46,3.35,Education,"Stanford University, USA",Leroy Smith,Private,2023
+10.42.0.211-10.42.0.1-60296-53-17,Male,22,87.17,2.89,Education,"Massachusetts Institute of Technology (MIT), USA",Richard Whitman,Public,2023
+203.205.158.63-10.42.0.42-80-48934-6,FeMale,19,53.25,2.89,Engineering,"Harvard University, USA",Melissa Paci,Private,2023
+10.42.0.151-61.180.227.171-51339-80-6,Male,21,70.08,3.45,Education,"Harvard University, USA",Manuel Ellis,Public,2023
+169.47.5.250-10.42.0.211-443-50765-6,FeMale,19,91.89,2.03,Engineering,"Harvard University, USA",Phillip Oun,Private,2023
+10.42.0.211-114.134.80.163-49269-80-6,Male,23,61.53,2.68,Business,"Stanford University, USA",Robin Sinn,Private,2023
+10.42.0.211-52.52.149.36-55993-443-6,Male,20,91.53,3.64,Arts,"Stanford University, USA",James Fortenberry,Public,2023
+10.42.0.211-10.42.0.1-18645-53-17,Male,18,56.02,3.21,Engineering,"Harvard University, USA",James Edwards,Private,2023
+10.42.0.211-121.12.98.62-55466-80-6,FeMale,24,52.35,2.67,Science,"Harvard University, USA",Richard Vinson,Private,2023
+10.42.0.211-10.42.0.1-13741-53-17,FeMale,20,69.2,3.81,Engineering,"Harvard University, USA",Beverly Harris,Private,2023
+172.217.3.100-10.42.0.42-443-49612-6,Male,21,51.84,3.55,Education,"University of Oxford, UK",Magdalene Campbell,Private,2023
+172.217.10.138-10.42.0.42-443-39193-6,Male,19,97.86,2.53,Business,"Stanford University, USA",Dana Nelson,Public,2023
+10.42.0.211-10.42.0.1-35542-53-17,Male,24,91.31,3.29,Business,"Harvard University, USA",William Hernandez,Private,2023
+172.217.11.3-10.42.0.151-443-41333-6,Male,19,90.04,3.19,Engineering,"Stanford University, USA",Rafaela Kelly,Private,2023
+10.42.0.211-104.193.88.109-57242-80-6,Male,22,81.49,2.8,Arts,"University of Cambridge, UK",Shirley Loffler,Private,2023
+10.42.0.151-125.88.193.226-45352-80-6,Male,19,60.82,2.73,Science,"Harvard University, USA",Carmen Noe,Public,2023
+10.42.0.211-121.12.98.63-47447-80-6,Male,22,75.91,2.69,Business,"Stanford University, USA",Norma Weiss,Public,2023
+172.217.3.106-10.42.0.211-443-55053-6,FeMale,23,79.86,3.23,Education,"Harvard University, USA",Jessica Alston,Private,2023
+182.22.67.86-10.42.0.151-443-44750-6,Male,24,76.25,2.88,Education,"Stanford University, USA",Angela Flanagan,Public,2023
+10.42.0.211-104.88.106.16-45564-80-6,Male,24,63.01,3.66,Arts,"Harvard University, USA",Robert Garcia,Public,2023
+10.42.0.211-10.42.0.1-30870-53-17,Male,18,75.76,3.34,Business,"Harvard University, USA",Richard Rena,Public,2023
+172.217.12.195-10.42.0.151-80-57968-6,Male,21,74.56,2.14,Engineering,"Stanford University, USA",Kathern Henningsen,Private,2023
+172.217.3.106-10.42.0.211-443-51428-6,Male,22,99.82,3.28,Education,"Harvard University, USA",Elba Hull,Private,2023
+10.42.0.151-52.84.28.215-44886-443-6,Male,18,94.87,2.54,Arts,"Harvard University, USA",William Townsend,Public,2023
+10.42.0.211-69.147.82.60-35889-443-6,Male,19,64.19,3.12,Business,"Massachusetts Institute of Technology (MIT), USA",Timothy Salling,Public,2023
+183.79.248.124-10.42.0.151-80-49118-6,Male,19,67.96,2.36,Business,"University of Oxford, UK",Cora Crider,Private,2023
+10.42.0.151-31.13.65.36-55771-443-6,FeMale,18,69.19,2.11,Business,"Harvard University, USA",Jane Mangum,Private,2023
+10.42.0.211-52.84.6.107-50536-443-6,Male,24,73.29,2.64,Business,"Harvard University, USA",Elizabeth Bleich,Private,2023
+192.229.173.173-10.42.0.211-443-45039-6,Male,19,91.8,3.51,Business,"Harvard University, USA",Steve Easley,Public,2023
+183.79.250.123-10.42.0.211-443-33985-6,Male,23,61.79,2.54,Education,"Massachusetts Institute of Technology (MIT), USA",Nathan Hernandez,Public,2023
+10.42.0.42-23.194.180.131-56261-443-6,FeMale,23,88.8,3.08,Arts,"Massachusetts Institute of Technology (MIT), USA",Joseph Zepeda,Public,2023
+10.42.0.42-69.147.82.61-33347-443-6,Male,18,70.27,3.46,Business,"Harvard University, USA",Elsie Cosgrove,Private,2023
+180.149.136.247-10.42.0.42-80-49131-6,FeMale,22,80.09,2.22,Science,"California Institute of Technology (Caltech), USA",Charles Walker,Private,2023
+202.77.129.150-10.42.0.151-80-51631-6,Male,22,81.63,3.37,Science,"Harvard University, USA",Thomas Campbell,Private,2023
+10.42.0.211-118.123.114.134-54622-80-6,Male,18,68.64,2.18,Arts,"Harvard University, USA",Wanda Welch,Public,2023
+203.205.128.137-10.42.0.151-80-47809-6,Male,22,75.63,3.93,Engineering,"Harvard University, USA",Jesus Johnston,Public,2023
+10.42.0.42-37.1.203.158-47752-443-6,Male,24,70.65,2.98,Engineering,"University of Oxford, UK",Maria Martin,Private,2023
+10.42.0.211-23.203.49.224-39848-443-6,FeMale,24,53.46,2.3,Engineering,"Harvard University, USA",Lois Warren,Private,2023
+203.205.158.61-10.42.0.42-80-46665-6,Male,22,71.86,2.68,Science,"Harvard University, USA",Blaine Watson,Public,2023
+10.42.0.211-23.206.125.17-34852-80-6,Male,23,54.87,2.83,Engineering,"California Institute of Technology (Caltech), USA",Darleen Stackhouse,Public,2023
+174.35.73.174-10.42.0.211-80-59282-6,FeMale,22,70.25,3.52,Education,"Imperial College London, UK",Joe Jones,Private,2023
+172.217.5.227-10.42.0.211-80-49955-6,Male,24,79.65,3.49,Business,"University of Oxford, UK",Laura Britton,Public,2023
+10.42.0.211-106.39.162.36-47299-80-6,Male,20,78.97,3.22,Science,"Harvard University, USA",David Costantino,Private,2023
+10.42.0.211-52.2.11.128-47674-443-6,Male,21,83.13,2.21,Arts,"Harvard University, USA",Ruth Burdick,Private,2023
+10.42.0.211-52.84.37.117-57310-443-6,Male,19,54.76,2.3,Arts,"Stanford University, USA",Justin Mcgrath,Public,2023
+172.217.11.10-10.42.0.151-443-34852-6,Male,20,82.61,2.19,Business,"Stanford University, USA",Jeffrey Mccall,Public,2023
+172.217.10.10-10.42.0.42-443-39780-6,Male,22,65.61,3.15,Science,"Harvard University, USA",Felicia Tucker,Private,2023
+10.42.0.1-10.42.0.42-53-65507-17,Male,23,69.95,3.75,Engineering,"University of Oxford, UK",Cynthia Wong,Private,2023
+172.217.6.234-10.42.0.211-443-40373-6,Male,18,92.9,2.87,Engineering,"Harvard University, USA",Danielle Smith,Private,2023
+10.42.0.211-10.42.0.1-39146-53-17,FeMale,22,50.45,2.32,Education,"Massachusetts Institute of Technology (MIT), USA",Kenneth Polich,Private,2023
+172.217.12.174-10.42.0.151-443-52448-17,Male,23,79.42,3.12,Education,"University of Oxford, UK",Victor Kulick,Private,2023
+203.205.158.62-10.42.0.151-80-52949-6,Male,21,79.94,3.62,Engineering,"Harvard University, USA",Rene Sanchez,Private,2023
+203.130.53.126-10.42.0.211-80-38978-6,Male,22,69.83,3.48,Arts,"Harvard University, USA",Patricia Nash,Private,2023
+10.42.0.211-10.42.0.1-24458-53-17,Male,24,61.85,3.76,Arts,"Stanford University, USA",Nikki Todd,Private,2023
+180.149.134.221-10.42.0.211-80-45536-6,Male,18,61.73,2.56,Education,"Stanford University, USA",Marlon Barnoski,Private,2023
+216.58.219.227-10.42.0.42-443-35266-6,Male,23,94.19,2.39,Business,"Stanford University, USA",Diane Williams,Private,2023
+172.217.12.205-10.42.0.151-443-33006-6,Male,23,72.1,3.76,Engineering,"Stanford University, USA",Robert Thulin,Private,2023
+172.217.10.14-10.42.0.151-443-57703-6,Male,23,66.54,3.32,Education,"Stanford University, USA",Rosemary Pollard,Private,2023
+10.42.0.211-116.211.111.239-47192-80-6,Male,21,72.44,2.62,Education,"Harvard University, USA",Juanita Claytor,Public,2023
+10.42.0.211-106.11.95.2-60646-443-6,Male,22,83.47,3.48,Engineering,"Stanford University, USA",Pamelia Reichard,Public,2023
+169.47.40.146-10.42.0.151-5222-50195-6,Male,21,57.29,3.63,Engineering,"Stanford University, USA",Jamie Doward,Public,2023
+192.229.173.173-10.42.0.42-80-41642-6,Male,19,72.47,3.23,Arts,"Harvard University, USA",Arthur Campbell,Private,2023
+10.42.0.1-10.42.0.42-53-33235-17,Male,19,79.39,3.38,Business,"Harvard University, USA",William Harlan,Public,2023
+10.42.0.211-10.42.0.1-12336-53-17,FeMale,22,97.43,2.75,Business,"University of Oxford, UK",Christine Mansfield,Private,2023
+192.229.173.173-10.42.0.42-443-36968-6,FeMale,24,62.63,3.08,Engineering,"Stanford University, USA",Patricia Sharpe,Public,2023
+203.205.158.55-10.42.0.211-80-51543-6,Male,21,67.96,3.05,Science,"Massachusetts Institute of Technology (MIT), USA",Stephanie Jones,Private,2023
+10.42.0.211-10.42.0.1-60792-53-17,Male,18,68.97,3.7,Education,"Harvard University, USA",Dwayne Burman,Private,2023
+172.217.3.98-10.42.0.211-443-54375-6,Male,23,80.28,3.68,Education,"Harvard University, USA",Daniel Coco,Private,2023
+10.42.0.211-52.26.183.201-37036-443-6,Male,23,67.84,3.67,Engineering,"Harvard University, USA",Jessica Brewer,Private,2023
+140.205.34.4-10.42.0.211-443-56429-6,Male,22,76.68,2.02,Science,"Stanford University, USA",Holly Ownby,Public,2023
+10.42.0.211-64.71.142.124-54519-443-6,Male,24,89.09,3.5,Arts,"Stanford University, USA",Cindy Johnson,Private,2023
+180.149.138.210-10.42.0.42-80-43662-6,Male,19,85.27,3.52,Engineering,"Harvard University, USA",Jo Guerra,Public,2023
+172.217.6.238-10.42.0.42-443-49649-6,FeMale,19,72.32,3.36,Engineering,"Harvard University, USA",Rosemarie Hutchison,Private,2023
+10.42.0.211-10.42.0.1-56114-53-17,Male,23,93.21,3.51,Education,"Harvard University, USA",Kirstie Shepard,Private,2023
+10.42.0.211-10.42.0.1-63393-53-17,Male,22,77.91,3.68,Engineering,"University of Oxford, UK",Gregory Fleming,Public,2023
+10.42.0.211-23.203.49.224-57143-443-6,Male,21,77,2.94,Engineering,"Stanford University, USA",Cathy Riffle,Private,2023
+10.42.0.211-10.42.0.1-28681-53-17,Male,19,51.71,3,Engineering,"Harvard University, USA",Mary Jackson,Public,2023
+10.42.0.211-10.42.0.1-3454-53-17,Male,21,79.66,3.33,Education,"Stanford University, USA",John Smith,Private,2023
+172.217.10.42-10.42.0.151-443-45640-6,Male,24,82.51,2.02,Arts,"University of Cambridge, UK",Joan Comee,Private,2023
+192.229.163.180-10.42.0.42-443-47565-6,Male,19,73.96,2.51,Arts,"Harvard University, USA",Michelle Herrington,Private,2023
+180.149.153.234-10.42.0.211-80-52398-6,Male,19,80.79,2.52,Engineering,"Harvard University, USA",Pamela Ridley,Private,2023
+10.42.0.151-10.42.0.1-51021-53-17,FeMale,20,66.45,2.14,Education,"Stanford University, USA",Antionette Bouillon,Private,2023
+10.42.0.211-10.42.0.1-37669-53-17,Male,19,73.51,3.92,Arts,"Harvard University, USA",Frances Stevenson,Private,2023
+10.42.0.211-123.125.29.138-59845-443-6,Male,18,87.21,2.96,Arts,"Stanford University, USA",Robert Sleiman,Private,2023
+10.42.0.151-10.42.0.1-60223-53-17,Male,22,93.59,3.79,Arts,"Harvard University, USA",David Mckeever,Public,2023
+208.80.154.224-10.42.0.211-443-54903-6,Male,22,71.68,2.64,Education,"Stanford University, USA",Esther Smith,Private,2023
+10.42.0.211-23.21.95.195-34631-443-6,Male,21,52.18,2.25,Education,"Harvard University, USA",Harold Patterson,Private,2023
+203.205.158.62-10.42.0.42-80-52239-6,Male,24,58.08,2.95,Engineering,"Harvard University, USA",Rosetta Mejia,Private,2023
+172.217.11.1-10.42.0.211-443-43773-6,Male,19,51.04,2.23,Business,"Stanford University, USA",James Bell,Private,2023
+172.217.9.238-10.42.0.42-443-42151-6,Male,18,82.66,2.97,Arts,"Harvard University, USA",Suzanne Leon,Public,2023
+10.42.0.151-52.94.232.33-50931-443-6,Male,21,66.62,3.84,Business,"Harvard University, USA",Debra Bell,Private,2023
+206.126.112.141-10.42.0.42-443-53525-6,Male,20,77.12,3.04,Education,"Massachusetts Institute of Technology (MIT), USA",Sherry Gibbs,Public,2023
+10.42.0.42-115.239.210.141-47686-80-6,FeMale,21,74.66,3.23,Education,"University of Oxford, UK",David Jackson,Private,2023
+10.42.0.211-74.125.22.154-53744-443-6,FeMale,21,54.08,2.31,Education,"Harvard University, USA",Donald Greenwood,Private,2023
+180.149.136.194-10.42.0.42-443-49494-6,Male,19,70.16,2.09,Business,"Harvard University, USA",Lisa Jones,Private,2023
+162.208.22.39-10.42.0.211-443-45087-6,Male,20,61.03,2.22,Education,"Harvard University, USA",Diana Jones,Private,2023
+172.217.12.206-10.42.0.211-80-58378-6,Male,21,70.92,3.2,Engineering,"Massachusetts Institute of Technology (MIT), USA",Sandra Bushey,Private,2023
+172.217.10.106-10.42.0.211-443-59705-6,Male,18,60.18,2.19,Education,"Massachusetts Institute of Technology (MIT), USA",James Herrera,Private,2023
+151.101.20.166-10.42.0.151-443-58979-6,Male,18,92.02,2.75,Education,"Harvard University, USA",Jared Lockhart,Public,2023
+172.217.10.234-10.42.0.151-443-42206-6,FeMale,22,58.71,3.1,Arts,"California Institute of Technology (Caltech), USA",Clara Corea,Private,2023
+10.42.0.151-10.42.0.1-17449-53-17,Male,20,98.04,2.78,Arts,"Harvard University, USA",Charles Brooks,Public,2023
+216.58.219.194-10.42.0.211-443-48897-6,Male,20,70.8,2.33,Science,"Harvard University, USA",Ramon Ledbetter,Public,2023
+10.42.0.151-104.244.42.2-33835-443-6,FeMale,22,92.31,2.55,Arts,"Harvard University, USA",Josue Andre,Private,2023
+10.42.0.211-121.12.98.64-51578-80-6,FeMale,21,81.44,3.86,Engineering,"University of Oxford, UK",Irene Perry,Public,2023
+10.42.0.211-10.42.0.1-35433-53-17,Male,20,86.77,3.35,Business,"Harvard University, USA",Steven Nichols,Private,2023
+10.42.0.211-47.93.77.90-50695-80-6,Male,18,88.39,2.99,Engineering,"Harvard University, USA",Fannie Walton,Private,2023
+172.217.10.110-10.42.0.211-443-39247-6,Male,18,75.24,2.03,Education,"California Institute of Technology (Caltech), USA",Constance Wade,Public,2023
+10.42.0.151-108.174.10.10-56871-80-6,Male,19,77.17,3.98,Business,"Imperial College London, UK",Steve Carter,Private,2023
+10.42.0.151-10.42.0.1-11431-53-17,Male,20,75.7,3.34,Arts,"University of Oxford, UK",Gloria Thomas,Private,2023
+10.42.0.42-85.93.5.109-59593-80-6,Male,21,79.4,2.63,Education,"Harvard University, USA",Christina Heffernan,Private,2023
+222.73.28.96-10.42.0.211-80-36869-6,FeMale,22,51.47,3.76,Business,"Harvard University, USA",Billie Barks,Private,2023
+10.42.0.211-106.11.30.199-37183-80-6,Male,22,69.78,2.52,Arts,"Stanford University, USA",Mark Wolfgram,Public,2023
+205.185.216.42-10.42.0.151-80-53356-6,Male,21,80.31,3.09,Engineering,"Stanford University, USA",Charles Wiggins,Public,2023
+180.163.251.231-10.42.0.42-80-52078-6,Male,24,79.89,3.27,Business,"Harvard University, USA",Harvey Brown,Public,2023
+10.42.0.42-106.11.94.6-51069-443-6,Male,23,89.65,2.44,Arts,"University of Oxford, UK",Lucille Moore,Private,2023
+10.42.0.211-104.254.66.16-49779-80-6,Male,19,82.75,3.96,Engineering,"Harvard University, USA",Brenda Kelly,Private,2023
+172.217.12.163-10.42.0.211-443-42349-6,FeMale,22,99.61,3.5,Education,"Massachusetts Institute of Technology (MIT), USA",Bob Macy,Private,2023
+10.42.0.211-10.42.0.1-55230-53-17,Male,20,64.19,3.12,Education,"University of Oxford, UK",Geraldine Hutson,Private,2023
+172.217.3.106-10.42.0.211-443-48894-6,Male,19,67.96,2.36,Education,"Harvard University, USA",Cruz Ceballos,Public,2023
+10.42.0.255-10.42.0.1-8612-8612-17,FeMale,20,69.19,2.11,Education,"Harvard University, USA",Cody Paradis,Public,2023
+10.42.0.211-118.242.24.59-37960-18013-6,FeMale,24,73.29,2.64,Science,"Stanford University, USA",Frank Burns,Private,2023
+202.77.129.161-10.42.0.42-80-43022-6,FeMale,18,91.8,3.51,Business,"Stanford University, USA",Leeanna Drake,Private,2023
+10.42.0.42-104.254.66.16-40922-80-6,Male,19,61.79,2.54,Business,"Stanford University, USA",Melinda Beauchamp,Private,2023
+10.42.0.42-14.29.93.243-52858-80-6,Male,22,88.8,3.08,Science,"Stanford University, USA",Robert Crocker,Public,2023
+10.42.0.1-10.42.0.42-53-38209-17,Male,19,70.27,3.46,Arts,"Stanford University, USA",Edward Peterson,Private,2023
+10.42.0.151-106.39.169.66-42738-80-6,FeMale,19,80.09,2.22,Arts,"Harvard University, USA",Evelyn Egleston,Public,2023
+10.42.0.211-47.88.68.21-38595-443-6,Male,19,81.63,3.37,Education,"Stanford University, USA",Alice Kelley,Private,2023
+180.163.15.184-10.42.0.151-80-58229-6,Male,23,68.64,2.18,Engineering,"Stanford University, USA",Marcia King,Public,2023
+10.42.0.42-64.71.142.95-48476-443-6,Male,19,75.63,3.93,Arts,"Harvard University, USA",Patsy Fullard,Private,2023
+172.217.11.3-10.42.0.151-443-37881-6,Male,20,70.65,2.98,Engineering,"Harvard University, USA",Jose Valentine,Private,2023
+203.205.191.22-10.42.0.151-80-41128-6,Male,18,53.46,2.3,Business,"University of Oxford, UK",Amanda Singletary,Private,2023
+157.55.130.144-10.42.0.151-40019-43477-17,Male,24,71.86,2.68,Engineering,"Stanford University, USA",Isabell Patterson,Private,2023
+239.255.255.250-10.42.0.1-1900-36787-17,Male,21,54.87,2.83,Business,"Massachusetts Institute of Technology (MIT), USA",Anton Crawley,Public,2023
+157.240.18.10-10.42.0.151-443-51130-6,Male,19,70.25,3.52,Science,"Harvard University, USA",Tracy Rivera,Private,2023
+10.42.0.151-10.42.0.1-43620-53-17,Male,22,79.65,3.49,Science,"Harvard University, USA",Laura Nixon,Public,2023
+184.169.166.225-10.42.0.211-443-47386-6,Male,19,78.97,3.22,Education,"Harvard University, USA",Marjorie Caruthers,Public,2023
+10.42.0.211-103.7.30.118-57949-80-6,FeMale,22,83.13,2.21,Arts,"Stanford University, USA",Helen Rush,Private,2023
+10.42.0.1-10.42.0.42-53-5431-17,Male,20,54.76,2.3,Education,"Stanford University, USA",Margaret Evans,Private,2023
+203.205.158.62-10.42.0.151-80-42633-6,Male,22,82.61,2.19,Business,"Harvard University, USA",Cornelia Jacob,Private,2023
+10.42.0.211-106.39.169.66-49283-80-6,Male,21,65.61,3.15,Education,"Harvard University, USA",Jody Burks,Public,2023
+173.241.242.143-10.42.0.211-443-57341-6,FeMale,18,69.95,3.75,Engineering,"Harvard University, USA",Kermit Kight,Private,2023
+151.101.21.140-10.42.0.211-443-57988-6,Male,22,92.9,2.87,Business,"University of Oxford, UK",Alan Dawson,Private,2023
+10.42.0.211-10.42.0.1-19962-53-17,Male,22,50.45,2.32,Science,"Stanford University, USA",Matthew Clark,Private,2023
+172.217.12.174-10.42.0.151-443-34738-6,Male,18,79.42,3.12,Arts,"Harvard University, USA",Joel Baskett,Private,2023
+180.163.255.159-10.42.0.211-443-52184-6,FeMale,21,79.94,3.62,Business,"Stanford University, USA",Ann Jacobs,Private,2023
+10.42.0.211-10.42.0.1-47584-53-17,Male,19,69.83,3.48,Business,"University of Cambridge, UK",Richard Marchese,Private,2023
+10.42.0.211-10.42.0.1-41779-53-17,Male,22,61.85,3.76,Engineering,"Harvard University, USA",Anna Slavin,Private,2023
+10.42.0.42-106.11.129.143-52553-80-6,Male,18,61.73,2.56,Arts,"Harvard University, USA",Kathy Downin,Private,2023
+10.42.0.211-10.42.0.1-42779-53-17,Male,20,94.19,2.39,Science,"Stanford University, USA",Candace Mcallen,Public,2023
+182.22.120.245-10.42.0.211-443-48493-6,Male,18,72.1,3.76,Business,"Harvard University, USA",Michael Davies,Private,2023
+151.101.129.140-10.42.0.151-443-57670-6,Male,20,66.54,3.32,Business,"Stanford University, USA",Darrin Melton,Private,2023
+10.42.0.151-10.42.0.1-57803-53-17,FeMale,21,72.44,2.62,Engineering,"Harvard University, USA",Marie Tharp,Public,2023
+10.42.0.42-13.107.254.128-52846-443-6,Male,19,83.47,3.48,Education,"Stanford University, USA",Lorraine Young,Private,2023
+10.42.0.211-47.88.66.107-48465-80-6,FeMale,18,57.29,3.63,Science,"Harvard University, USA",Courtney Shetler,Private,2023
+151.101.118.2-10.42.0.42-443-52260-6,Male,24,72.47,3.23,Arts,"Harvard University, USA",Anthony Rozek,Private,2023
+162.208.22.39-10.42.0.211-443-58915-6,Male,24,79.39,3.38,Business,"Stanford University, USA",Stephen Reed,Private,2023
+172.217.10.106-10.42.0.42-443-41427-6,FeMale,23,97.43,2.75,Business,"Harvard University, USA",Mary Bell,Public,2023
+10.42.0.211-123.125.29.138-52978-80-6,Male,22,62.63,3.08,Science,"Harvard University, USA",Eugene Vierk,Public,2023
+172.217.9.238-10.42.0.151-443-49398-6,FeMale,21,67.96,3.05,Education,"Massachusetts Institute of Technology (MIT), USA",Tyler Ross,Private,2023
+10.42.0.211-66.198.24.250-57455-80-6,Male,18,68.97,3.7,Business,"University of Oxford, UK",Shaun Worth,Private,2023
+174.35.73.199-10.42.0.211-80-41845-6,FeMale,24,80.28,3.68,Science,"Harvard University, USA",Caroline Larson,Private,2023
+10.42.0.211-23.23.129.231-33036-443-6,Male,22,67.84,3.67,Engineering,"Harvard University, USA",Zane Taylor,Private,2023
+10.42.0.211-52.52.43.76-44578-443-6,Male,24,76.68,2.02,Education,"Harvard University, USA",Antonio Bell,Public,2023
+10.42.0.211-10.42.0.1-12092-53-17,Male,18,89.09,3.5,Arts,"Massachusetts Institute of Technology (MIT), USA",Jason Williams,Public,2023
+10.42.0.1-10.42.0.42-53-33857-17,Male,20,85.27,3.52,Business,"Massachusetts Institute of Technology (MIT), USA",Blake Mchaney,Private,2023
+172.217.11.10-10.42.0.211-443-44590-6,Male,18,72.32,3.36,Science,"Harvard University, USA",Danny Tyler,Private,2023
+10.42.0.151-23.206.162.129-34285-80-6,Male,23,93.21,3.51,Engineering,"California Institute of Technology (Caltech), USA",Charles Guignard,Private,2023
+239.255.255.250-10.42.0.1-1900-55836-17,FeMale,18,77.91,3.68,Arts,"Harvard University, USA",Lynne Unga,Private,2023
+10.42.0.211-121.12.98.63-47424-80-6,Male,18,77,2.94,Science,"Harvard University, USA",Susan Keenan,Public,2023
+10.42.0.211-123.59.190.251-44440-80-6,Male,23,51.71,3,Science,"Harvard University, USA",Tonya Jin,Public,2023
+169.47.42.235-10.42.0.42-443-49483-6,Male,21,99.33,2.25,Arts,"University of Oxford, UK",Shawn Lange,Private,2023
+157.240.18.15-10.42.0.42-443-37842-6,FeMale,18,56.15,2.77,Engineering,"Harvard University, USA",Norma Brown,Public,2023
+10.42.0.211-10.42.0.1-61966-53-17,Male,23,61.56,3.29,Engineering,"Harvard University, USA",Denisha Nadeau,Private,2023
+198.11.132.53-10.42.0.211-80-53801-6,Male,22,52.58,3.56,Education,"California Institute of Technology (Caltech), USA",Roberto Grant,Public,2023
+172.217.12.174-10.42.0.151-443-54508-6,Male,20,82,2.43,Business,"Imperial College London, UK",Mary Keenan,Private,2023
+10.42.0.211-104.254.66.16-50544-80-6,Male,20,61.24,2.28,Arts,"University of Oxford, UK",Adam Parker,Private,2023
+216.58.217.67-10.42.0.211-80-43802-6,Male,18,59,3.33,Arts,"Harvard University, USA",Gene Zelechowski,Private,2023
+10.42.0.42-104.254.66.16-38146-80-6,FeMale,21,54.43,2,Arts,"Harvard University, USA",Frances Eagen,Private,2023
+172.217.10.110-10.42.0.151-443-37859-6,Male,21,55.17,2.36,Engineering,"Stanford University, USA",Anna Busch,Public,2023
+172.217.10.67-10.42.0.211-443-39767-6,Male,22,79.23,2.06,Business,"Stanford University, USA",Ruth Reynolds,Private,2023
+10.42.0.151-106.39.169.66-43568-80-6,Male,18,84.41,2.33,Education,"Harvard University, USA",Amanda Lapage,Private,2023
+10.42.0.151-123.125.46.11-46460-80-6,Male,20,69.87,2.36,Science,"University of Oxford, UK",Tina Wallace,Private,2023
+10.42.0.211-10.42.0.1-11283-53-17,Male,21,73.99,2.78,Science,"Harvard University, USA",Brian Shannon,Private,2023
+172.217.10.110-10.42.0.151-443-36453-6,Male,18,84.3,2.8,Arts,"Massachusetts Institute of Technology (MIT), USA",Kisha Krueger,Private,2023
+10.42.0.151-10.42.0.1-25395-53-17,Male,24,50.87,3.75,Business,"University of Oxford, UK",Carolyn Phillis,Private,2023
+203.205.158.63-10.42.0.151-80-56718-6,Male,21,66.16,3.02,Engineering,"Harvard University, USA",Jeremy Brannon,Public,2023
+172.217.3.99-10.42.0.151-443-40689-6,Male,23,98.65,3.45,Business,"Harvard University, USA",Angela Adams,Private,2023
+174.35.73.93-10.42.0.211-443-35571-6,FeMale,24,79.01,2.21,Business,"Stanford University, USA",Lee Abernathy,Private,2023
+10.42.0.1-10.42.0.42-53-26432-17,Male,21,62.71,2.45,Engineering,"Stanford University, USA",Michelle Brockway,Public,2023
+172.217.12.174-10.42.0.151-443-54508-6,FeMale,20,76.09,3.41,Arts,"Stanford University, USA",Robert Compton,Private,2023
+10.42.0.211-119.146.74.33-47234-443-6,FeMale,19,67.13,2.11,Business,"Stanford University, USA",Alexis Koch,Public,2023
+203.205.158.52-10.42.0.42-80-47428-6,Male,24,76.61,2.97,Science,"Stanford University, USA",Blanche Terry,Public,2023
+180.149.136.247-10.42.0.211-80-59045-6,Male,22,56.29,3.2,Engineering,"Harvard University, USA",Thomas Pullen,Private,2023
+10.42.0.151-23.192.21.115-37392-443-6,Male,22,56.64,3.2,Education,"Stanford University, USA",Dirk Tortora,Private,2023
+192.229.163.180-10.42.0.211-443-37024-6,Male,20,57.18,2.05,Arts,"Stanford University, USA",Lisa Henderson,Public,2023
+180.76.147.76-10.42.0.211-80-37284-6,Male,21,96.99,2.64,Engineering,"Harvard University, USA",Jesse Hisle,Private,2023
+202.77.129.150-10.42.0.211-80-34468-6,Male,18,81.86,2.49,Education,"Harvard University, USA",Nathaniel Savage,Public,2023
+10.42.0.211-10.42.0.1-35245-53-17,Male,21,99.03,2.95,Education,"University of Oxford, UK",Audrey Maxwell,Public,2023
+10.42.0.211-47.88.68.21-38595-443-6,FeMale,20,95.17,2.79,Business,"Stanford University, USA",Joseph Lam,Private,2023
+10.42.0.42-104.193.88.109-53640-80-6,Male,22,82.33,3.1,Business,"Massachusetts Institute of Technology (MIT), USA",Kyle Summers,Private,2023
+10.42.0.211-125.39.133.40-45695-80-6,Male,21,84.66,3.49,Business,"Harvard University, USA",Sandra Gosselin,Private,2023
+10.42.0.211-23.21.150.201-58997-443-6,FeMale,22,52.58,3.43,Engineering,"Harvard University, USA",Donald Chauarria,Private,2023
+10.42.0.151-10.42.0.1-1637-53-17,FeMale,24,83.5,3.04,Engineering,"Harvard University, USA",Harriet Sanchez,Public,2023
+172.217.8.4-10.42.0.211-443-58673-6,Male,18,52.21,3.64,Arts,"Stanford University, USA",Laquita Parker,Public,2023
+10.42.0.211-10.42.0.1-47619-53-17,Male,24,79.41,2.86,Business,"Stanford University, USA",Jo Mazon,Public,2023
+10.42.0.211-10.42.0.1-48917-53-17,Male,22,99.97,3.79,Education,"Harvard University, USA",Kathleen Simons,Private,2023
+10.42.0.211-31.13.80.52-42522-443-6,Male,22,77.79,2.14,Science,"Harvard University, USA",Mark Chiasson,Private,2023
+10.42.0.211-10.42.0.1-30870-53-17,Male,19,73.66,3.91,Arts,"Harvard University, USA",Daniel Hall,Public,2023
+180.149.138.197-10.42.0.211-80-50567-6,Male,19,65.64,3.31,Engineering,"University of Oxford, UK",Leo Hale,Private,2023
+182.254.5.234-10.42.0.211-80-56473-6,Male,24,56.03,2.76,Arts,"Stanford University, USA",Willard Hartis,Private,2023
+10.42.0.211-119.146.74.34-46249-80-6,Male,23,86.55,2.39,Arts,"Harvard University, USA",Rex Ware,Private,2023
+10.42.0.151-125.39.133.40-34935-80-6,Male,24,59.63,2.96,Arts,"Stanford University, USA",Larry Sharp,Private,2023
+172.217.6.234-10.42.0.42-443-45539-6,Male,19,55.76,2.39,Arts,"University of Cambridge, UK",Michael Bolyard,Private,2023
+10.42.0.151-72.21.207.148-35457-443-6,Male,22,71.09,2.33,Science,"Harvard University, USA",James Gilmore,Public,2023
+180.149.153.234-10.42.0.211-80-57420-6,FeMale,20,89.77,3.23,Business,"Harvard University, USA",Ann Browning,Private,2023
+10.42.0.211-10.42.0.1-55980-53-17,Male,24,87.25,3.05,Education,"Stanford University, USA",Kenneth Baird,Private,2023
+180.149.134.221-10.42.0.211-80-41337-6,Male,22,52.74,3.34,Arts,"Harvard University, USA",Elaine Martinez,Private,2023
+10.42.0.1-10.42.0.42-53-9223-17,Male,20,72.76,3.86,Arts,"Stanford University, USA",Leola Rufi,Public,2023
+10.42.0.42-104.244.43.163-59118-443-6,FeMale,20,76.12,3.06,Arts,"Harvard University, USA",Steven Brewer,Public,2023
+10.42.0.1-10.42.0.42-53-32175-17,Male,19,82.23,3.16,Business,"Harvard University, USA",Robert Mcnelis,Public,2023
+172.217.10.142-10.42.0.211-80-56708-6,Male,24,82.51,2.18,Engineering,"Stanford University, USA",Sheldon Beasley,Public,2023
+10.42.0.211-10.42.0.1-18879-53-17,Male,21,68.23,3.44,Engineering,"Stanford University, USA",Matthew Davenport,Private,2023
+172.217.10.142-10.42.0.211-443-37278-6,Male,18,78.03,2.8,Science,"Harvard University, USA",Charlotte Proffitt,Public,2023
+219.142.78.162-10.42.0.211-443-35568-6,Male,19,74.05,3.95,Engineering,"Harvard University, USA",Melanie Blume,Public,2023
+151.101.21.140-10.42.0.211-80-37656-6,FeMale,19,94.25,3.65,Arts,"University of Oxford, UK",Joe Speaks,Private,2023
+203.130.53.126-10.42.0.42-80-33323-6,Male,21,76.51,3.04,Arts,"Stanford University, USA",Mary Hicks,Private,2023
+192.229.173.173-10.42.0.211-80-44238-6,Male,18,72.05,2.25,Arts,"Massachusetts Institute of Technology (MIT), USA",Mozelle Chestnut,Public,2023
+10.42.0.211-64.71.142.110-42468-443-6,FeMale,22,70.22,3.72,Science,"Harvard University, USA",Jason Marshall,Public,2023
+172.217.9.234-10.42.0.211-443-44773-6,FeMale,23,78.62,3.6,Arts,"Harvard University, USA",Joseph Elliott,Private,2023
+172.217.10.234-10.42.0.211-443-56196-6,Male,24,90.2,2.37,Engineering,"Harvard University, USA",Marcy Mccain,Public,2023
+10.42.0.151-31.13.71.3-52362-443-6,Male,23,76.92,2.59,Business,"Stanford University, USA",Israel Blanchard,Private,2023
+10.42.0.211-103.43.91.18-56406-443-6,Male,22,83.08,3.59,Business,"Stanford University, USA",Thomas Leblanc,Private,2023
+10.42.0.42-104.192.110.245-41840-80-6,Male,19,86.89,2.37,Education,"Harvard University, USA",Cathy Mitchell,Private,2023
+203.205.158.61-10.42.0.42-80-53996-6,Male,18,76.01,3.84,Engineering,"Harvard University, USA",David Prior,Private,2023
+10.42.0.42-88.212.201.195-54591-443-6,Male,19,71.34,2.85,Arts,"Harvard University, USA",Ruth Strain,Private,2023
+10.42.0.211-64.71.142.96-60181-443-6,Male,20,93.83,2.17,Business,"University of Oxford, UK",Barbara Balmes,Private,2023
+209.10.120.26-10.42.0.211-80-50692-6,FeMale,19,70.88,3.63,Engineering,"Stanford University, USA",Richard Rodriguez,Private,2023
+10.42.0.211-64.71.142.110-44368-443-6,FeMale,19,73.1,2.75,Business,"Harvard University, USA",Richard Grosso,Private,2023
+10.42.0.151-23.74.67.241-40245-80-6,Male,22,99.52,3.05,Arts,"Stanford University, USA",James Strackbein,Public,2023
+169.54.129.41-10.42.0.151-443-32814-6,Male,22,50.01,2.22,Business,"University of Cambridge, UK",Joseph Vincent,Private,2023
+172.217.11.10-10.42.0.151-443-50647-6,Male,22,59.27,2.01,Education,"Harvard University, USA",Jacquelyn Malinowski,Private,2023
+10.42.0.1-10.42.0.42-53-19950-17,Male,23,69.2,3.28,Education,"Harvard University, USA",Marcus Blaise,Private,2023
+172.217.10.110-10.42.0.151-443-38429-17,Male,20,96.63,3.03,Business,"Stanford University, USA",Lois Martin,Public,2023
+203.205.158.61-10.42.0.211-80-59889-6,FeMale,22,53.5,3.19,Engineering,"Harvard University, USA",Marilyn Wagner,Private,2023
+10.42.0.211-10.42.0.1-29598-53-17,Male,18,50.47,3.59,Engineering,"Massachusetts Institute of Technology (MIT), USA",Scott Nicola,Public,2023
+172.217.6.238-10.42.0.151-443-47981-6,Male,23,52.63,3.29,Engineering,"Harvard University, USA",Wendy Schmitz,Private,2023
