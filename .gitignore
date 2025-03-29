@@ -1,0 +1,4 @@
+.venv1/
+flask_app/models/*.pkl
+Data/*.csv
+flask_app/static/visualizations/*.png
